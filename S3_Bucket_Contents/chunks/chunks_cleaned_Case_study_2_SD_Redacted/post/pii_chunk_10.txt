@@ -1,0 +1,230 @@
+otrin)
+400 mg, TAB, PO. Q8H (Every 8 hours). PRN Pain,
+Mild, [DATE] 15:15:00 CDT, [DATE] 15:15:00
+CDT
+ibuprofen
+
+PDF Page 32
+123
+10:55:24 a.m.
+6/30/2023
+[DATE]
+Flowsheet Print Request
+Patient:
+Printed by:
+MRN
+Date Range: 6/30/2023 09:19 - 6/30/2023 09:19
+Printed on: 6/30/2023 09:19
+Medications
+6/30/2023
+6/30/2023
+6/30/2023
+6/30/2023
+6/30/2023
+20:59
+20:41
+17:00
+16:30
+16:00
+Location of Pain
+Pain Site
+Acute Pain Score
+Acute Pain Goal
+Chronic Pain Score
+Chronic Pain Goal
+Wong-Baker FACES Pain Rating Scale
+Richmond Agltation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+9
+PRN
+loperamide (Imodium A-D)
+4 mg, CAP, PO, Q6H (Every 6 hours), PRN as
+needed for loose stool, [DATE] 10:13:00 CDT,
+[DATE] 10:13:00 CDT
+loperamide
+/8
+PRN
+LORazepam
+1 mg, INJ. IM, Q6H (Every 6 hours), PRN as needed
+for anxiety, [DATE] 1:22:00 CDT
+Give this medication ONLY If patient cannot toler
+LORazepam
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+8
+to
+PRN
+LORazepam
+1 mg, TAB, PO, Q8H (Every 8 hours), PRN as
+needed for anxiety, [DATE] 1:22:00 CDT
+LORazepam
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+KE
+PRN
+magnesium hydroxide
+2.4 GM, SUSP, PO, Daily, PRN Constipation,
+[DATE] 1:22:00 CDT, (Milk of Magnesia)
+magnesium hydroxide
+Med Responses
+PRN
+ondansetron (Zofran ODT)
+4 mg, DIS Tablet, PO, Q8H (Every 8 hours), PRN
+Nausea/Vomiting [DATE] 10:14:00 CDT,
+[DATE] [DATE] CDT
+ondansetron
+Med Responses
+
+PDF Page 33
+123
+10:55:43 a.m.
+6/30/2023
+33/42
+Flowsheet Print Request
+Patient:
+Printed by:
+MRN:
+Date Range: 6/30/2023 09:19 - 6/30/2023 09:19
+Printed on: 6/30/2023 09:19
+Medications
+6/30/2023
+6/30/2023
+6/30/2023
+13:46 12:46 12:13
+Scheduled
+amLODIPine
+10 mg, TAB, PO, Daily, [DATE] 11:13:00 CDT
+At home, patient was taking medication with
+amlodipine
+benzocaine topical (Orajel)
+1 APP, GEL, TOP, 4 times a day, [DATE] 17:00:00
+CDT
+benzocaine topical
+cadexomer iodine topical (cadexomer jodine see
+0.9, GEL, TOP, Daily, [DATE] 9:00:00 CDT
+Cleanse the wounds with NS, pat dry, apply lodos..
+cadexomer-iodine topical
+8
+doxycycline (doxycycline monohydrate)
+100 mg, CAP, PO, BID (2 times a day), Other-Enter
+in Order Comments, [DATE] 11:15:00 CDT, Stop
+date [DATE] 9:00:00 CST
+doxycycline
+8
+ferrous sulfate
+325 mg, TAB, PO, Daily, [DATE] 11:20:00 CDT
+ferrous sulfate
+fluticasone nasal
+100 mcg, SPRAY, Nasal, Daily, [DATE] 11:23:00
+CDT
+fluticasone nasal
+/8
+haloperidol (Haldol Decanoate)
+100 mg, INJ, IM, Q4WEEK (Every 4 weeks),
+[DATE] 7:18:00 CDT
+--- At home. patient was taking medication with
+haloperidol
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+8
+haloperidol (Haldol)
+10 mg, TAB, PO, BID (2 times a day), [DATE]
+9:00:00 CDT
+haloperidol
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+
+PDF Page 34
+123
+10:56:01 a.m. 6/30/2023
+34/42
+Flowsheet Print Request
+Patient
+Printed by:
+MRN:
+Date Range: 6/30/2023 09:19 - 6/30/2023 09:19
+Printed on: 6/30/2023 09:19
+6/30/2023
+6/30/2023
+6/30/2023
+Medications
+13:46
+12:46
+12:13
+18
+Insulin glargine
+50 Unit, INJ, Subcut, Daily, [DATE] 21:00:00 CDT
+At home, patient was taking medication with
+insulin glargine
+Blood Glucose, MAR
+2nd Clinician Verification Before Admin
+Insulin lispro
+18 Unit, INJ, Subcut, TIDAC (3 times a day before
+meals), [DATE] 10:00:00 CDT
+--- At home. patient was taking medication with ..
+insulin lispro
+18 Unit Auth (V
+Blood Glucose, MAR
+2nd Clinician Verification Before Admin
+N/A U-100 ins
+lisinopril
+10 mg, TAB, PO, Daily, [DATE] 11:14:00 CDT
+---
+At home, patient was taking medication with 400
+disinopril
+metFORMIN
+1,000 mg, TAB, PO, BID (2 times a day), [DATE]
+10:00:00 CDT
+At home. patient was taking medication with
+metFORMIN
+OLANZapine
+20 mg, TAB, PO, QHS (At bedtime), [DATE]
+21:00:00 CDT
+At home, patient was taking medication with -
+olanzapine
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+PRN
+PRN
+acetaminophen
+650 mg, TAB, PO, Q6H (Every 6 hours), PRN Pain,
+[DATE] 10:12:00 CDT, [DATE] 10:12:00 CDT
+At home, patient was taking medication with -
+acetaminophen
+* 650 mg Auth (
+Location of Pain
+Pain Site
+Acute Pain Score
+9 Auth (Verified
+Acute Pain Goal
+Chronic Pain Score
+Chronic Pain Goal
+Wong-Baker FACES Pain Rating Scale
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+Med Response ,
+
+PDF Page 35
+123
+10:56:22 a.m.
+6/30/2023
+35/42
+Flowsheet Print Request
+Patient
+Printed by:
+MRN:
+Date Range: 6/30/2023 09:19 - 6/30/2023 09:19
+Printed on: 6/30/2023 09:19
+6/30/2023
+6/30/2023
+6/30/2023
+Medications
+13:46
+12:46
+12:13
+PRN
+alb

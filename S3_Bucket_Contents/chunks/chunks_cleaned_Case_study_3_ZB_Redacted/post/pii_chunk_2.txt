@@ -1,0 +1,295 @@
+ INTERVENTIONAL LABS
+Family History
+Problem
+Relation
+Age of Onset
+Breast Cancer
+Neg Hx
+Ovarian Cancer
+Neg Hx
+Uterine Cancer
+Neg Hx
+Social History
+Socioeconomic History
+
+PDF Page 5
+Marital status:
+Widowed
+Tobacco Use
+Smoking status:
+Never
+Smokeless tobacco:
+Never
+Vaping Use
+Vaping Use:
+Never used
+Substance and Sexual Activity
+Alcohol use:
+No
+Drug use:
+No
+Sexual activity:
+Defer
+Social History Narrative
+Number of pregnancies - 8
+Number of miscarriages - 4
+Age at menarche - [AGE]
+Age at first live birth - [AGE]
+Breast feed children - Yes
+Hysterectomy - Yes
+Oophorectomy - Yes (both)
+Menstruating regularly - No
+Currently taking birth control pills - No
+Ever taken birth control pills - No
+Menopause - Yes
+Currently taking hormone replacement therapy - No
+Ever taken hormone replacement therapy - No
+Prior breast biopsies - No
+Social Determinants of Health
+Food Insecurity: Low Risk (6/30/2023)
+Food Insecurity
+Have there been times that your food ran out and you didn't have money to get
+more? : No
+Have there been any times recently that you worried whether your food would run out
+before you got money to buy more?: No
+Transportation Needs: Low Risk (6/30/2023)
+Transportation Needs
+Do you have trouble getting transportation to medical appointments?: No
+Housing Stability: Low Risk (6/30/2023)
+Housing Stability
+Are you concerned about having a safe and reliable place to live?: No
+No Known Allergies
+Home medications:
+Medications Prior to Admission
+Medication
+Sig
+Dispense Refill Last Dose
+acetaminophen 325 mg
+Take 2 tablets by
+30 tablet
+0
+Unknown
+tablet
+mouth every 4
+PDF Page 6
+(four) hours as
+needed.
+
+PDF Page 7
+apixaban (ELIQUIS DVT-PE
+Take 2 tablets (10
+74 tablet
+0
+10/[AGE]/2023
+TREAT 30D START) 5 mg
+mg total) by mouth
+(74 tabs) tablets, dose pack
+2 (two) times a
+day for 7 days,
+then take 1 tablet
+(5 mg total) by
+mouth 2 (two)
+times a day
+carboxymethylcellulose-gl
+1 drop if needed.
+6/30/2023
+ycern (REFRESH OPTIVE)
+0.5-0.9 % Drops
+cyanocobalamin (VITAMIN
+Take 1 tablet by
+6/30/2023
+B-[AGE]) 1,000 mcg tablet
+mouth daily.
+ELIQUIS 5 mg Tablet
+6/30/2023
+famotidine 20 mg tablet
+Take 1 tablet by
+6/30/2023
+mouth daily.
+hydroxyurea 500 mg capsule Take 1 capsule by 60 capsule
+2
+6/30/2023
+mouth 2 (two)
+times daily.
+latanoprost 0.005 %
+Place 1 drop into
+6/30/2023
+ophthalmic solution
+both eyes every
+evening before
+dinner.
+losartan 25 mg tablet
+Take 1 tablet by
+6/30/2023
+mouth daily.
+mv-mn/iron/folic acid/herb
+Take by mouth.
+6/30/2023
+[AGE]0 (VITAMIN D3
+COMPLETE ORAL)
+simvastatin 10 mg tablet
+Take 1 tablet by
+6/30/2023
+mouth nightly.
+Indications:
+combination with
+potassium
+traMADoL 50 mg tablet
+Take 1 tablet by
+6/30/2023
+mouth every 6 (six)
+hours as needed
+for pain.
+OBJECTIVE
+Vitals:
+[DATE] [AGE]35
+[DATE] [AGE]45
+[DATE] 1300
+BP:
+108/59
+110/59
+105/54
+Pulse:
+66
+62
+62
+Resp:
+15
+17
+15
+Temp:
+TempSrc:
+SpO2:
+93%
+96%
+100%
+Weight:
+Height:
+Gen: Well groomed, no acute distress
+
+PDF Page 8
+HEENT: anicteric sclerae, mmm
+Neck: supple,trachea midline
+CV: rrr, no m/r/g
+Lungs: no increased wob, ctab
+Abdomen: dressings W small amount of serosanguinous staining, jp drain W serosanguinous
+fluid, +bs, nondistended, soft,no guarding/rigidity
+Ext: BUE no cyanosis or clubbing, no edema; BLE no edema
+Skin:warm, normal turgor, no obvious rashes, petechiae or lesions
+Neuro: EOMI, smile symmetric, speech fluent, squeezes hands b/l, wiggles feet b/l
+Psych: Alert and oriented x3, ,normal affect
+LABS
+Recent Labs
+Lab
+[DATE]
+1037
+HGB
+8.8*
+Latest
+[DATE]
+Reference
+10:37
+Range &
+Units
+pH, Arterial Blood
+7.34
+pCO2, Arterial
+35.0 - 45,0
+38.7
+mm Hg
+pO2, Arterial
+[AGE].0 105.0
+290.0 (HH)
+mm Hg
+HCO3, Arterial
+22 26
+21 (L)
+mmol/L
+Sodium, Whole Blood Gas
+138 - 146
+141
+mEq/L
+Potassium Bld Gas
+3.5 4.9
+3.8
+mEq/L
+CTCO2 Arterial POC
+23.0 - 27.0
+22.0 (L)
+mmol/L
+CSO2, Arterial POC
+95 98%
+100 (H)
+(HH): Data is critically high
+(L): Data is abnormally low
+(H): Data is abnormally high
+Latest
+[DATE]
+Reference
+14:21
+Range &
+Units
+WBC
+3.6 10.2
+6.1
+10^3/uL
+
+PDF Page 9
+RBC
+(Based on
+2.52 (L)
+documented
+legal sex)
+4. 10-5.30
+10^6/uL
+HGB
+(Based on
+10.6 (L)
+documented
+legal sex)
+11.9-15.8
+g/dL
+HCT
+(Based on
+32.0 (L)
+documented
+legal sex)
+37.4-48.3 %
+MCV
+82.0 - 99.0 fL
+[AGE]7.0 (H)
+MCH
+27.0 - 33.0 pg
+42.1 (H)
+MCHC
+32.0 - 36.0
+33.1
+g/dL
+RDW
+11.0 - 15.0 %
+[AGE].1
+PLT
+150 - 450
+[AGE]8
+10^3/uL
+MPV
+9.8 - [AGE].7 fL
+9.1 (L)
+Nucleated RBCs
+0 %
+0.0
+Instrument Absolute
+1.1 6.0
+3.4
+Neutrophil Count
+10^3/uL
+(L): Data is abnormally low
+(H): Data is abnormally high
+Latest
+[DATE]
+Reference
+14:21
+Range &
+Units
+Sodium
+133 14

@@ -1,0 +1,220 @@
+6
+142
+mmol/L
+Potassium
+3.5 5.1
+4.6
+mmol/L
+Chloride
+98 107
+106
+mmol/L
+CO2
+21 31
+27
+mmol/L
+Calcium
+8.3 10.5
+9.6
+mg/dL
+Bun
+7 - 25 mg/dL
+18
+Creatinine
+0.60 1.30
+0.84
+mg/dL
+
+PDF Page 10
+Glucose
+70 - 100
+106 (H)
+mg/dL
+ALT (SGPT)
+9 - 43 units/L
+14
+AST (SGOT)
+13 - 39 units/L
+[AGE]
+Albumin
+3.5-5.0 - g/dL
+4.5
+Alkaline Phosphatase
+34 - 104
+50
+units/L
+Bilirubin Total
+0.2 - 1.2
+0.3
+mg/dL
+Total Protein
+6.4 - 8.3 g/dL
+7.3
+Anion Gap
+4 - 13 mmol/L
+9
+eGFRcr (CKD-EPI 2021)
+>=60
+70
+mL/min/1.73
+m²
+(H): Data is abnormally high
+EKG:
+[DATE] nsr W incomplete rbbb
+IMAGING:
+[DATE] CXR
+FINDINGS/
+IMPRESSION:
+1. Patchy opacity in the peripheral right lower lobe may represent atelectasis, chronic
+parenchymal scarring or focal pneumonia in the proper clinical setting. No pneumothorax.
+No pleural effusion.
+2. Normal heart size. Atherosclerotic tortuosity of the thoracic aorta.
+3. No acute osseous abnormality. There is an IVC filter.
+[DATE] CT ABD/PELV
+Again seen is a complex pelvic mass at and slightly to the right of midline, now measuring
+11.4 cm anteroposterior, 10 cm transverse, and 11.5 cm craniocaudal, previously 14.5 X 11.4
+X 11.2 cm when using similar measurement technique. Although there is interval decrease in
+size, this appears to represent decrease in the cystic component, as there is increasing
+mural and septal nodularity and thickening compared to previous imaging. Finding is
+consistent with ovarian neoplasm. Degree of mass effect on the left common iliac vein is
+decreased compared to the prior study.
+IMPRESSION:
+1. Complex cystic and solid mass in the pelvis as detailed above, suspicious for ovarian
+neoplasm. Since previous imaging, the mural/septal nodularity and wall thickening appear
+increased.
+2. Asymmetrically smaller left common and external iliac veins, consistent with sequela of
+prior thrombus. No acute deep vein thrombus is identified.
+ASSESSMENT/PLAN:
+is a [AGE] y.o. F with a history of essential thrombocytosis, DVT, PE s/p IVC filter,
+B[AGE] deficiency anemia, pelvic mass, admitted 6/30/2023 s/p exlap, R oophrecotmy, LOA,
+omentectomy.
+
+PDF Page 11
+s/p exlap, R oophrecotmy, LOA, omentectomy
+- management per [PHI]
+H/o essential thrombocytosis
+- continue hydroxyurea
+- f/u W Dr. [NAME]
+H/o DVT, PE, IVC filter
+- hold AC, AP, NSAID 2/2 post op bleeding concerns
+- pt to f/u W IR as outpatient for IVC filter removal
+B [AGE] deficiency anemia
+- continue B[AGE]
+Glaucoma
+- continue latanoprost
+Hospital Medicine Checklist 6/30/2023
+DVT prophylaxis: scd
+CVC/Foley: Yes
+AM Labs: Yes
+IV fluids: Yes
+Tele: No
+Expected Discharge Date: 3 days
+Provider, External () 6/30/2023 13:43
+Document on 6/30/2023 1:43 PM by
+Progress Notes Last 48hrs (Notes from 6/30/2023 1:59 PM through 6/30/2023
+1:59 PM)
+Notes from 6/30/2023 1:59 PM through 6/30/2023 1:59 PM
+Progress Notes by
+PA-C at 6/30/2023 9:48 AM
+Version 1 of 1
+Author:
+PA-C
+Service: [PHI]
+Author Type: Physician Assistant
+Filed: 6/30/2023 9:54 AM
+Date of Service: 6/30/2023 9:48 Status: Cosign Needed
+AM
+Editor:
+PA-C (Physician Assistant)
+Cosign Required: Yes
+Gynecologic Oncology Progress Note
+Subjective:
+Surgery Date: 6/30/2023
+POD: 2 Days Post-Op
+Surgery: Procedure(s):
+Exploratory laparotomy, right oopohorectomy, pelvic and paraaortic lymphadenectomy,
+infragastric omentectomy, right ureterolysis, extensive lysis of adhesions
+Interval History:
+
+PDF Page [AGE]
+Patient sitting up in chair, family at bedside. VSS, afebrile. Labs stable, hgb 8.5. JP with
+350cc overnight, SSG output. Voiding spontaneously, adequate UOP. Some nausea this
+morning but relieved with Zofran. Otherwise, tolerating diet. Denies flatus. Pain overall well
+controlled with PO meds. Due to ambulate.
+Objective:
+Scheduled Meds:
+Current Facility-Administered Medications
+Medication
+Dose
+Route
+Frequency
+acetaminophen
+650
+Oral
+4x Daily
+(TYLENOL) tablet mg
+650 mg
+[START ON
+10 mg Rectal
+Once
+6/30/2023]
+bisacodyL
+(DULCOLAX)
+suppository 10 mg
+cyanocobalamin
+1,000
+Oral
+Daily
+tablet 1,000 mcg
+mcg
+famotidine
+20 mg Oral
+BID
+(PEPCID) tablet
+20 mg
+heparin (porcine)
+5,000
+Subcutaneous
+TID
+injection 5,000
+Units
+Units
+hydroxyurea
+500
+Oral
+BID
+(HYDREA)
+mg
+capsule 500 mg
+latanoprost
+1 drop Both Eyes
+QPM
+(XALATAN) 0.005
+% ophthalmic
+solution 1 drop
+pravastatin
+20 mg Oral
+Nightly
+(PRAVACHOL)
+tablet 20 mg
+senna-docusate
+2
+Oral
+BID
+(PERICOLACE)
+tablet
+8.6-50 mg per
+tablet 2 tablet
+Continuous Infusions:
+Current Facility-Administered Medications
+Medication
+Dose
+Route
+Frequency
+Lactated Ringers
+IV Infusion
+Continuous
+Lactated Ringers
+IV Infusion
+Continuous
+PRN M

@@ -1,0 +1,233 @@
+ 1,000 mcg
+mcg
+
+PDF Page 16
+[Held by Provider] 40 mg Subcutaneous
+Daily
+enoxaparin
+(LOVENOX)
+injection 40 mg
+famotidine
+20 mg Oral
+BID
+(PEPCID) tablet
+20 mg
+hydroxyurea
+500
+Oral
+BID
+(HYDREA)
+mg
+capsule 500 mg
+latanoprost
+1 drop Both Eyes
+QPM
+(XALATAN) 0.005
+% ophthalmic
+solution 1 drop
+pravastatin
+20 mg Oral
+Nightly
+(PRAVACHOL)
+tablet 20 mg
+senna-docusate
+2
+Oral
+BID
+(PERICOLACE)
+tablet
+8.6-50 mg per
+tablet 2 tablet
+Continuous Infusions:
+Current Facility-Administered Medications
+Medication
+Dose
+Route
+Frequency
+Lactated Ringers
+IV Infusion
+Continuous
+Lactated Ringers
+IV Infusion
+Continuous
+Lactated Ringers
+IV Infusion
+Continuous
+PRN Meds: benzocaine- menthol (CEPACOL) sore throat, diphenhydrAMINE,
+diphenhydrAMINE, HYDROmorphone, metoclopramide, ondansetron (PF) **OR**
+ondansetron-ODT, polyvinyl alcohol, prochlorperazine, simethicone, traMADoL
+Allergies: Patient has no known allergies.
+Temperature: [97.1 °F (36.2 °C)-98.9 °C)
+Heart Rate: [52-77] 7 77
+Respirations: [14-18] 16
+Blood Pressure: (92-117)/(43-59) 103/43
+SpO2: [90 %-100 %] 97 %
+$ O2 Flow Rate (L/min): [1 L/min-2 L/min] 1 L/min
+Intake/Output:
+I/O last 3 completed shifts:
+In: 3628.7 [P.O.:360; I.V.:2768.7; IV Piggyback:500]
+Out: 1475 [Urine:675; Drains:300; Blood:500]
+Physical Exam:
+General: This woman is in no distress appearing comfortable, she is alert and oriented and
+responds appropriately to questions.
+HEENT: moist mucous membranes, no thrush
+Lungs are clear to auscultation bilaterally with normal chest excursions.
+Cardiovascular examination reveals RRR, without S3 or rub.
+
+PDF Page 17
+Abdomen is soft, nontender, nondistended without hepatosplenomegaly. She has no
+evidence of hernia, mass or ascites. + BS X 4. JP drain with SSG output, 75cc emptied
+Extremities are without cyanosis, clubbing or edema.
+Neuro exam is grossly nonfocal.
+Wound Description: midline incision with island dressing in place, stained with light pink
+drainage
+Data Review:
+HEM:
+Recent Labs
+Lab
+[DATE]
+[DATE]
+1037
+0438
+WBC
+--
+9.0
+HGB
+8.8*
+6.4*
+PLT
+--
+117*
+Chem:
+Recent Labs
+Lab
+[DATE]
+0438
+NA
+138
+K
+4.6
+CL
+108*
+CO2
+25
+BUN
+16
+CREATININE
+0.71
+GLUCOSE
+117*
+CALCIUM
+8.7
+Coagulation:
+Recent Labs
+Lab
+[DATE]
+0438
+PLT
+117*
+Tumor Markers:
+CA 125
+Date
+Value
+Ref Range
+Status
+6/30/2023
+35.0
+0.0-35.0 - Units/mL
+Final
+6/30/2023
+59.0 (H)
+0.0-35.0 Units/mL
+Final
+Last 3 Weights:
+Wt Readings from Last 3 Encounters:
+[DATE]
+59.2 kg (130 lb 8.2 oz)
+[DATE]
+58.1 kg (128 lb)
+[DATE]
+59.4 kg (130 lb 14.4 oz)
+
+PDF Page 18
+Assessment:
+[AGE] y.o. female POD 1 after Procedure(s):
+Exploratory laparotomy, right oopohorectomy, pelvic and paraaortic lymphadenectomy,
+infragastric omentectomy, right ureterolysis, extensive lysis of adhesions
+Patient Active Problem List
+Diagnosis
+Cellulitis
+Acute deep vein thrombosis (DVT) of femoral vein of left lower extremity (CMS-HCC)
+Acute pulmonary embolism without acute cor pulmonale (CMS-HCC)
+Pelvic mass in female
+Presence of IVC filter RETRIEVABLE
+Preop testing
+Plan:
+[PHI]: [PHI] Pending, frozen c/w HGSOC. Will need to be presented at [PHI]
+when final path resulted
+GI: regular diet, - flatus
+Pain: controlled with Acetaminophen and Tramadol prn
+GI prophylaxis: Pepcid
+CV: normal heart rate and BP
+Pulm: encourage IS and deep breathing
+GU: Foley catheter d/c
+DVT prophylaxis: SCDs, hold chemoprophylaxis until afternoon hgb
+Heme: stable WBC, hgb to 6.4, 1u PRBC ordered for transfusion. Will recheck hgb this
+afternoon
+Electrolytes: replete as needed per protocol
+Activity: ambulate several times a day, encourage IS 10x/hr while awake
+Disposition: anticipate discharge home possibly 2-3d
+Seen with dr
+PA-C
+Gynecologic Oncology
+Progress Notes by
+MD at 6/30/2023 8:00 AM
+Version 1 of 1
+
+PDF Page 19
+Author:
+MD
+Service: Hospitalist
+Author Type: Physician
+Filed: 6/30/2023 10:10 AM
+Date of Service: 6/30/2023 8:00
+Status: Signed
+AM
+Editor:
+MD (Physician)
+NMRMG Hospitalist Progress Note
+Patient name:
+Room:
+Date of admission: 6/30/2023
+Primary care physician:
+MD
+Daughter assisted with Urdu translation per pt preference
+CC / Reason for visit: gen med f/u s/p gyne onc surgery
+Interval Events:
+- HGB 6.4 this AM. 1 unit pRBC ordered
+- repeat cbc planned for early afternoon
+S:
+- she has some post-op pain. She has some dizziness. No vomiting.
+O:
+No Known Allergies
+Scheduled Meds:
+Current Facility-Administered Medications
+Medication
+Dose
+Route
+Frequency
+acetaminophen
+650
+Oral
+4x Daily
+(TYLENOL) tablet mg
+650 mg
+[START ON
+10 mg Rectal
+Once
+6/30/2023]
+bisacodyL
+(DULCOLAX)
+suppository 10 mg
+cyanocobalamin
+1,000 Oral

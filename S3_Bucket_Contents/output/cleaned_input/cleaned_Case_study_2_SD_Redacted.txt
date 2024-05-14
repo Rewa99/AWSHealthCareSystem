@@ -1,0 +1,2431 @@
+PDF Page 1
+10:45:46a.m.
+10-24-2023
+3/42
+123
+Patient: I
+Printed by:
+MRN:
+Printed on: 10/24/2023 09:18
+>>>>>>>> PATIENT INFORMATION <<<<<<<<
+Name:
+Sex: Female Date of Birth:
+Age: 39 Years MS: Single
+Previous Name:
+Social Security Number:
+Race: Black or African
+American
+Ethnicity: Non-Hispanic or Latino
+Language: English
+Religion: None
+Home Address:
+City/State:
+Zip:
+Alt Address: City/State:
+Zip:
+Home Phone:
+Cell Phone:
+Employer Name: NONE
+Employer Phone:
+Employer Address:
+City/State:
+Zip:
+GUARANTOR INFORMATION <<<<<<<<
+Name:
+Sex: Female Date of Birth:
+Age: 39 Years
+Relationship to Guarantor: Patient
+Social Security Number:
+Billing Address:
+City/State:
+Zip:
+Home Phone:
+Employer Name: NONE
+Employer Phone:
+Employer Address:
+City/State:
+Employment Status: Not Employed
+>>>>>>>> EMERGENCY CONTACT INFORMATION <<<<<<<<
+Name:
+Relationship to Contact:
+Home Address:
+City/State:
+Zip:
+Home Phone:
+Cell Phone:
+PRIMARY INSURED/INSURANCE INFORMATION <<<<<
+Name:
+Sex: Female Date of Birth:
+Age: 39 Years
+Relationship to Insured:
+Employer Name: NONE
+Employer Address:
+City/State:
+Employment Status: Not Employed
+Zip:
+Employer Phone:
+Insurance Name: BLUE CROSS COMMUNITY HEALTH PLAN MEDICAID
+Policy Number:
+x
+Phone Number:
+Claim's Address: BLUE CROSS MEDICAID
+Auth. Number:
+Auth. Phone Number:
+PO BOX 3418
+Group Number:
+City/State: SCRANTON, PA
+Zip: 18505
+>>>>> SECONDARY INSURED/INSURANCE INFORMATION <<<<<
+NO SECONDARY INSURED/INSURANCE INFORMATION
+>>>>>>>> VISIT INFORMATION <<<<<<<<
+Reg Date/Time: 10/18/2023 01:12
+Patient Type: Behavioral Health Adult
+Inpatient Admit Date/Time: 10/18/2023 01:23
+OP Assign to Loc Date/Time:
+Admit Type: Elective
+Admit Clerk:
+Admit Source: Xfer from a Hospital
+FIN:
+Admit Diagnosis: EVALUATION
+Estimated Date of Arrival: 10/17/2023 23:55
+Discharge Date/Time:
+Discharge Disposition:
+Admitting Physician Name:
+Attending Physician Name:
+Referring Physician Name:
+Primary Physician Name:
+Advance Directive:
+Location:
+Room/Bed:
+Medical Service: Psychiatry
+>>>>>>>> ACCIDENT INFORMATION <<<<<<<<
+Accident Date/Time:
+Accident Type:
+
+PDF Page 2
+123
+10:46:14 a.m.
+10-24-2023
+4/42
+PDF Page 3
+123
+10:46:22 a.m.
+10-24-2023
+5/42
+History and Physical
+* Final Report *
+Result Type:
+History and Physical
+Date:
+October 18, 2023 15:45 CDT
+Result Status:
+Auth (Verified)'
+Result Title:
+H&P -M
+FACP.
+Performed By:
+A on October 18, 2023 15:53 CDT
+Verified By:
+A on October 18, 2023 15:53 CDT
+Encounter info:
+GLE, Behavioral Health Adult, 10/18/2023 -
+* Final Report*
+H&P
+Patient:
+MRN:
+FIN:
+Age: 39 years Sex: Female
+DOB:
+Associated Diagnoses: None
+Author:
+Admission Information
+Date of Admission: 10/18/2023 .
+Subjective:
+Chief Complaint:
+Bipolar, Schizophrenia/Psychotic
+History of Present Illness:
+HISTORY OF PRESENT ILLNESS
+-39 year old HOMELESS AAF admitted for severe psychosis
+-she was found wandering about in the store with trespassing order against her.
+-she was aggressive in the emergency roomand threatening to kill the staff
+-Talking without making any sense. She had flight of ideas and was very tangential.
+-she was noncompliant with the medications.
+--her blood sugar in the emergency roomwas 390 and she was given 18 units of insulin.
+ASSOCIATED COMPLAINTS:
+--Hallucinations=Denies AH, VH.
+--Very delusional and psychotic.
+--Suicidal ideations=None.
+--Horricidal ideation=None.
+--Appetite-Without any change from baseline.
+-Recent sudden weight change=none.
+-Sleep=POOR
+-Medication compliance at home=As per the report,home medications are not taken as prescribed.
+--Pain=Scale 0/10.
+--Systemic complaint= none
+GU complaints=Denies any dysuria,hematuria,flank pain etc.
+Printed by:
+
+Printed on:
+10/24/2023 09:19 CDT
+PDF Page 4
+123
+10:46:43 a.m. 10-24-2023
+6/42
+History and Physical
+* Final Report *
+--GI complaints=No alarmsymptoms of hematemesis,melena or weight loss reported.
+--Neurological complaints=Denies any double vision,unusual headache,focal motor or sensory loss,ataxia,paresthesias etc.
+--Endocrine complaints=No heat or cold intolerance or skin changes reported.
+-Pulmonary complaints=No hemoptysis,unusual nocturnal cough or weight loss reported.
+-Dermetologic complaints=No new rash,pruritis or pigmentation reported.
+-Musculoskeletal complaints=No joint SW elling, morning stiffness or decrease in ROM of the joints reported.
+-Renal complaints=No history of any CKD reported.N potyuria,polydipsia,nocturia or incontinence reported.
+-Cardiovascular complaints=Denies any chest pain.,dypnea,orthopnes or PND or ankle SW elling reported.
+Other Problems: AS PER HPL.
+Allergy Profile:
+Allergy LIST:
+shrimp
+Medication List:
+Active Scheduled Medications
+am LODIPine (amLODIPine)
+10 mg, TAB, PO, Daily, 10/18/23 11:13:00 CDT
+doxycycline (doxycycline monohydrate)
+100 mg, CAP, PO, BID (2 times a day), Other-Enter in Order Comments, 10/18/23 11:15:00 CDT, Stop date 11/28/23 9:00:00 CST
+ferrous sulfate (ferrous sulfate)
+325 mg. TAB, PO, Daily, 10/18/23 11:20:00 CDT
+fluticasone nasal (fluticasone nasal)
+100 mcg, SPRAY, Nasal, Daily, 10/18/23 11:23:00 CDT
+haloperidol (Haldol Decanoate)
+100 mg, NJ, M, Q4WEEK (Every 4 weeks), 10/18/23 7:18:00 CDT
+insulin glargine (insulin glargine)
+50 Unit, INJ, Subcut, Daily, 10/18/2321:00:00DT
+Insulin lispro (ins ulin lispro)
+18 Unit, INJ, Subcut, TIDAC (3 times a day before meals), 10/18/23 10:00:00 CDT
+lisinopril (lisinopril)
+10 mg. TAB, PO, Daily, 10/18/23 11:14:00 CDT
+metFORMIN (metFORMIN)
+1,000 mg, TAB, PO, BID (2 times a day), 10/18/23 10:00:00 CDT
+OLANZapine (OLANZapine)
+20 mg, TAB, PO, QHS (At bedtime), 10/18/23 21:00:00 CDT
+PRNAdministrations In Last 24 Hours
+acetaminophen (acetaminophen)
+650 mg, TAB, PO, Q6H (Every 6 hours), PRN Pain, 10/18/23 10:12:00 CDT, 10/18/23 10:12:00 CDT
+LORaze pam (LORazepam)
+1 mg, TAB, PO, Q8H (Every 8 hours), PRN as needed for anxiety, 10/18/23 1:22:00 CDT
+Past Medical History:
+HEALTH HISTORY
+Bipolar
+Patient
+Diabetes mellitus
+Patient
+Hypertension
+Patient
+Schizoaffective disorder
+Patient
+UTI (urinary tract infection)
+Patient
+Social History:
+Social History:
+Printed by:
+
+Printed on:
+10/24/2023 09:19 CDT
+PDF Page 5
+123
+10:47:09 a.m. 10-24-2023
+7/42
+History and Physical
+* Final Report *
+Education: High school graduate or GED
+Preferred Language: English
+Recent Travel: No recent travel
+Signs of Abuse: No
+Alcohol Use
+Alcohol Use: Never
+Tobacco Use
+Smoking Status: Current every day smoker
+Tobacco cessation Information offered: Patient refuses Information
+Tobacco Type: Cigarettes
+Years of Use: 20
+Tobacco Type: Cigarettes
+Years of Use: 20
+Tobacco use: Never smoked cigarettes.
+Alcohol use: Never used alcohol.
+licit drug use: Never used illicit drugs.
+Living situation: Lives with family.
+Occupation: Unemployed.
+Family History:
+FAMILY HEALTH HISTORY
+Unknow n.
+Review of Systems
+Constitutional: Negative.
+Eye: Negative except as documented in history of present illness.
+Ear/Nose/Mouth/Throat Negative except as documented in history of present illness.
+Respiratory: Negative except as documented in history of present illness.
+Cardiovascular: Negative except as documented in history of present illness,
+Gastrointestinal: Negative except as documented in history of present illness.
+Genitourinary: Negative except as documented in history of present illness.
+Hematology/Lymphatics: Negative except as documented in history of present illness.
+Endocrine: Negative except as documented in history of present itlness.
+Immunologic: Negative except as documented in history of present illness.
+Musculoskeletal: Negative except as documented in history of present illness.
+Integumentary: Negative except as documented in history of present illness.
+Neurologic: Negative except as documented in history of present illness.
+Psychiatric: Negative except as documented in history of present illness.
+ROS reviewed as documented in chart
+Physical Examination
+VS/Measurements
+VITALS:
+BP: 136/81
+Pulse: 101 Temp: 97.5
+Resp Rate: 16
+Tmax: 97.6 Wt(kg): 90.71
+Printed by:
+
+Printed on:
+10/24/2023 09:19 CDT
+PDF Page 6
+123
+10:47:31 a.m. 10-24-2023
+8/42
+History and Physical
+* Final Report *
+Pain Score:
+02 Sat: 98 10/18/23 01:57
+02 Status: Roomair 21%
+Wt(kg): 90.71 weight date: 10/18/23
+Wt(kg):
+90.71 weight date: 10/18/23
+Wt(kg): 90.71 weight date: 10/18/23
+General: Alert and oriented, No acute distress, Breath is within normal limits.
+Ambulation status: With steady gait.
+Appearance: Obese.
+Behavior: Within normal limits.
+Hydration: Within normal limits.
+Skin: Within normal limits, Normal for ethnicity.
+Psychiatric: Cooperative, Appropriate mood & affect, Non-suicidal, No pain behavior.
+Thought process: Confused, Distractible.
+Eye: Pupils are equal, round and reactive to light, Extraocular movements are intact, Normal conjunctiva, Vision unchanged.
+HENT: Normocephalic, Normal hearing, Oral mucosa is moist, No pharyngeal erythema, Ear canals patent, No sinus tenderness.
+Neck: Supple, Non-tender, No carotid bruit, No jugular venous distention, No lymphadenopathy, No thyromegaly.
+Respiratory: Lungs are clear to auscultation, Respirations are non-labored, Breath sounds are equal, Symmetrical chest wall expansion, No
+chest wall tenderness.
+Cardiovascular: Normal rate, Regular rhythm, No murmur, No gallop, Normal peripheral perfusion, Good pulses equal in all extremities, No edeme.
+Gastrointestinal: Soft, Non-tender, Non-distended, Normal bow sounds, No organomegaly.
+Musculoskeletal: Normal range of motion, Normal strength, No tenderness, No swelling, No deformity, Normal gait.
+Integumentary: Warm, Dry, Moist, No pallor, No rash, Right foot there is a diabetic foot ulcer without any cellulitis or drainage.
+Neurologic:
+Neurological exam:
+Aw ake alert oriented to time place and person and situation
+Speech, language both are fluent and appropriate. There is no aphasia or dysarthria.
+Normal fund of know ledge
+Normal recent and remote memory
+DTR2 +. HMF INTACT. Babinski's dow ngoing bilaterally.
+Normal sensory, Normal motor function, No focal deficits,
+Cranial nerves: #: Optic (Intact), II/IV/VI: Oculomotor/trochlear/abducens (Intact, Pupils equal, round and reactive to light), V: Trigeminal
+(Bilaterally, Intact, Motor (Mouth opening (Intact), Strength (Intact)), Sensation to light touch (Normal), Sensation to pain (Normal)), VII: Facial
+(Bilateral, Forehead wrinkle, Eye closing, Eyebrow elevation, Smile, intact), VIII Acoustic (Intact), X/X: Glossopharyngeal/Vagus (Uvula
+elevation (Within normal limits). Symmetric soft palate elevation). Xt Accessory Intact, Sternocleidomastold strength. Trapezlus strength). XIL
+Hypoglossal (Speech (clear and coherent), Tongue strength (protruded in midline without tremor or fasciculation)..
+Psychiatric: Cooperative, Appropriate mood & affect.
+Glands: Bilateral, Salivary gland, Parotid gland, Submandibular gland, Sublingual glands, Within normal limits.
+Objective
+Lab Results:
+Printed by:
+
+Printed on:
+10/24/2023 09:19 CDT
+PDF Page 7
+123
+10:48:00 a.m. 10-24-2023
+9/42
+History and Physical
+* Final Report *
+LABORATORY RESULTS:
+Glucose POC GLE 10/18/23 11:46
+Gluc POC GLE
+217 H
+Glucose POC GLE 10/18/23 07:42
+Gluc POC GLE
+390 H
+LABORATORY RESULTS:
+Micro Results:
+MICROBIOLOGY STUDIES RESULTED WITHIN THE LAST 2 DAYS.
+See LAB tab for older results.
+No cultures resulted In the last 2 days..
+Radiology results:
+COMPLETED RADIOLOGY IMAGING STUDIES:
+No Imaging Results in the last 36 hours.
+Diagnostic Tests: All the diagnostic blood work and radiology workup done at the referring facility has been reviewed..
+Documentation review: Reviewed old records, Reviewed records from ER of KISHWAUKEE Hospital..
+Review /Management
+Diagnostic Impression:
+Diagnosis List
+Anxiety
+Bipolar disorder
+Paranoia
+Hypertension
+Schizophrenia
+Suicidal ideation
+Diabetes mellitus
+Atrial flutter
+Psychosis
+Printed by:
+
+Printed on:
+10/24/2023 09:19 CDT
+PDF Page 8
+123
+10:48:15 a.m.
+10-24-2023
+10/42
+History and Physical
+* Final Report *
+Include Orders
+Consults:
+Consult Physician (Order Processing): 10/18/2023 15:53 CDT, DIABETIC FOOT ULCER, Routine,
+Not
+Done
+Include Orders
+Consults:
+Consult Wound Ostomy Continence Nurse (WOCN) (Order Processing): 10/18/2023 15:53 CDT, Routine
+Plan
+PENDING LABORATORY TESTS:
+TSH
+Ordered
+Hemoglobin A1c
+Ordered
+Microalbumin Urine Random
+Ordered
+Lipid Panel
+Ordered
+PDF Page 9
+Pregnancy Test Urine
+Ordered
+PENDING RADIOLOGY/IMAGING STUDIES:
+ORDERS WITHIN THE LAST HOUR
+SHAHZAD MD, MUHAMMADA
+ASSESSMENT & PLAN:-
+--CHECK FLP IF NOT DONE IN 3 MONTHS.RESUME HOME MEDS.DIETRAY COUNSELING DONE
+--MONITOR BP.LIFE STYLE MODIFICATIONS EXPLAINED TO THEPATIENT,
+--CHECK HBA1C LEVEL IF NOT DONE IN 3 MONTHS.ADA DIET.MONITOR BLOOD SUGARS.DIETARY COUNSELING DONE STRICT
+BLOOD SUGAR CONTROL SHOULD BE EXERCISED
+-OBTAIN PODIATRY CONSULT FOR THE FOOT
+-WEIGHT REDUCTION COUNSELING DONE
+--PAIN MEDICATION USE LIMITS SET WITH THEPATIENT AND AGREED UPONPATIENT VERBALISED UNDERSTANDING
+--SLEEP LOG TO BE INITIATED AND AVOID CAFFEINATED DRINKS AND COFFEE
+--CHECK TSH LEVEL
+-LOCAL CARE OF THE FOOT WOUND
+-INHALERS AS NEEDED
+-RESUME ANTIHYPERTENSIVES. PARAMETERS PLACED FOR BLOOD PRESSURE MEDICATION HOLDING
+--THEPATIENT IS HOMELESS THE SOCIAL WORKER SHOULD BE TAKING CARE OF THAT ON DISCHARGE
+Printed by:
+
+Printed on:
+10/24/2023 09:19 CDT
+PDF Page 10
+123
+10:48:35 a.m. 10-24-2023
+11/42
+History and Physical
+* Final Report *
+--CBC IS ACCEPTABLE.FOLLOW AS OUTPT.
+--MEDICATION COMPLIANCE COUNSELING DONE
+--CONTINUE CHOLECALCIFEROL.
+-MONITOR HR AND THE RHYTHM.
+--WEIGHT LOSS ADVISED.
+--PSYCH MANAGEMENT & MED RECONCILIATION AS PER PSYCHIATRIC SERVICES.
+--THE HOME MEDICATION HISTORY HAS BEEN REVIEWED AND RECONCILED AND THE MEDICATIONS ADJUSTED AS NEEDED.
+-AFTER DISCHARGE FOLLOWUP WITH ME OR PCP WITHIN 3-4 DAYS.
+--ADVISED TO REPORT TO THE PCP OF DEVELOPMENT OF ANY NEW SYMPTOMS OR ANY SIDE EFFECTS OF THE MEDICINE
+IMMEDIATELY UPON NOTICING IT.
+Signature Line
+[Electronically Signed By:]
+On, 10/18/2023 03:53 PM
+Completed Action List:
+* Perform by
+on October 18, 2023 15:53 CDT
+* Sign by
+on October 18, 2023 15:53 CDT
+* VERIFY by
+on October 18, 2023 15:53 CDT
+Printed by:
+Printed on:
+
+10/24/2023 09:19 CDT
+PDF Page 11
+123
+10:48:51 a.m.
+10-24-2023
+12/42
+PDF Page 12
+123
+10:48:59 a.m.
+10-24-2023
+13/42
+Psychiatric Evaluation
+* Final Report *
+Result Type:
+Psychiatric Evaluation
+Date:
+October 19, 2023 08:30 CDT
+Result Status:
+Auth (Verified)
+Result Title:
+Psychiatric Evaluation
+Performed By:
+on October 19, 2023 08:03 CDT
+Verified By:
+on October 19, 2023 10:14 CDT
+Encounter info:
+50036288, GLE, Behavioral Health Adult, 10/18/2023-
+Contributor system:
+GLE MMODAL
+* Final Report*
+Psychiatric Evaluation
+DATE: 10/18/2023
+HISTORY OF PRESENT ILLNESS:
+39-year-old female born on
+was admitted on 10/18, seen on 10/18 on site. This
+patient came from Kishwaukee Hospital, was wandering trespassing at best by, making verbal
+threats at the hospital. She made verbal threats toward the staff, threatened to leave
+the ER, was agitated, required p.r.n. medication including Ativan and
+Zyprexa
+IM. The patient does have a legal guardian.
+PAST MEDICAL HISTORY:
+Includes diabetes, hypertension, bipolar schizophrenia. The patient has an ulcer
+wound
+on
+the right leg. Left leg
+on the big toe. UDS was negative. Pregnancy test was
+negative.
+LEGAL STATUS:
+Competent to sign in voluntarily.
+MENTAL STATUS:
+The patient was poorly dressed and groomed. She was showing manic-like behavior,
+pressured speech, poor boundaries. Intelligence and fund of knowledge average. Ability
+to concentrate distractible. Ability to abstract concrete. Speech was tangential and
+loud. Denied imminent suicidal or homicidal ideation. She was oriented x3. Memory
+seemed somewhat vague for remote and recent events.
+DIAGNOSIS:
+Bipolar disorder, mixed.
+REASON FOR ADMISSION:
+SEVERITY OF ILLNESS CRITERIA
+1.
+Aggressive or homicidal ideations or threats.
+2.
+Marked regression or intensification of significant problems or symptoms.
+Printed by:
+
+Printed on:
+10/24/2023 09:19 CDT
+PDF Page 13
+123
+10:49:23 a.m. 10-24-2023
+14/42
+Psychiatric Evaluation
+* Final Report *
+3.
+Severe impairment in ability to perform ADLs.
+4.
+Inability to comply with psychiatric medication or other prescribed treatment.
+5.
+Clinically dangerous instability of the patient.
+6.
+Inability to provide for personal safety, property safety.
+INTENSITY OF SERVICE CRITERIA:
+1.
+Failure to respond to treatment in an outpatient or other less restrictive milieu
+such that symptoms are worsened or course of illness has deteriorated.
+2.
+Psychotropic medication administration requires monitoring available only in an
+inpatient setting.
+3.
+Diagnostic evaluation or treatment planning requires 24-hour-per-day skilled
+observations in an inpatient setting.
+SHORT-TERM GOAL:
+Admit to the locked psychiatric unit. Prevent self-harm.
+LONG-TERM GOAL:
+Stabilize and return back to the community.
+Her projected length of stay is 4 to 5 days. Routine labs were ordered. They showed an
+elevated glucose, POC glucose of 217 and 390. Dr. Shahzad was assigned to do the H and P
+and medical management. Projected length of stay is 4 to 5 days.
+DISCHARGE PLAN:
+Possible ICF placement.
+DGB/23812791/MODL
+DD:
+10/19/2023 08:03:04
+DT: 10/19/2023 08:30:39
+Job #:
+Signature Line
+[Electronically Signed By: ]
+On, 10/19/2023 10:14 AM
+Completed Action List:
+* Perform by
+on October 19, 2023 08:03 CDT
+* Transcribe by on October 19, 2023 08:30 CDT
+* Sign by
+on October 19, 2023 10:14 CDTRequested on October 19,
+2023 08:33 CDT
+Printed by:
+
+Printed on:
+10/24/2023 09:19 CDT
+PDF Page 14
+123
+10:49:44 a.m.
+10-24-2023
+15/42
+Psychiatric Evaluation
+* Final Report *
+* VERIFY by
+on October 19, 2023 10:14 CDT
+Printed by:
+
+Printed on:
+10/24/2023 09:19 CDT
+PDF Page 15
+123
+10:49:54 a.m.
+10-24-2023
+16/42
+PDF Page 16
+123
+10:50:02 a.m.
+10-24-2023
+17/42
+Flowsheet Print Request
+Patient:
+Printed by:
+MRN:
+Date Range: 10/23/2023 09:19 - 10/25/2023 09:19
+Printed on: 10/24/2023 09:19
+10/25/2023
+10/25/2023
+10/25/2023
+Medications
+10/24/2023
+10/24/2023
+09:00
+07:30
+07:00
+21:00
+17:00
+Scheduled
+amLODIPine
+10 mg
+10 mg, TAB, PO, Daily, 10/18/23 11:13:00 CDT
+Last given
+At home, patient was taking medication with
+10 mg @
+10/24/2023
+08:03 CDT
+amlodipine
+benzocaine topical (Orajel)
+1 APP
+1 APP
+1 APP
+1 APP, GEL TOP, 4 times a day, 10/23/23 17:00:00 Last given:
+Last given:
+Last given:
+CDT
+1 APP @
+1 APP
+1 APP @
+10/24/2023
+10/24/2023
+10/24/2023
+08:29 CDT
+08:29 CDT
+08:29 CDT
+benzocaine topical
+cadexomer lodine topical (cadexomer Iodine
+0.9, GEL, TOP, Daily, 10/21/23 9:00:00 CDT
+Lastgiven
+Cleanse the wounds with NS, pat dry, apply lodos.
+0.9%@
+10/22/2023
+09:00 CDT
+cadexomer-iodine topical
+R
+100 mg
+doxycycline (doxycycline monohydrate)
+Last given:
+100 mg, CAP, PO, BID (2 times a day), Other-Enter
+100 mg @
+in Order Comments, 10/18/23 11:15:00 CDT, Stop
+10/24/2023
+date 11/28/23 9:00:00 CST
+08:03 CDT
+08:03
+doxycycline
+325 mg
+ferrous sulfate
+Last given:
+325 mg, TAB, PO, Daily, 10/18/23 11:20:00 CDT
+325 mg ®
+10/24/2023
+08:03 CDT
+ferrous sulfate
+fluticasone nasal
+100 mcg
+100 mcg, SPRAY, Nasal, Daily, 10/18/23 11:23:00
+Last given
+CDT
+100 mcg @
+10/24/2023
+08:30 CDT
+fluticasone nasal
+18
+haloperidol (Haldol Decanoate)
+100 mg, INJ, IM, Q4WEEK (Every 4 weeks),
+10/18/23 7:18:00 CDT
+At home. patient was taking medication with ---
+haloperidol
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+/8
+10 mg
+10 mg:
+haloperidol (Haldol)
+Last given:
+Last given:
+10 mg, TAB, PO, BID (2 times a day). 10/22/23
+10 mg @
+10 mg; @
+9:00:00 CDT
+10/24/2023
+10/24/2023
+08.03 CDT
+06:03 CDT:
+haloperidol
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+
+PDF Page 17
+123
+10:50:28 a.m.
+10-24-2023
+18/42
+Flowsheet Print Request
+Patient:
+Printed by:
+MRN:
+Date Range: 10/23/2023 09:19 1 10/25/2023 09:19
+Printed on: 10/24/2023 09:19
+10/25/2023
+10/25/2023
+10/25/2023
+10/24/2023
+10/24/2023
+Medications
+09:00
+07:30
+07:00
+21:00
+17:00
+so Unit
+Insulin glargine
+Last given:
+50 Unit, INJ, Subcut, Dally, 10/18/23 21:00:00 CDT
+50 Unit
+At home, patient was taking medication with
+10/23/2023
+20:41.CDT
+insulin glargine
+Blood Glucose, MAR
+2nd Clinician Verification Before Admin
+R
+18 Unit
+Insulin lispro
+Last given:
+18 Unit, INJ. Subcut, TIDAC (3 times a day before
+18 Unit @
+meals), 10/18/23 10:00:00 CDT
+10/23/2023
+At home. patient was taking medication with
+12:13 CDT
+insulin lispro
+Blood Glucose, MAR
+2nd Clinician Verification Before Admin
+lisinopril
+10 mg, TAB, PO, Daily, 10/18/23 11:14:00 CDT
+At home, patient was taking medication with
+08:03. CDT
+lisinopril
+1,000 mg
+metFORMIN
+Last given:
+1,000 mg, TAB, PO, BID (2 times a day), 10/18/23
+1000 mg @
+10:00:00 CDT
+10/21/2023
+At home. natient was taking medication with
+08:53 CDT
+metFORMIN
+OLANZapine
+20 mg
+20 mg, TAB, PO, QHS (At bedtime), 10/18/23
+Last given:
+21:00:00 CDT
+20 mg
+At home, patient was taking medication with
+10/23/2023
+20:41.CDT
+olanzapine
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+PRN
+B
+PRN
+acetaminophen
+650 mg, TAB, PO, Q6H (Every 6 hours), PRN Pain,
+10/18/23 10:12:00 CDT, 10/18/23 10:12:00 CDT
+At home, patient was taking medication with -
+acetaminophen
+Location of Pain
+Pain Site
+Acute Paln Score
+Acute Pain Goal
+Chronic Pain Score
+Chronic Pain Goal
+Wong-Baker FACES Pain Rating Scale
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+
+PDF Page 18
+123
+10:50:56 a.m.
+10-24-2023
+19/42
+Flowsheet Print Request
+Patient:
+Printed by:
+MRN:
+Date Range: 10/23/2023 09:19 - 10/25/2023 09:19
+Printed on: 10/24/2023 09:19
+Medications
+10/25/2023
+10/25/2023
+10/25/2023
+10/24/2023
+10/24/2023
+09:00
+07:30
+07:00
+21:00
+17:00
+PRN
+albuterol (albuterol inhaler)
+180 mcg, INHALER, Inhalation, Q4H (Every 4
+hours), PRN Shortness of Breath, 10/18/23
+10:12:00 CDT
+albuterol
+PRN
+benztropine
+1 mg, INJ, IM, Q8H (Every 8 hours), PRN Other (see
+comment), 10/18/23 1:22:00 CDT, 10/18/23 1:22:00
+CDT
+PRN Stiffiesc/Akethesia
+benztropine
+PRN
+calcium carbonate (Tums 500)
+1,250 mg, CHEW TAB, Chewed, TID (3 times a day),
+PRN dvspepsia. 10/18/23 10:14:00 CDT
+calcium carbonate
+PRN
+docusate (Colace)
+100 mg, CAP, PO, BID (2 times a day), PRN
+Constipation, 10/18/23 10:13:00 CDT, 10/18/23
+10.13.00 CDT
+docusate
+PRN
+fluticasone nasal (fluticasone 50 mcg/inh nas...
+50 mcg, 1 Spray, SPRAY, Both Nares, Daily, PRN
+Congestion, 10/18/23 10:13:00 CDT
+At home. patient was taking medication with
+fluticasone nasal
+PRN
+haloperidol
+5 mg, TAB, PO, Q8H (Every 8 hours), PRN Agitation,
+10/18/23 1:22:00 CDT
+haloperidol
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+PRN
+haloperidol
+10 mg, INJ, IM, Q3H (Every 3 hours), PRN
+Agitation, 10/18/23 1:22:00 CDT
+Give this medication ONLY if patient cannot toler...
+haloperidol
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+PRN
+ibuprofen (Motrin)
+400 mg, TAB, PO, Q8H (Every 8 hours), PRN Pain,
+Mild, 10/23/23 15:15:00 CDT, 10/23/23 15:15:00
+CDT
+ibuprofen
+
+PDF Page 19
+123
+10:51:16 a.m.
+10-24-2023
+20/42
+Flowsheet Print Request
+Patient:
+Printed by:
+MRN:
+Date Range: 10/23/2023 09:19 - 10/25/2023 09:19
+Printed on: 10/24/2023 09:19
+Medications
+10/25/2023
+10/25/2023
+10/25/2023
+10/24/2023
+10/24/2023
+09:00
+07:30
+07:00
+21:00
+17:00
+Location of Pain
+Pain Site
+Acute Pain Score
+Acute Pain Goal
+Chronic Pain Score
+Chronic Pain Goal
+Wong-Baker FACES Pain Rating Scale
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+3
+PRN
+loperamide (Imodium A-D)
+4 mg, CAP, PO, Q6H (Every 6 hours), PRN as
+needed for loose stool, 10/18/23 10:13:00 GDT,
+10/18/23 10:13:00 CDT
+loperamide
+8
+:
+PRN
+LORazepam
+1 mg, INJ, IM, Q6H (Every 6 hours), PRN as needed
+for anxiety, 10/18/23 1:22:00 CDT
+Give this medication ONLY if patient cannot toler.
+LORazepam
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+BC
+PRN
+LORazepam
+1 mg, TAB, PO, Q8H (Every 8 hours), PRN as
+needed for anxiety, 10/18/23 1:22:00 CDT
+LORazepam
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+8
+PRN
+magnesium hydroxide
+2.4 GM, SUSP, PO, Daily, PRN Constipation,
+10/18/23 1:22:00 CDT. (Milk of Magnesia)
+magnesium hydroxide
+Med Responses
+PRN
+ondansetron (Zofran ODT)
+4 mg, DIS Tablet, PO, Q8H (Every 8 hours), PRN
+Nausea/Vomiting, 10/18/23 10:14:00 CDT,
+10/18/23 10-14-00 CDT
+ondansetron
+Med Responses
+
+PDF Page 20
+123
+10:51:35 a.m.
+10-24-2023
+21/42
+Flowsheet Print Request
+Patient:
+Printed by
+MRN:
+Date Range: 10/23/2023 09:19 - 10/25/2023 09:19 Printed on: 10/24/2023 09:19
+10/24/2023
+10/24/2023
+10/24/2023
+10/24/2023
+10/24/2023
+Medications
+16:30 16:00 13:00 12:00 09:19
+Scheduled
+amLODIPine
+10 mg, TAB, PO, Daily, 10/18/23 11:13:00 CDT
+At home, patient was taking medication with
+amlodipine
+benzocaine topical (Orajel)
+1 APP, GEL, TOP, 4 times a day, 10/23/23 17:00:00
+CDT
+10/24/2023
+08:29 CDT:
+benzocaine topical
+cadexomer Iodine topical (cadexomer Iodine
+0.9, GEL, TOP, Daily, 10/21/23 9:00:00 CDT
+Cleanse the wounds with NS, pat dry, apply todos.
+cadexomer-iodine topical
+K
+doxycycline (doxycycline monohydrate)
+100 mg, CAP, PO, BID (2 times a day), Other-Enter
+in Order Comments, 10/18/23 11:15:00 CDT, Stop
+date 11/28/23 9:00:00 CST
+doxycycline
+8
+ferrous sulfate
+325 mg, TAB, PO, Daily, 10/18/23 11:20:00 CDT
+ferrous sulfate
+fluticasone nasal
+100 mcg, SPRAY, Nasal, Daily, 10/18/23 11:23:00
+CDT
+fluticasone nasal
+haloperidol (Haldol Decanoate)
+100 mg, INJ, IM, Q4WEEK (Every 4 weeks),
+10/18/23 7:18:00 CDT
+--- At home. patient was taking medication with
+haloperidol
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+18
+haloperido! (Haldol)
+10 mg, TAB, PO, BID (2 times a day). 10/22/23
+9:00:00 CDT
+haloperidol
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+
+PDF Page 21
+123
+10:51:55 a.m.
+10-24-2023
+22/42
+Flowsheet Print Request
+Patient
+Printed by:
+MRN
+Date Range: 10/23/2023 09:19 - 10/25/2023 09:19
+Printed on: 10/24/2023 09:19
+Medications
+10/24/2023
+10/24/2023
+10/24/2023
+10/24/2023
+10/24/2023
+16:30
+16:00
+13:00
+12:00
+09:19
+B
+insulin glargine
+50 Unit, INJ, Subcut, Daily, 10/18/23 21:00:00 CDT
+At home, patient was taking medication with
+insulin glargine
+Blood Glucose, MAR
+2nd Clinician Verification Before Admin
+R
+18 Unit
+18 Unit
+Insulin lispro
+Last given:
+Last given:
+18 Unit, INJ, Subcut, TIDAC (3 times a day before
+18 Unit @
+18 Unit
+meals), 10/18/23 10:00:00 CDT
+10/23/2023
+10/23/2023
+At home. patient was taking medication with
+12:13 CDT
+12:13 CDT
+insulin lispro
+Blood Glucose, MAR
+2nd Clinician Verification Before Admin
+lisinopril
+10 mg, TAB, PO, Daily, 10/18/23 11:14:00 CDT
+At home, patient was taking medication with
+lisinopril
+B
+metFORMIN
+1,000 mg, TAB, PO, BID (2 times a day), 10/18/23
+10:00:00 CDT
+At home. patient WAS taking medication with
+metFORMIN
+OLANZapine
+20mg, TAB, PO, QHS (At bedtime), 10/18/23
+21:00:00 CDT
+At home, patient was taking medication with
+olanzapine
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+PRN
+18
+PRN
+650 mg
+acetaminophen
+Last given:
+650 mg. TAB, PO, Q6H (Every 6 hours), PRN Pain,
+650 mg.@
+10/18/23 10:12:00 CDT, 10/18/23 10:12:00 CDT
+10/23/2023
+At home, patient was taking medication with
+12:46 CDT
+acetaminophen
+Location of Pain
+Pain Site
+Acute Pain Score
+Acute Pain Goal
+Chronic Pain Score
+Chronic Pain Goal
+Wong-Baker FACES Pain Rating Scale
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+
+PDF Page 22
+10:52:19 a.m.
+10-24-2023
+23/42
+123
+Flowsheet Print Request
+Printed by:
+Date Range: 10/23/2023 09:19 - 10/25/2023 09:19
+Printed on: 10/24/2023 09:19
+Medications
+10/24/2023
+10/24/2023
+10/24/2023
+10/24/2023
+10/24/2023
+16:30
+16:00
+13:00
+12:00
+PDF Page 23
+09:19
+PRN
+180 mcg
+albuterol (albuterol inhaler)
+Not given within
+180 mcg, INHALER, Inhalation, Q4H (Every 4
+5 days.
+hours), PRN Shortness of Breath, 10/18/23
+10:12:00 CDT
+albuterol
+PRN
+1 mg
+benztropine
+Last given:
+1 mg, INJ, IM, Q8H (Every 8 hours), PRN Other (see
+mg @
+comment), 10/18/23 1:22:00 CDT, 10/18/23 1:22:00
+10/22/2023
+CDT
+12:46 CDT
+PRN Stiffness/Akethesia
+benztropine
+PRN
+1,250 mg
+calcium carbonate (Tums 500)
+Not given within
+1,250 mg, CHEW TAB, Chewed, TID (3 times a day),
+5 days.
+PRN dvspensia. 10/18/23 10:14:00 CDT
+calcium carbonate
+PRN
+100 mg
+docusate (Colace)
+Not given within
+100 mg, CAP, PO, BID (2 times a day), PRN
+5 days.
+Constipation, 10/18/23 10:13:00 CDT, 10/18/23
+10-13-00 CDT
+docusate
+PRN
+50 mcg
+fluticasone nasal (fluticasone 50 mcg/inh nas...
+Last given:
+50 mcg, 1 Spray, SPRAY, Both Nares, Daily, PRN
+50 mcg @
+Congestion, 10/18/23 10:13:00 CDT
+10/20/2023
+At home, patient was taking medication with
+08:58 CDT
+fluticasone nasal
+BE
+PRN
+5 mg
+haloperidol
+Last given:
+5 mg, TAB, PO, Q8H (Every 8 hours), PRN Agitation,
+5 mg @
+10/18/23 1:22:00 CDT
+10/22/2023
+00:48 CDT
+haloperidol
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+PRN
+10 mg
+haloperidol
+Last given:
+10 mg, INJ, IM, Q3H (Every 3 hours), PRN
+10 mg a
+Agitation, 10/18/23 1:22:00 CDT
+10/23/2023
+Give this medication ONLY if patient cannot toler...
+01:36 CDT
+haloperidol
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+PRN
+400 mg
+ibuprofen (Motrin)
+Not given within
+400 mg. TAB, PO, Q8H (Every 8 hours), PRN Pain,
+5 days,
+Mild, 10/23/23 15:15:00 CDT, 10/23/23 15:15:00
+CDT
+ibuprofen
+
+PDF Page 24
+123
+10:52:41 a.m.
+10-24-2023
+24/42
+Flowsheet Print Request
+Patien
+Printed by:
+MRN:
+Date Range: 10/23/2023 09:19 - 10/25/2023 09:19
+Printed on: 10/24/2023 09:19
+10/24/2023
+10/24/2023
+10/24/2023
+10/24/2023
+10/24/2023
+Medications
+16:30
+16:00
+13:00
+12:00
+09:19
+Location of Pain
+Pain Site
+Acute Pain Score
+Acute Pain Goal
+Chronic Pain Score
+Chronic Pain Goal
+Wong-Baker FACES Pain Rating Scale
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+PRN
+4 mg
+loperamide (Imodium A-D)
+Not given within
+4 mg, CAP, PO, Q6H (Every 6 hours), PRN as
+5 days.
+needed for loose stool, 10/18/23 10:13:00 CDT,
+10/18/23 10:13:00 CDT
+loperamide
+8
+PRN
+1 mg
+LORazepam
+Last given:
+1 mg, INJ, IM, Q6H (Every 6 hours), PRN as needed
+1 mg @
+for anxiety, 10/18/23 1:22:00 CDT
+10/23/2023
+Give this medication ONLY If patient cannot toler..
+01:36 CDT
+LORazepam
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+B
+PRN
+1 mg
+LORazepam
+Last given:
+1 mg, TAB, PO, Q8H (Every 8 hours), PRN as
+1 mg @
+needed for anxiety. 10/18/23 1:22:00 CDT
+10/21/2023
+20:52 CDT
+LORazepam
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+8
+PRN
+2.4 GM
+magnesium hydroxide
+Not given within
+2.4 GM, SUSP, PO, Dally, PRN Constipation,
+5 days.
+10/18/23 1:22:00 CDT, (Milk of Magnesia)
+magnesium hydroxide
+Med Responses
+PRN
+4 mg
+ondansetron (Zofran ODT)
+Not given within
+4 mg, DIS Tablet, PO, Q8H (Every 8 hours), PRN
+5 days.
+Nausea/Vomiting, 10/18/23 10:14:00 CDT,
+10/18/23 10-14-00 CDT
+ondansetron
+Med Responses
+
+PDF Page 25
+123
+10:53:01 a.m. 10-24-2023
+25/42
+Flowsheet Print Request
+Patien
+Printed by:
+MRN:
+Date Range: 10/23/2023 09:19 - 10/25/2023 09:19
+Printed on: 10/24/2023 09:19
+Medications
+10/24/2023
+10/24/2023
+10/24/2023
+10/24/2023
+10/24/2023
+09:00
+08:30
+08:29
+08:05
+08:03
+Scheduled
+amL.ODIPine
+10 mg, TAB, PO, Daily, 10/18/23 11:13:00 CDT
+At home, patient was taking medication with 046
+amlodipine
+10 ma Auth (Ve
+benzocaine topical (Orajel)
+1 APP, GEL, TOP, 4 times a day, 10/23/23 17:00:00
+CDT
+benzocaine topical
+1 APP Auth (Ver
+cadexomer iodine topical (cadexomer lodine
+0.9
+0.9, GEL, TOP, Daily, 10/21/23 9:00:00 CDT
+given!
+Cleanse the wounds with NS, pat dry, apply lodos
+10/22/2023
+09:00 CDT
+cadexomer-iodine topical
+B
+doxycycline (doxycycline monohydrate)
+100 mg, CAP, PO, BID (2 times a day), Other-Enter
+in Order Comments, 10/18/23 11:15:00 CDT, Stop
+date 11/28/23 9:00:00 CST
+doxycycline
+100 mg Auth (V
+B
+ferrous sulfate
+325 mg, TAB, PO, Daily, 10/18/23 11:20:00 CDT
+ferrous sulfate
+325 mq Auth (V
+fluticasone nasal
+100 mcg, SPRAY, Nasal, Daily, 10/18/23 11:23:00
+CDT
+fluticasone nasal
+100 mcq Auth (
+B
+haloperidol (Haldol Decanoate)
+100 mg, INJ, IM, Q4WEEK (Every 4 weeks),
+10/18/23 7:18:00 CDT
+At home. patient was taking medication with
+haloperidol
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+8
+haloperidol (Haldol)
+10 mg, TAB, PO, BID (2 times a day), 10/22/23
+9:00:00 CDT
+haloperidol
+10 mq Auth (Ve
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+
+PDF Page 26
+123
+10:53:22 a.m. 10-24-2023
+26/42
+Flowsheet Print Request
+Patier
+Printed by:
+MRN:
+Date Range: 10/23/2023 09:19 - 10/25/2023 09:19
+Printed on: 10/24/2023 09:19
+10/24/2023
+10/24/2023
+10/24/2023
+10/24/2023
+10/24/2023
+Medications
+09:00
+08:30
+08:29
+08:05
+08:03
+insulin glargine
+50 Unit, INJ, Subcut, Daily, 10/18/23 21:00:00 CDT
+At home, patient was taking medication with
+insulin glargine
+Blood Glucose, MAR
+2nd Clinician Verification Before Admin
+R
+Insulin lispro
+18 Unit, INJ, Subcut, TIDAC (3 times a day before
+meals), 10/18/23 10:00:00 CDT
+At home. natient was taking medication with
+insulin lispro
+Not Given: Refu
+Blood Glucose, MAR
+2nd Clinician Verification Before Admin
+Yes U-200, U-3
+lisinopril
+10 mg, TAB, PO, Daily, 10/18/23 11:14:00 CDT
+--- At home, patient was taking medication with see
+lisinopril
+10 mq Auth (Ve
+R
+metFORMIN
+1,000 mg, TAB, PO, BID (2 times a day), 10/18/23
+10:00:00 CDT
+At home. patient WAS taking medication with
+metFORMIN
+Not Given: Refu
+OLANZapine
+20 mg, TAB, PO, QHS (At bedtime), 10/18/23
+21:00:00 CDT
+At home, patient was taking medication with
+olanzapine
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+PRN
+PRN
+acetaminophen
+650 mg, TAB, PO, Q6H (Every 6 hours), PRN Pain,
+10/18/23 10:12:00 CDT, 10/18/23 10:12:00 CDT
+At home, patient was taking medication with
+acetaminophen
+Location of Pain
+Pain Site
+Acute Pain Score
+Acute Pain Goal
+Chronic Pain Score
+Chronic Pain Goal
+Wong-Baker FACES Pain Rating Scale
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+
+PDF Page 27
+123
+10:53:44 a.m.
+10-24-2023
+27/42
+Flowsheet Print Request
+Patier
+Printed by:
+MRN:
+Date Range: 10/23/2023 09:19 - 10/25/2023 09:19
+Printed on: 10/24/2023 09:19
+Medications
+10/24/2023
+10/24/2023
+10/24/2023
+10/24/2023
+10/24/2023
+09:00
+08:30
+08:29
+08:05
+08:03
+PRN
+albuterol (albuterol inhaler)
+180 mcg, INHALER, Inhalation, Q4H (Every 4
+hours), PRN Shortness of Breath, 10/18/23
+10:12:00 CDT
+A+
+albuterol
+PRN
+benztropine
+1 mg, INJ, IM, Q8H (Every 8 hours), PRN Other (see
+comment), 10/18/23 1:22:00 CDT, 10/18/23 1:22:00
+CDT
+PRN Stiffness/Akethesia
+benztropine
+PRN
+calcium carbonate (Turns 500)
+1,250 mg, CHEW TAB, Chewed, TID (3 times a day),
+PRN dvspepsia. 10/18/23 10:14:00 CDT
+calcium carbonate
+PRN
+docusate (Colace)
+100 mg, CAP, PO, BID (2 times a day), PRN
+Constipation, 10/18/23 10:13:00 CDT. 10/18/23
+10.13.00 CDT
+docusate
+PRN :
+fluticasone nasal (fluticasone 50 mcg/lnh nas...
+50 mcg, 1 Spray, SPRAY, Both Nares, Daily, PRN
+Congestion, 10/18/23 10:13:00 CDT
+At home. patient was taking medication with
+fluticasone nasal
+PRN
+haloperidol
+5 mg, TAB, PO, Q8H (Every 8 hours), PRN Agitation,
+10/18/23 1:22:00 CDT
+haloperidol
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+8
+PRN
+haloperidol
+10 mg, INJ, IM, Q3H (Every 3 hours), PRN
+Agitation, 10/18/23 1:22:00 CDT
+Give this medication ONLY if patient cannot toler...
+haloperidol
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+PRN
+Ibuprofen (Motrin)
+400 mg, TAB, PO, Q8H (Every 8 hours), PRN Pain,
+Mild, 10/23/23 15:15:00 CDT, 10/23/23 15:15:00
+CDT
+ibuprofen
+
+PDF Page 28
+123
+10:54:04 a.m.
+10-24-2023
+28/42
+Flowsheet Print Request
+Patie
+Printed by:
+MRN
+Date Range: 10/23/2023 09:19 - 10/25/2023 09:19
+Printed on: 10/24/2023 09:19
+10/24/2023
+10/24/2023
+10/24/2023
+10/24/2023
+10/24/2023
+Medications
+09:00
+08:30
+08:29
+08:05
+08:03
+Location of Pain
+Pain Site
+Acute Pain Score
+Acute Pain Goal
+Chronic Pain Score
+Chronic Pain Goal
+Wong-Baker FACES Pain Rating Scale
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+PRN
+loperamide (Imodium A-D)
+4 mg, CAP, PO, Q6H (Every 6 hours), PRN as
+needed for loose stool, 10/18/23 10:13:00 CDT,
+10/18/23 10:13:00 CDT
+loperamide
+/8
+PRN
+LORazepam
+1 mg, INJ, IM, Q6H (Every 6 hours), PRN as needed
+for anxiety, 10/18/23 1:22:00 CDT
+Give this medication ONLY if patient cannot toler...
+LORazepam
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+R
+PRN
+LORazepam
+1 mg, TAB, PO, Q8H (Every 8 hours), PRN as
+needed for anxiety, 10/18/23 1:22:00 CDT
+LORazepam
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+8
+PRN
+magnesium hydroxide
+2.4 GM, SUSP, PO, Daily, PRN Constipation,
+10/18/23 1:22:00 CDT. (Milk of Magnesia)
+magnesium hydroxide
+Med Responses
+PRN
+ondansetron (Zofran ODT)
+4 mg, DIS Tablet, PO, Q8H (Every 8 hours), PRN
+Nausea/Vomiting 10/18/23 10:14:00 CDT,
+10/18/23 10:14:00 CDT
+ondansetron
+Med Responses
+
+PDF Page 29
+123
+10:54:23 a.m.
+10-24-2023
+29/42
+Flowsheet Print Request
+Printed by:
+Date Range: 10/23/2023 09:19 - 10/25/2023 09:19
+Printed on: 10/24/2023 09:19
+10/23/2023
+10/23/2023
+10/23/2023
+10/23/2023
+10/23/2023
+Medications
+20:59
+20:41
+17:00
+16:30
+16:00
+Scheduled
+amLODIPine
+10 mg, TAB, PO, Daily, 10/18/23 11:13:00 CDT
+At home, patient was taking medication with
+amlodipine
+benzocaine topical (Orajel)
+1 APP, GEL, TOP, 4 times a day, 10/23/23 17:00:00
+CDT
+benzocaine topical
+1 APP Auth (Ver
+Not Given: Othe
+cadexomer Iodine topical (cadexomer lodine ---
+0.9, GEL, TOP, Daily, 10/21/23 9:00:00 CDT
+Cleanse the wounds with NS, pat dry, apply lodos.
+cadexomer-iodine topical
+18
+doxycycline (doxycycline monohydrate)
+100 mg, CAP, PO, BID (2 times a day), Other-Enter
+in Order Comments, 10/18/23 11:15:00 CDT, Stop
+date 11/28/23 9:00:00 CST
+doxycycline
+100 mq Auth (V
+<9
+ferrous sulfate
+325 mg, TAB, PO, Daily, 10/18/23 11:20:00 CDT
+ferrous sulfate
+fluticasone nasal
+100 mcg, SPRAY, Nasal, Daily, 10/18/23 11:23:00
+CDT
+fluticasone nasal
+haloperidol (Haldol Decanoate)
+100 mg, INJ, IM, Q4WEEK (Every 4 weeks),
+10/18/23 7:18:00 CDT
+At home. patient was taking medication with
+haloperidol
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+haloperidol (Haldol)
+10 mg, TAB, PO, BID (2 times a day), 10/22/23
+9:00:00 CDT
+haloperido!
+10 mq Auth (Ve
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+
+PDF Page 30
+123
+10:54:42 a.m.
+10-24-2023
+30/42
+Flowsheet Print Request
+Printed by:
+Date Range: 10/23/2023 09:19 - 10/25/2023 09:19
+Printed on: 10/24/2023 09:19
+Medications
+10/23/2023
+10/23/2023
+10/23/2023
+10/23/2023
+10/23/2023
+20:59
+20:41
+17:00
+16:30
+16:00
+insulin glargine
+50 Unit, INJ, Subcut, Daily, 10/18/23 21:00:00 CDT
+At home, patient was taking medication with ass
+insulin glargine
+50 Unit Auth (Vc
+Blood Glucose, MAR
+2nd Clinician Verification Before Admin
+N/A U-100 Ins
+&
+insulin lispro
+18 Unit, INJ, Subcut, TIDAC (3 times a day before
+meals), 10/18/23 10:00:00 CDT
+---
+At home. patient was taking medication with
+insulin lispro
+Not Given: Refu
+Blood Glucose, MAR
+2nd Clinician Verification Before Admin
+N/A U-100 ins
+disinopril
+10 mg, TAB, PO, Daily, 10/18/23 11:14:00 CDT
+At home, patient was taking medication with
+lisinopril
+R
+metFORMIN
+1,000 mg, TAB, PO, BID (2 times a day), 10/18/23
+10:00:00 CDT
+At home. natient was taking medication with
+metFORMIN
+Not Given: Refu
+OLANZapine
+20 mg, TAB, PO, QHS (At bedtime), 10/18/23
+21:00:00 CDT
+At home, patient was taking medication with
+olanzapine
+20 mg Auth (Ve
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+PRN
+B
+PRN
+acetaminophen
+650 mg, TAB, PO, Q6H (Every 6 hours), PRN Pain,
+10/18/23 10:12:00 CDT, 10/18/23 10:12:00 CDT
+At home, patient was taking medication with
+acetaminophen
+Location of Pain
+Pain Site
+Acute Pain Score
+Acute Pain Goal
+Chronic Pain Score
+Chronic Pain Goal
+Wong-Baker FACES Pain Rating Scale
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+
+PDF Page 31
+123
+10:55:04 a.m.
+10-24-2023
+31 1/42
+Flowsheet Print Request
+Patient
+Printed by:
+MRN:
+Date Range: 10/23/2023 09:19 - 10/25/2023 09:19
+Printed on: 10/24/2023 09:19
+10/23/2023
+10/23/2023
+10/23/2023
+10/23/2023
+10/23/2023
+Medications
+20:59
+20:41
+17:00
+16:30
+16:00
+PRN
+albuterol (albuterol inhaler)
+180 mcg, INHALER, Inhalation, Q4H (Every 4
+hours), PRN Shortness of Breath, 10/18/23
+10:12:00 CDT
+albuterol
+PRN
+benztropine
+1 mg, INJ, IM, Q8H (Every 8 hours), PRN Other (see
+comment), 10/18/23 1:22:00 CDT, 10/18/23 1:22:00
+CDT
+PRN Stiffness/Akethesia
+benztropine
+PRN
+calcium carbonate (Tums 500)
+1,250 mg, CHEW TAB, Chewed, TID (3 times a day),
+PRN dvspensia. 10/18/23 10:14:00 CDT
+calcium carbonate
+PRN
+docusate (Colace)
+100 mg, CAP, PO, BID (2 times a day), PRN
+Constipation, 10/18/23 10:13:00 CDT, 10/18/23
+10-13-00 CDT
+docusate
+PRN
+fluticasone riasal (fluticasone 50 mcg/lnh nas...
+50 mcg, 1 Spray, SPRAY, Both Nares, Daily, PRN
+Congestion, 10/18/23 10:13:00 CDT
+At home. patient was taking medication with
+fluticasone nasal
+18
+PRN
+haloperidol
+5 mg, TAB, PO, Q8H (Every 8 hours), PRN Agitation,
+10/18/23 1:22:00 CDT
+haloperidol
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+KB
+PRN
+haloperidol
+10 mg, INJ, IM, Q3H (Every 3 hours), PRN
+Agitation, 10/18/23 1:22:00 CDT
+Give this medication ONLY if patient cannot toler...
+haloperidol
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+PRN
+ibuprofen (Motrin)
+400 mg, TAB, PO. Q8H (Every 8 hours). PRN Pain,
+Mild, 10/23/23 15:15:00 CDT, 10/23/23 15:15:00
+CDT
+ibuprofen
+
+PDF Page 32
+123
+10:55:24 a.m.
+10-24-2023
+32/42
+Flowsheet Print Request
+Patient:
+Printed by:
+MRN
+Date Range: 10/23/2023 09:19 - 10/25/2023 09:19
+Printed on: 10/24/2023 09:19
+Medications
+10/23/2023
+10/23/2023
+10/23/2023
+10/23/2023
+10/23/2023
+20:59
+20:41
+17:00
+16:30
+16:00
+Location of Pain
+Pain Site
+Acute Pain Score
+Acute Pain Goal
+Chronic Pain Score
+Chronic Pain Goal
+Wong-Baker FACES Pain Rating Scale
+Richmond Agltation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+9
+PRN
+loperamide (Imodium A-D)
+4 mg, CAP, PO, Q6H (Every 6 hours), PRN as
+needed for loose stool, 10/18/23 10:13:00 CDT,
+10/18/23 10:13:00 CDT
+loperamide
+/8
+PRN
+LORazepam
+1 mg, INJ. IM, Q6H (Every 6 hours), PRN as needed
+for anxiety, 10/18/23 1:22:00 CDT
+Give this medication ONLY If patient cannot toler
+LORazepam
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+8
+to
+PRN
+LORazepam
+1 mg, TAB, PO, Q8H (Every 8 hours), PRN as
+needed for anxiety, 10/18/23 1:22:00 CDT
+LORazepam
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+KE
+PRN
+magnesium hydroxide
+2.4 GM, SUSP, PO, Daily, PRN Constipation,
+10/18/23 1:22:00 CDT, (Milk of Magnesia)
+magnesium hydroxide
+Med Responses
+PRN
+ondansetron (Zofran ODT)
+4 mg, DIS Tablet, PO, Q8H (Every 8 hours), PRN
+Nausea/Vomiting 10/18/23 10:14:00 CDT,
+10/18/23 10-14-00 CDT
+ondansetron
+Med Responses
+
+PDF Page 33
+123
+10:55:43 a.m.
+10-24-2023
+33/42
+Flowsheet Print Request
+Patient:
+Printed by:
+MRN:
+Date Range: 10/23/2023 09:19 - 10/25/2023 09:19
+Printed on: 10/24/2023 09:19
+Medications
+10/23/2023
+10/23/2023
+10/23/2023
+13:46 12:46 12:13
+Scheduled
+amLODIPine
+10 mg, TAB, PO, Daily, 10/18/23 11:13:00 CDT
+At home, patient was taking medication with
+amlodipine
+benzocaine topical (Orajel)
+1 APP, GEL, TOP, 4 times a day, 10/23/23 17:00:00
+CDT
+benzocaine topical
+cadexomer iodine topical (cadexomer jodine see
+0.9, GEL, TOP, Daily, 10/21/23 9:00:00 CDT
+Cleanse the wounds with NS, pat dry, apply lodos..
+cadexomer-iodine topical
+8
+doxycycline (doxycycline monohydrate)
+100 mg, CAP, PO, BID (2 times a day), Other-Enter
+in Order Comments, 10/18/23 11:15:00 CDT, Stop
+date 11/28/23 9:00:00 CST
+doxycycline
+8
+ferrous sulfate
+325 mg, TAB, PO, Daily, 10/18/23 11:20:00 CDT
+ferrous sulfate
+fluticasone nasal
+100 mcg, SPRAY, Nasal, Daily, 10/18/23 11:23:00
+CDT
+fluticasone nasal
+/8
+haloperidol (Haldol Decanoate)
+100 mg, INJ, IM, Q4WEEK (Every 4 weeks),
+10/18/23 7:18:00 CDT
+--- At home. patient was taking medication with
+haloperidol
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+8
+haloperidol (Haldol)
+10 mg, TAB, PO, BID (2 times a day), 10/22/23
+9:00:00 CDT
+haloperidol
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+
+PDF Page 34
+123
+10:56:01 a.m. 10-24-2023
+34/42
+Flowsheet Print Request
+Patient
+Printed by:
+MRN:
+Date Range: 10/23/2023 09:19 - 10/25/2023 09:19
+Printed on: 10/24/2023 09:19
+10/23/2023
+10/23/2023
+10/23/2023
+Medications
+13:46
+12:46
+12:13
+18
+Insulin glargine
+50 Unit, INJ, Subcut, Daily, 10/18/23 21:00:00 CDT
+At home, patient was taking medication with
+insulin glargine
+Blood Glucose, MAR
+2nd Clinician Verification Before Admin
+Insulin lispro
+18 Unit, INJ, Subcut, TIDAC (3 times a day before
+meals), 10/18/23 10:00:00 CDT
+--- At home. patient was taking medication with ..
+insulin lispro
+18 Unit Auth (V
+Blood Glucose, MAR
+2nd Clinician Verification Before Admin
+N/A U-100 ins
+lisinopril
+10 mg, TAB, PO, Daily, 10/18/23 11:14:00 CDT
+---
+At home, patient was taking medication with 400
+disinopril
+metFORMIN
+1,000 mg, TAB, PO, BID (2 times a day), 10/18/23
+10:00:00 CDT
+At home. patient was taking medication with
+metFORMIN
+OLANZapine
+20 mg, TAB, PO, QHS (At bedtime), 10/18/23
+21:00:00 CDT
+At home, patient was taking medication with -
+olanzapine
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+PRN
+PRN
+acetaminophen
+650 mg, TAB, PO, Q6H (Every 6 hours), PRN Pain,
+10/18/23 10:12:00 CDT, 10/18/23 10:12:00 CDT
+At home, patient was taking medication with -
+acetaminophen
+* 650 mg Auth (
+Location of Pain
+Pain Site
+Acute Pain Score
+9 Auth (Verified
+Acute Pain Goal
+Chronic Pain Score
+Chronic Pain Goal
+Wong-Baker FACES Pain Rating Scale
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+Med Response ,
+
+PDF Page 35
+123
+10:56:22 a.m.
+10-24-2023
+35/42
+Flowsheet Print Request
+Patient
+Printed by:
+MRN:
+Date Range: 10/23/2023 09:19 - 10/25/2023 09:19
+Printed on: 10/24/2023 09:19
+10/23/2023
+10/23/2023
+10/23/2023
+Medications
+13:46
+12:46
+12:13
+PRN
+albuterol (albuterol inhaler)
+180 mcg, INHALER, Inhalation, Q4H (Every 4
+hours), PRN Shortness of Breath, 10/18/23
+10:12:00 CDT
+albuterol
+PRN
+benztropine
+1 mg, INJ, IM, Q8H (Every 8 hours), PRN Other (see
+comment), 10/18/23 1:22:00 CDT, 10/18/23 1:22:00
+CDT
+PRN Stiffness/Akethesia
+benztropine
+PRN
+calcium carbonate (Tums 500)
+1,250 mg, CHEW TAB, Chewed, TID (3 times a day),
+PRN dvspeosia. 10/18/23 10:14:00 CDT
+calcium carbonate
+PRN
+docusate (Colace)
+100 mg, CAP, PO, BID (2 times a day), PRN
+Constipation, 10/18/23 10:13:00 CDT, 10/18/23
+10:13:00 CDT
+docusate
+PRN
+fluticasone nasal (fluticasone 50 mcg/Inh nas...
+50 mcg, 1 Spray, SPRAY, Both Nares, Daily, PRN
+Congestion, 10/18/23 10:13:00 CDT
+:
+At home. patient was taking medication with
+fluticasone nasal
+2
+PRN
+haloperidol
+5 mg, TAB, PO, Q8H (Every 8 hours), PRN Agitation,
+10/18/23 1:22:00 CDT
+haloperidol
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+B
+PRN
+haloperidol
+10 mg, INJ, IM, Q3H (Every 3 hours), PRN
+Agitation, 10/18/23 1:22:00 CDT
+Give this medication ONLY if patient cannot toler...
+haloperidol
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+PRN
+ibuprofen (Motrin)
+400 mg, TAB, PO, Q8H (Every 8 hours), PRN Pain,
+Mild, 10/23/23 15:15:00 CDT, 10/23/23 15:15:00
+CDT
+ibuprofen
+
+PDF Page 36
+123
+10:56:42 a.m.
+10-24-2023
+36/42
+Flowsheet Print Request
+Patien
+Printed by:
+MRN:
+Date Range: 10/23/2023 09:19 - 10/25/2023 09:19
+Printed on: 10/24/2023 09:19
+Medications
+10/23/2023
+10/23/2023
+10/23/2023
+13:46
+12:46
+12:13
+Location of Pain
+Pain Site
+Acute Pain Score
+Acute Pain Goal
+Chronic Pain Score
+Chronic Pain Goal
+Wong-Baker FACES Pain Rating Scale
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+R
+PRN
+loperamide (Imodium A-D)
+4 mg, CAP, PO, Q6H (Every 6 hours), PRN as
+needed for loose stool, 10/18/23 10:13:00 CDT,
+10/18/23 10:13:00 CDT
+loperamide
+8
+PRN
+LORazepam
+1 mg, INJ, IM, Q6H (Every 6 hours), PRN as needed
+for anxiety, 10/18/23 1:22:00 CDT
+Give this medication ONLY If patient cannot tnler
+LORazepam
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+R
+PRN
+LORazepam
+1 mg, TAB, PO, Q8H (Every 8 hours), PRN as
+needed for anxiety, 10/18/23 1:22:00 CDT
+LORazepam
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+/8
+PRN
+magnesium hydroxide
+2.4 GM, SUSP, PO, Daily, PRN Constipation,
+10/18/23 1:22:00 CDT, (Milk of Magnesia)
+magnesium hydroxide
+Med Responses
+PRN
+ondansetron (Zofran ODT)
+4 mg, DIS Tablet, PO, Q8H (Every 8 hours), PRN
+Nausea/Vomiting 10/18/23 10:14:00 CDT,
+PDF Page 37
+10/18/23 10-14-00 CDT
+ondansetron
+Med Responses
+
+PDF Page 38
+123
+10:57:00 a.m. 10-24-2023
+37/42
+BH MTP Plan of Care Shift Assessment
+10/23/23 16:31 CDT Performed by
+RN,CPI,
+Entered on 10/23/23 16:34 CDT
+BH Problem 1
+BH MTP Problem 1: schizophrenia and ineffective coping
+BH MTP Problem 1 Status: Active
+BH MTP Problem 1 Symptoms: Bipolar, Schizophrenia/Psychotic
+BH MTP Problem 1 Goal 1:
+will not show any aggressive behavior once while admitted
+BH MTP Problem 1 Goal Target Date 1: 10/25/23
+BH MTP Problem 1 Goal Type 1: Short term
+BH MTP Problem 1 Goal Status 1: Not progressing
+BH MTP Problem 1 Goal 1 Grid
+BH MTP Problem 1
+Intervention 1
+Allow patient to
+Encourage patient to
+verbalize
+reframe/refute
+frustrations
+negative thoughts
+BH MTP Problem 1
+Discipline 1
+Team
+Team
+BH MTP Problem 1
+Frequency 1
+q shift
+q shift
+BH MTP Problem 1
+Duration 1
+7 days
+7 days
+BH MTP Problem 1
+Status 1
+Done
+Done
+BH MTP Problem 1 Goal 2:
+will be compliant with ordered meds here and after discharge
+BH MTP Problem 1 Goal Target Date 2: 11/01/23
+BH MTP Problem 1 Goal Type 2: Long term
+BH MTP Problem 1 Goal Status 2: Progressing
+BH MTP Problem 1 Goal 2 Grid
+BH MTP Problem 1
+Intervention 2
+RN will explain
+Assess patient's
+purpose of each
+thought process and
+medication
+current level of
+administered and
+psycho
+BH MTP Problem 1
+Discipline 2
+Team
+Team
+BH MTP Problem 1
+Frequency 2
+q shift
+q shift
+BH MTP Problem 1
+Duration 2
+until discharge
+until discharge
+BH MTP Problem 1
+Status 2
+Done
+Done
+POC Shift Narrative
+BH Shift Narrative: Pt has been anxious, delusional, having frequent requests, labile, paranoid
+and
+restless. Pt has been medication compliant with no complaints of medication side effects. Pt
+attended partial groups. Pt currently denies SI/HI or A/V hallucinations but has been responding to
+internal stimuli.
+A)
+Patient Name:
+DOB 7 AGE 7 SEX:
+39 Years Female
+Admitting Physician:
+Admission Date / MRN 7 Financial Num: 10/18/23
+
+Print Date: 10/24/23
+Print Time: 10:26 CDT
+Printed by
+PDF Page 39
+123
+10:57:25 a.m.
+10-24-2023
+38/42
+PDF Page 40
+123
+10:57:32 a.m. 10-24-2023
+39/42
+BH MTP Plan of Care Shift Assessment
+10/22/23 04:57 CDT Performed by
+RN,CPI,
+Entered on 10/22/23 05:00 CDT
+BH Problem 1
+BH MTP Problem 1: schizophrenia and ineffective coping
+BH MTP Problem 1 Status: Active
+BH BH MTP MTP Problem Problem 1 1 Symptoms: Goal 1: Bipolar, will Schizophrenia/Psychotic not show any aggressive behavior once while admitted
+BH MTP Problem 1 Goal Target Date 1: 10/25/23
+BH MTP Problem 1 Goal Type 1: Short term
+BH MTP Problem 1 Goal Status 1: Progressing
+BH MTP Problem 1 Goal 1 Grid
+BH MTP Problem 1
+Intervention 1
+Allow patient to
+Encourage patient to
+verbalize
+reframe/refute
+frustrations
+negative thoughts
+BH MTP Problem 1
+Discipline 1
+Team
+Team
+BH MTP Problem 1
+Frequency 1
+q shift
+q shift
+BH MTP Problem 1
+Duration 1
+7 days
+7 days
+BH MTP Problem 1
+Status 1
+Done
+Done
+BH MTP Problem 1 Goal 2:
+will be compliant with ordered meds here and after discharge
+BH MTP Problem 1 Goal Target Date 2: 11/01/23
+BH MTP Problem 1 Goal Type 2: Long term
+BH MTP Problem 1 Goal Status 2: Progressing
+BH MTP Problem 1 Goal 2 Grid
+BH MTP Problem 1
+Intervention 2
+RN will explain
+Assess patient's
+purpose of each
+thought process and
+medication
+current level of
+administered and
+psycho
+BH MTP Problem 1
+Discipline 2
+Team
+Team
+BH MTP Problem 1
+Frequency 2
+a shift
+q shift
+BH MTP Problem 1
+Duration 2
+until discharge
+until discharge
+BH MTP Problem 1
+Status 2
+Done
+Done
+POC Shift Narrative
+BH Shift Narrative: Pt has been isolative to her room, guarded , no group attendance, compliant with
+her HS meds, slept on and off during the night, attention-seeking and needy, focused on having
+snacks, anxious, easily irritable, given PRN meds, redirectable; moitored for acute distress nd
+untoard behavior.
+Patient Name:
+DOB / AGE / SEX:
+39 Years Female
+Admitting Physici
+Admission Date / MRN / Financial Num: 10/18/23
+
+Print Date: 10/24/23
+Print Time: 10:27 CDT
+Printed by
+PDF Page 41
+123
+10:57:57 a.m.
+10-24-2023
+40/42
+PDF Page 42
+123
+10:58:05 a.m.
+10-24-2023
+41/42
+BH MTP Plan of Care Shift Assessment
+10/20/23 05:27 CDT Performed by
+RN, CPI,
+Entered on 10/20/23 05:35 CDT
+BH Problem 1
+BH MTP Problem 1: schizophrenia and ineffective coping
+BH MTP Problem 1 Status: Active
+BH MTP Problem 1 Symptoms: Bipolar, Schizophrenia/Psychotic
+BH MTP Problem 1 Goal 1:
+will not show any aggressive behavior once while admitted
+BH MTP Problem 1 Goal Target Date 1: 10/25/23
+BH MTP Problem 1 Goal Type 1: Short term
+BH MTP Problem 1 Goal Status 1: Progressing
+BH MTP Problem 1 Goal 1 Grid
+BH MTP Problem 1
+Intervention 1
+Allow patient to
+Encourage patient to
+verbalize
+reframe/refute
+frustrations
+negative thoughts
+BH MTP Problem 1
+Discipline 1
+Team
+Team
+BH MTP Problem 1
+Frequency 1
+q shift
+q shift
+BH MTP Problem 1
+Duration 1
+7 days
+7 days
+BH MTP Problem 1 Goal 2:
+will be compliant with ordered meds here and after discharge
+BH MTP Problem 1 Goal Target Date 2: 11/01/23
+BH MTP Problem 1 Goal Type 2: Long term
+BH MTP Problem 1 Goal Status 2: Progressing
+BH MTP Problem 1 Goal 2 Grid
+BH MTP Problem 1
+Intervention 2
+RN will explain
+Assess patient's
+purpose of each
+thought process and
+medication
+current level of
+administered and
+psycho
+BH MTP Problem 1
+Discipline 2
+Team
+Team
+BH MTP Problem 1
+Frequency 2
+q shift
+q shift
+BH MTP Problem 1
+Duration 2
+until discharge
+until discharge
+POC Shift Narrative
+BH Shift Narrative: Pt Aox3, delusional, paranoid, oppisitional, defiant. Pt can become loud at
+times. Hesistant with insulin and accuchecks stating "I don't need it, i'm fine without it" Staff
+able to redirect pt into taking insulin and allow blood sugar monitoring. Wound on right foot
+assessed and documented. Pt observed to sit in bathroom, turn shower on and read book. Pt
+redirected from behavior, unstanding at that time. Woke up early morning around 4:30AM, began
+singing and responding to internal stimuli. Complaint with medications, denie si/hi. Monitored q15
+minutes for safety and well-being,
+Patient Name:
+DOB / AGE / SEX:
+39 Years Female
+Admitting Physician:
+Admission Date / MRN 7 Financial NUM: 10/18/23
+
+Print Date: 10/24/23
+Print Time: 10:31 CDT
+Printed by

@@ -1,0 +1,216 @@
+uterol (albuterol inhaler)
+180 mcg, INHALER, Inhalation, Q4H (Every 4
+hours), PRN Shortness of Breath, [DATE]
+10:12:00 CDT
+albuterol
+PRN
+benztropine
+1 mg, INJ, IM, Q8H (Every 8 hours), PRN Other (see
+comment), [DATE] 1:22:00 CDT, [DATE] 1:22:00
+CDT
+PRN Stiffness/Akethesia
+benztropine
+PRN
+calcium carbonate (Tums 500)
+1,250 mg, CHEW TAB, Chewed, TID (3 times a day),
+PRN dvspeosia. [DATE] 10:14:00 CDT
+calcium carbonate
+PRN
+docusate (Colace)
+100 mg, CAP, PO, BID (2 times a day), PRN
+Constipation, [DATE] 10:13:00 CDT, [DATE]
+10:13:00 CDT
+docusate
+PRN
+fluticasone nasal (fluticasone 50 mcg/Inh nas...
+50 mcg, 1 Spray, SPRAY, Both Nares, Daily, PRN
+Congestion, [DATE] 10:13:00 CDT
+:
+At home. patient was taking medication with
+fluticasone nasal
+2
+PRN
+haloperidol
+5 mg, TAB, PO, Q8H (Every 8 hours), PRN Agitation,
+[DATE] 1:22:00 CDT
+haloperidol
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+B
+PRN
+haloperidol
+10 mg, INJ, IM, Q3H (Every 3 hours), PRN
+Agitation, [DATE] 1:22:00 CDT
+Give this medication ONLY if patient cannot toler...
+haloperidol
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+PRN
+ibuprofen (Motrin)
+400 mg, TAB, PO, Q8H (Every 8 hours), PRN Pain,
+Mild, [DATE] 15:15:00 CDT, [DATE] 15:15:00
+CDT
+ibuprofen
+
+PDF Page 36
+123
+10:56:42 a.m.
+6/30/2023
+[DATE]
+Flowsheet Print Request
+Patien
+Printed by:
+MRN:
+Date Range: 6/30/2023 09:19 - 6/30/2023 09:19
+Printed on: 6/30/2023 09:19
+Medications
+6/30/2023
+6/30/2023
+6/30/2023
+13:46
+12:46
+12:13
+Location of Pain
+Pain Site
+Acute Pain Score
+Acute Pain Goal
+Chronic Pain Score
+Chronic Pain Goal
+Wong-Baker FACES Pain Rating Scale
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+R
+PRN
+loperamide (Imodium A-D)
+4 mg, CAP, PO, Q6H (Every 6 hours), PRN as
+needed for loose stool, [DATE] 10:13:00 CDT,
+[DATE] 10:13:00 CDT
+loperamide
+8
+PRN
+LORazepam
+1 mg, INJ, IM, Q6H (Every 6 hours), PRN as needed
+for anxiety, [DATE] 1:22:00 CDT
+Give this medication ONLY If patient cannot tnler
+LORazepam
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+R
+PRN
+LORazepam
+1 mg, TAB, PO, Q8H (Every 8 hours), PRN as
+needed for anxiety, [DATE] 1:22:00 CDT
+LORazepam
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+/8
+PRN
+magnesium hydroxide
+2.4 GM, SUSP, PO, Daily, PRN Constipation,
+[DATE] 1:22:00 CDT, (Milk of Magnesia)
+magnesium hydroxide
+Med Responses
+PRN
+ondansetron (Zofran ODT)
+4 mg, DIS Tablet, PO, Q8H (Every 8 hours), PRN
+Nausea/Vomiting [DATE] 10:14:00 CDT,
+PDF Page 37
+[DATE] [DATE] CDT
+ondansetron
+Med Responses
+
+PDF Page 38
+123
+10:57:00 a.m. 6/30/2023
+[PHI]
+BH MTP Plan of Care Shift Assessment
+[DATE] 16:31 CDT Performed by
+RN,CPI,
+Entered on [DATE] 16:34 CDT
+BH Problem 1
+BH MTP Problem 1: schizophrenia and ineffective coping
+BH MTP Problem 1 Status: Active
+BH MTP Problem 1 Symptoms: Bipolar, Schizophrenia/Psychotic
+BH MTP Problem 1 Goal 1:
+will not show any aggressive behavior once while admitted
+BH MTP Problem 1 Goal Target Date 1: [DATE]
+BH MTP Problem 1 Goal Type 1: Short term
+BH MTP Problem 1 Goal Status 1: Not progressing
+BH MTP Problem 1 Goal 1 Grid
+BH MTP Problem 1
+Intervention 1
+Allow patient to
+Encourage patient to
+verbalize
+reframe/refute
+frustrations
+negative thoughts
+BH MTP Problem 1
+Discipline 1
+Team
+Team
+BH MTP Problem 1
+Frequency 1
+q shift
+q shift
+BH MTP Problem 1
+Duration 1
+7 days
+7 days
+BH MTP Problem 1
+Status 1
+Done
+Done
+BH MTP Problem 1 Goal 2:
+will be compliant with ordered meds here and after discharge
+BH MTP Problem 1 Goal Target Date 2: [DATE]
+BH MTP Problem 1 Goal Type 2: Long term
+BH MTP Problem 1 Goal Status 2: Progressing
+BH MTP Problem 1 Goal 2 Grid
+BH MTP Problem 1
+Intervention 2
+RN will explain
+Assess patient's
+purpose of each
+thought process and
+medication
+current level of
+administered and
+psycho
+BH MTP Problem 1
+Discipline 2
+Team
+Team
+BH MTP Problem 1
+Frequency 2
+q shift
+q shift
+BH MTP Problem 1
+Duration 2
+until discharge
+until discharge
+BH MTP Problem 1
+Status 2
+Done
+Done
+POC Shift Narrative
+BH Shift Narrative: Pt has been anxious, delusional, having frequent requests, labile, paranoid
+and
+restless. Pt has been medication compliant with no complaints of medication side effects. Pt
+attended partial groups. Pt currently denies SI/HI or A/V hallucinations but has been responding to
+internal stimuli.
+A)
+Patient Name:
+DOB 7 AGE 7 SEX:
+[AGE] Years Female
+Admitting Physician:
+Admission Date / MRN 7 Financial Num: [DATE]
+
+Print Date: [DATE]
+Print Time: 10:26 CDT
+Printed by

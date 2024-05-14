@@ -1,0 +1,238 @@
+
+Daily
+tablet 1,000 mcg
+mcg
+[Held by Provider] 40 mg Subcutaneous
+Daily
+enoxaparin
+(LOVENOX)
+injection 40 mg
+famotidine
+20 mg Oral
+BID
+(PEPCID) tablet
+20 mg
+hydroxyurea
+500
+Oral
+BID
+(HYDREA)
+mg
+capsule 500 mg
+latanoprost
+1 drop Both Eyes
+QPM
+(XALATAN) 0.005
+% ophthalmic
+solution 1 drop
+
+PDF Page 20
+pravastatin
+20 mg Oral
+Nightly
+(PRAVACHOL)
+tablet 20 mg
+senna-docusate
+2
+Oral
+BID
+(PERICOLACE)
+tablet
+8.6-50 mg per
+tablet 2 tablet
+Continuous Infusions:
+Current Facility-Administered Medications
+Medication
+Dose
+Route
+Frequency
+Lactated Ringers
+IV Infusion
+Continuous
+Lactated Ringers
+IV Infusion
+Continuous
+Lactated Ringers
+IV Infusion
+Continuous
+PRN Meds: benzocaine- menthol (CEPACOL) sore throat, diphenhydrAMINE,
+diphenhydrAMINE, HYDROmorphone, metoclopramide, ondansetron (PF) **OR**
+ondansetron-ODT, polyvinyl alcohol, prochlorperazine, simethicone, traMADoL
+Vitals:
+[DATE] 1950
+[DATE] 2330
+[DATE] 0344
+BP:
+108/51
+(!) 101/44
+(!) 103/43
+Pulse:
+61
+62
+77
+Resp:
+16
+16
+16
+Temp:
+98.1 °F (36.7 °C)
+98.8 °F (37.1 °C)
+98.9 °F (37.2 ° °C)
+TempSrc:
+Oral
+Oral
+Oral
+SpO2:
+92%
+98%
+97%
+Weight:
+Height:
+Gen - Pleasant, in no acute distress. Non-toxic appearing, alert/appropriate
+HEENT - moist mucus membranes, ncat
+Neck - trachea midline.
+CV - RRR, no m/r/g
+Lungs - clear to auscultation bilaterally, no w/r/r, nml effort on room air
+Abdomen - +minimal distension. Incision dressed with minimal strike through, +JP, +BS
+Ext - no edema or cyanosis, distal ext warm and well perfused
+Skin - no jaundice
+Neuro - speech fluent. No tremor
+Labs:
+CBC, INR
+Recent Labs
+Lab
+[DATE]
+[DATE]
+1037
+0438
+WBC
+--
+9.0
+HGB
+8.8*
+6.4*
+PLT
+--
+117*
+CMP
+Recent Labs
+
+PDF Page 21
+Lab
+[DATE]
+0438
+NA
+138
+K
+4.6
+CL
+108*
+CO2
+25
+BUN
+16
+CREATININE
+0.71
+GLUCOSE
+117*
+CALCIUM
+8.7
+Pending Labs
+Order
+Current Status
+CYTOLOGY, BODY FLUID
+In process
+SURGICAL PATHOLOGY
+In process
+RBC Prepare and Crossmatch, 1 Units
+Preliminary result
+RBC Prepare and Crossmatch, 2 Units
+Preliminary result
+Imaging:
+None this encounter
+A/P:
+is a [AGE] y.o. F with a history of essential thrombocytosis, DVT, PE s/p IVC
+filter, B12 deficiency anemia, pelvic mass, admitted 6/30/2023 s/p exlap, R oophrecotmy,
+LOA, omentectomy.
+s/p exlap, R oophrecotmy, LOA, omentectomy
+- management per gyn onc
+Acute blood loss anemia superiposed on chjronic anemia
+- transfuse 1 unit pRBC
+- trend cbc Repeat early afternoon
+- anticoagulation on hold
+H/o essential thrombocytosis
+- continue hydroxyurea
+- f/u w/ Dr. [NAME]
+Hx of DVT/PE
+Hx of IVC filter
+- hold AC, AP, NSAID 2/2 post op bleeding concerns acutely. Reassess pending clinical
+course and HGB trend
+- pt to eventually f/u W IR as outpatient for IVC filter removal
+B 12 deficiency anemia
+- continue B12
+Glaucoma
+- continue latanoprost
+Hospital Medicine Checklist 6/30/2023
+
+PDF Page 22
+DVT prophylaxis: SCDs
+CVC/Foley: +folety post-op / no CVC
+AM Labs: Yes - post-op
+IV fluids: Yes - post-op
+Tele: No
+Expected Discharge Date: TBD pending post op course. Hear at least one more night to
+monitor HGB
+MD
+NMRMG Hospitalist
+(Tele):
+(Fax):
+Therapy Note (last 48 hours)
+PT (Physical Therapist) 6/30/2023 09:41 Rehabilitation Services
+Physical Therapy Initial Evaluation
+PATIENT NAME:
+DOB: [BIRTHDATE] MRN:
+CSN:
+Payor: Payor: MEDICAID REPLACEMENT / Plan: [PHI] OF IL /
+Product Type: HMO /
+Session Date: [DATE] Session Time: 0928
+Patient Received: Supine in bed
+Medical Lines/Equipment: (none)
+History of Present Illness/Therapy Diagnosis: pelvis mass
+Pertinent Past Medical/Surgical History:
+Past Medical History:
+Diagnosis
+Date
+Anemia
+Essential hypertension, benign
+Essential thrombocytosis (CMS-HCC)
+6/30/2023
+PE (pulmonary thromboembolism) (CMS-HCC)
+Thrombocytosis
+Vitamin B 12 deficiency
+Past Surgical History:
+Procedure
+Laterality
+Date
+ABDOMEN SURGERY
+6/30/2023
+Exploratory laparatomy, right oophorectomy, pelvic and paraaortic lymphadenectomy,
+infragastric omentectomy, right ureterolysis with Dr. [NAME] @ CDH
+HYSTERECTOMY
+6/30/1990
+IR BIOPSY BONE MARROW
+6/30/2023
+IR BIOPSY BONE MARROW 6/30/2023 CDH INTERVENTIONAL LABS
+IR IVC FILTER PLACEMENT
+6/30/2023
+IR IVC FILTER PLACEMENT 6/30/2023 CDH INTERVENTIONAL LABS
+
+PDF Page 23
+RUE weight bearing: No restrictions
+LUE weight bearing: No restrictions
+RLE weight bearing: No restrictions
+LLE Weight Bearing: No restrictions
+Precautions: Fall
+Interpreter Use
+Free and Confidential Interpreter Offered: Yes
+Interpreter Name and ID: dtr requested to interpret but despite several requests for dtr to
+walk wiuth pt, dtr remained in room on phone. pt was able to understand gener

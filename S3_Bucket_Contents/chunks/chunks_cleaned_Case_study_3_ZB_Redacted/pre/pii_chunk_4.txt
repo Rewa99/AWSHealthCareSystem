@@ -1,0 +1,206 @@
+eds: benzocaine- menthol (CEPACOL) sore throat, diphenhydrAMINE,
+diphenhydrAMINE, HYDROmorphone, metoclopramide, ondansetron (PF) **OR**
+ondansetron-ODT, polyvinyl alcohol, prochlorperazine, simethicone, traMADoL
+Allergies: Patient has no known allergies.
+Temperature: [97.8 °F (36.6 °C)-99.1 °F (37.3 °C)] 97.8 °F (36.6 °C)
+
+PDF Page 13
+Heart Rate: [[AGE]-84] 84
+Respirations: [16-18] 17
+Blood Pressure: (109-135)((41-55) [AGE]5/54
+SpO2: [91 %-98 %] 97 %
+Intake/Output:
+I/O last 3 completed shifts:
+In: 1708.7 [P.O.:840; I.V.:268.7; Blood:600]
+Out: 2250 [Urine:1650 Drains:600]
+Physical Exam:
+General: This woman is in no distress appearing comfortable, she is alert and oriented and
+responds appropriately to questions.
+HEENT: moist mucous membranes, no thrush
+Lungs are clear to auscultation bilaterally with normal chest excursions.
+Cardiovascular examination reveals RRR, without S3 or rub.
+Abdomen is soft, nontender, nondistended without hepatosplenomegaly. She has no
+evidence of hernia, mass or ascites. + BS X 4. JP drain with SSG output
+Extremities are without cyanosis, clubbing or edema.
+Neuro exam is grossly nonfocal.
+Wound Description: midline incision island dressing removed. Staples intact.
+Data Review:
+HEM:
+Recent Labs
+Lab
+[DATE]
+[DATE]
+[DATE]
+[DATE]
+1037
+0438
+[AGE]57
+0517
+WBC
+--
+9.0
+10.8*
+9.1
+HGB
+8.8*
+6.4*
+9.0*
+8.5*
+PLT
+--
+117*
+[AGE]5*
+[AGE]8*
+Chem:
+Recent Labs
+Lab
+[DATE]
+[DATE]
+0438
+0517
+NA
+138
+142
+K
+4.6
+3.9
+CL
+108*
+108*
+CO2
+25
+27
+BUN
+16
+16
+CREATININE
+0.71
+0.70
+GLUCOSE
+117*
+109*
+CALCIUM
+8.7
+8.0*
+Coagulation:
+Recent Labs
+
+PDF Page 14
+Lab
+[DATE]
+[DATE]
+[DATE]
+0438
+[AGE]57
+0517
+PLT
+117*
+[AGE]5*
+[AGE]8*
+Tumor Markers:
+CA [AGE]5
+Date
+Value
+Ref Range
+Status
+6/30/2023
+35.0
+0.0 - 35.0 Units/mL
+Final
+06/30/2023
+59.0 (H)
+0.0 - 35.0 - Units/mL
+Final
+Last 3 Weights:
+Wt Readings from Last 3 Encounters:
+[DATE]
+59.2 kg (130 lb 8.2 oz)
+[DATE]
+58.1 kg ([AGE]8 lb)
+[DATE]
+59.4 kg (130 lb 14.4 oz)
+Assessment:
+[AGE] y.o. female POD #2 after Procedure(s):
+Exploratory laparotomy, right oopohorectomy, pelvic and paraaortic lymphadenectomy,
+infragastric omentectomy, right ureterolysis, extensive lysis of adhesions
+Patient Active Problem List
+Diagnosis
+Cellulitis
+Acute deep vein thrombosis (DVT) of femoral vein of left lower extremity (CMS-HCC)
+Acute pulmonary embolism without acute cor pulmonale (CMS-HCC)
+Pelvic mass in female
+Presence of IVC filter RETRIEVABLE
+Preop testing
+Acute blood loss as cause of postoperative anemia
+Essential thrombocytosis (CMS-HCC)
+Plan:
+[PHI]: [PHI] Pending, frozen c/w HGSOC. Will need to be presented at [PHI]
+when final path resulted
+GI: regular diet, - flatus. Inpatient nausea protocol. Bowel protocol.
+Pain: controlled with Acetaminophen and Tramadol prn
+GI prophylaxis: Pepcid
+CV: normal heart rate and BP
+Pulm: encourage IS and deep breathing
+GU: Voiding, adequate UOP.
+DVT prophylaxis: SCDs, transition to lovenox starting tomorrow morning. Will need AC
+upon d/c.
+Heme: stable WBC, hgb stable, s/p 1u PRBC on [DATE]. No transfusion needs at this time.
+Electrolytes: replete as needed per protocol
+Activity: ambulate several times a day, encourage IS 10x/hr while awake
+
+PDF Page 15
+Disposition: anticipate discharge home possibly 2-3d. PT recommending SAR placement
+upon d/c
+Case discussed with Dr.
+PA-C
+Gynecologic- Oncology
+Progress Notes by
+PA-C at 6/30/2023 7:32 AM
+Version 1 of 1
+Author:
+PA-C
+Service: [PHI]
+Author Type: Physician Assistant
+Filed: 6/30/2023 10:32 AM
+Date of Service: 6/30/2023 7:32 Status: Cosign Needed
+AM
+Editor:
+PA-C (Physician Assistant)
+Cosign Required: Yes
+Gynecologic Oncology Progress Note
+Subjective:
+Surgery Date: 6/30/2023
+POD: 1 Day Post-Op
+Surgery: Procedure(s):
+Exploratory laparotomy, right oopohorectomy, pelvic and paraaortic lymphadenectomy,
+infragastric omentectomy, right ureterolysis, extensive lysis of adhesions
+Interval History: patient resting in bed. VSS, afebrile. Hgb this AM to 6.4, 1u PRBC ordered.
+States she has been feeling "weak". JP drain with 200cc output overnight. Tolerating
+general diet, ate full breakfast without nausea. Pain well controlled with PO tylenol. Foley
+with 550cc urine output in past [AGE]h, appears yellow this AM. Has not yet ambulated 2/2
+weakness, denies SOB/CP. Denies flatus or BM.
+Objective:
+Scheduled Meds:
+Current Facility-Administered Medications
+Medication
+Dose
+Route
+Frequency
+acetaminophen
+650
+Oral
+4x Daily
+(TYLENOL) tablet mg
+650 mg
+[START ON
+10 mg Rectal
+Once
+6/30/2023]
+bisacodyL
+(DULCOLAX)
+suppository 10 mg
+cyanocobalamin
+1,000
+Oral
+Daily
+tablet

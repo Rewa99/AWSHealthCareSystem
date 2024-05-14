@@ -1,0 +1,327 @@
+prazole DR CAP
+20 mg
+Start: 9:00 [DATE] Step: 23:59 [DATE]
+Admin
+Sched
+(PriLOSEC)
+[DATE]
+9:20
+9:00
+Complete
+kslupek
+OralONCE ADAY
+[DATE]
+8:14
+9:00
+Complete
+rsoriano
+for GERD
+A prazosin CAPSULE
+1 mg
+Start: 21:00 [DATE] Stop: 23:59 [DATE]
+Admin
+Sched
+(Minipress)
+[DATE] 20:45 21:00 Complete
+mebreo
+OralAT BEDTIME
+[DATE]
+20:37
+21:00
+Complete
+sjohn
+for nightmares
+D QUEtiapine TABLET
+300 mg
+Start: 21:00 [DATE] Stop: 16:56 [DATE]
+Admin
+Sched
+(SEROquel)
+[DATE] 20:45 21:00 Complete
+mebreo
+OralAT BEDTIME
+for Mood
+A QUEtiapine TABLET
+600 mg
+Start: 21:00 [DATE] Stop: 23:59 [DATE]
+Admin
+Sched
+(SEROquel)
+[DATE] 20:37
+21:00
+Complete
+sjohn
+OralAT BEDTIME
+To give 600 mg use 2 of 300 mg
+for Mood
+A Suicidal Ideation Severity Assessment
+Start 16:00 [DATE] Stop 23:59 [DATE]
+Admin
+Sched
+DAILY AT 1600
+[DATE] 12:06 16:00 Complete
+agarin
+[DATE] 14:55 16:00 Complete
+kslupek
+[DATE] 10:14 16:00 Complete
+jlundang
+D TSH ONLY, ULTRA SENSITIVE 3RD GEN
+Start: 10:00 [DATE] Stop: 10:19 [DATE]
+Admin
+Sched
+EVERY MORNING UNTIL COMPLETE
+[DATE]
+16:01
+10:00
+Not Administered/No kslupek
+Other See Notes
+[DATE]
+10:19
+10:00
+Complete
+rsoriano
+D Urine Drug Screen
+Start: 10:00 [DATE] Stop: 0:47 [DATE]
+Admin
+Sched
+EVERY MORNING UNTIL COMPLETE
+[DATE] 16:01
+10:00
+Not Administered/No kslupek
+Nurse Collect
+Other See Notes
+A
+Vital Signs
+Start: 21:00 [DATE] Stop: 23:59 [DATE]
+Admin
+Sched
+TWICE A DAY
+[DATE]
+21:09
+21:00
+Complete
+mebreo
+[DATE] &:37 9:00 Complete
+agarin
+[DATE] 19:57 21:00 Complete
+sjohn
+[DATE] 10:19
+9:00
+Complete
+rsoriano
+printed: [DATE]/23 12:37
+
+PDF Page 3
+Powered by eGoldFax 6/30/2023 14:30
+eGoldFax
+
+Medication Administration Record
+6/30/2023 11:00 - 6/30/2023 12:37
+Name: [NAME]
+Name
+Location
+Admit Date: 6/30/2023
+Physician:
+DOB: [BIRTHDATE]
+D Weight
+Start: 11:42 [DATE] Stop: 12:08 [DATE]
+Admin
+Sched
+NOW
+[DATE] 12:08 11:42 Complete
+agarin
+A rivaroxaban TABLET
+10 mg
+Start: 9:00 [DATE] Step: 23:59 [DATE]
+Admin
+Sched
+(*Xarelto)
+[DATE]
+9:21
+9:00
+Complete
+kslupek
+Oral ONCE ADAY
+[DATE]
+&14
+9:00
+Complete
+rsoriano
+for dvt
+A sertraline TABLET (Zoloft) 50 mg
+Start: 9:00 [DATE] Step: 23:59 [DATE]
+Admin
+Sched
+Oral ONCE ADAY
+[DATE]
+9:20
+9:00
+Complete
+kslupek
+for Mood
+[DATE]
+8:14
+9:00
+Complete
+rsoriano
+Simultaneous with
+sertraline TABLET (Zoloft) 25 mg
+A sertraline TABLET (Zoloft) 25 mg
+Start: 9:00 [DATE] Step: 23:59 [DATE]
+Admin
+Sched
+Oral ONCE ADAY
+for Depression
+take with 50mg (total 75mg)
+Simultaneous with
+sertraline TABLET (Zokoft) 50 mg
+P buprenorphine TABLET
+8 mg
+Start: 18:47 [DATE] Step: 9:55 [DATE]
+Admin
+Sched
+(*Subutex) PRN
+Sublingual TWICE DAILY 0900 & 2100
+PRN
+for Maintenance
+Max Daily Doses: 2
+A dicyclomine TABLET
+20 mg
+Start: 13:59 [DATE] Step: 23:59 [DATE]
+Admin
+Sched
+(Bentyl) PRN
+Oral THREE TIMES DAILY 0900 1300
+1700 PRN
+for Stomach Cramps
+Max Daily Doses: 3
+A LORazepam TABLET ("Ativan) 1 mg PRN
+Start: 14:29 [DATE] Stop: 23:59 [DATE]
+Admin
+Sched
+Oral EVERY HOURS PRN
+[DATE] 14:56
+Complete
+kslupek
+for Anxiety
+[DATE]
+1:24
+Complete
+mebree
+Max Daily Doses: 4
+[DATE]
+9:20
+Complete
+kslupek
+[DATE] 17:46
+Complete
+kslupek
+[DATE] 0:12
+Complete
+sjohn
+[DATE] 8:16
+Complete
+rsoriano
+A melatonin TABLET
+5 mg PRN
+Start: 13:59 [DATE] Stop: 23:59 [DATE]
+Admin
+Sched
+Oral AT BEDTIME PRN
+[DATE] 20:49
+Complete
+mebree
+for Iasomnia
+Max Daily Doses: 1
+A
+methocarbamol TABLET
+500 mg
+Start 21:00 [DATE] Stop: 23:59 [DATE]
+Admin
+Sched
+(Robaxin) PRN
+[DATE] 5:57
+Complete
+mebreo
+Oral THREE TIMES DAILY 0900 1300
+[DATE] 20:38
+Complete
+sjohn
+2100 PRN
+[DATE] 11:08
+Complete
+rsoriano
+for muscle spasm
+A nicotine GUM (Nicorette) 2 mg PRN
+Start: 14:11 [DATE] Stop: 23:59 [DATE]
+Admin
+Sched
+Oral Transmucosal EVERY 2HOURS
+[DATE] 16:17
+Complete
+agarin
+PRN
+[DATE] 19:58
+Complete
+mebree
+for Smoking Cessation
+[DATE]
+7:26
+Complete
+mebreo
+Max Daily Doses: 12
+[DATE]
+9:22
+Complete
+kslupek
+[DATE] 13:04
+Complete
+kslupek
+A traMADol TABLET (Ultram) 100 mg PRN
+Start: 21:00 [DATE] Stop 23:59 [DATE]
+Admin
+Sched
+Oral THREE TIMES DAILY 0900 1300
+[DATE] 21:08
+Complete
+mebreo
+2100 PRN
+[DATE] 10:34
+Complete
+kslupek
+To give 100 mg use 2 of 50 mg
+[DATE] 16:50
+Complete
+kslupek
+for Pain
+[DATE] 2:54
+Complete
+sjohn
+[DATE] 11:08
+Complete
+rsoriano
+printed [DATE]/23 12:37
+
+PDF Page 4
+Powered by eGoldFax 6/30/2023 14:30
+eGoldFax
+
+Facesheet (Scanned)
+[PHI]
+[PHI]
+Admit Date: 6/30/2023
+DOB: [BIRTHDATE]
+BEHAVIORAL HOSPITAL
+Observation Date/Time [DATE]/23 12:32
+Facesheet
+pdf
+Printed On: 6/30/2023 @ 12:37
+
+PDF Page 5
+Powered by eGoldFax 6/30/2023 14:30
+eGoldFax
+
+[PHI] BEHAVIORAL HOSPITAL
+[PHI]
+Telephone Number: [PHI]
+ADMISSION/DISCHARGE R

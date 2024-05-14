@@ -1,0 +1,19 @@
+PDF Page 1
+Patient Name: [NAME]
+Relative Name: [NAME] (Sister)
+Doctor Name: Dr. [NAME] ([PHI])
+Address: [PHI]
+Date of Birth: [BIRTHDATE]
+Consultation Date: 6/30/2024
+Phone Number: [PHI]
+Fax Number: [PHI]
+Email Address: [PHI]
+Social Security Number: [PHI]
+Medical Record Number: [PHI]-123
+Health Plan Beneficiary Number: HPN-[PHI]-JD
+Account Number: ACC-[PHI]
+Certificate Number: CT-[PHI]
+Device Serial Number: DS-[PHI]-CC
+URL: [PHI]/[NAME]
+Unique Identifier: UQ-[NAME]
+Insurance Carrier: Medicare, ID: [PHI]-12

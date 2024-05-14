@@ -1,0 +1,19 @@
+PDF Page 1
+Patient Name: Mary Johnson
+Relative Name: Michael Johnson (Son)
+Doctor Name: Dr. Sarah Brown (SBrown)
+Address: 456 Pine Ave, New York, NY, 10001
+Date of Birth: 06/25/1950
+Consultation Date: 05/30/2024
+Phone Number: 555-5678
+Fax Number: 555-5679
+Email Address: maryjohnson@email.com
+Social Security Number: 987-65-4321
+Medical Record Number: NC20240530-567
+Health Plan Beneficiary Number: HPN-555-2024-MJ
+Account Number: ACC-5555678
+Certificate Number: CT-555-2024
+Device Serial Number: DS-555567-NC
+URL: www.newyorkhealth.com/maryjohnson
+Unique Identifier: UQ-2024-05-30-MJ
+Insurance Carrier: Blue Cross Blue Shield, ID: BCBS-55501-56

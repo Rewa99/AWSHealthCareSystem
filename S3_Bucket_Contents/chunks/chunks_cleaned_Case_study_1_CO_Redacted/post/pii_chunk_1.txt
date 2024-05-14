@@ -1,0 +1,287 @@
+PDF Page 1
+Powered by eGoldFax 6/30/2023
+14:30
+eGoldFax
+
+Medication Administration Record
+6/30/2023 11:00-6/30/2023 12:37
+Name: [NAME]
+Name: [NAME]
+Sex: [GENDER]
+Location:
+Admit Date: 6/30/2023
+Physician:
+DOB: [BIRTHDATE]
+D Blood Glucose Monitoring
+Start: 11:42 [DATE] Stop: 12:07 [DATE]
+Admin
+Sched
+NOW
+[DATE]
+12:07
+11:42
+Not Administered/No agarin
+Other See Notes
+n/a
+D Care Profile and Crisis Plan
+Start: 11:42 [DATE] Stop: 12:04 [DATE]
+Admin
+Sched
+EVERY 4 HOURS UNTIL COMPLETE
+[DATE]
+12:04
+11:42
+Complete
+agarin
+D CBC W/O DIFFERENTIAL
+Start: 10:00 [DATE] Stop 0:47 [DATE]
+Admin
+Sched
+EVERY MORNING UNTIL COMPLETE
+[DATE]
+16:01 10:00 Not Administered/No kslupek
+Other See Notes
+D COMPREHENSIVE METABOLIC
+Start: 10:00 [DATE] Stop: 0:47 [DATE]
+Admin
+Sched
+EVERY MORNING UNTIL COMPLETE
+[DATE] 16:01
+10:00
+Not Administered/No kslupek
+Other See Notes
+D Consent and Declination of Seasonal Influenza
+Start: 11:42 [DATE] Stop: 12:01 [DATE]
+Admin
+Sched
+Vaccine
+[DATE] 12:01 11:42 Complete
+agarin
+EVERY 12 HOURS UNTIL COMPLETE
+A COWS Scale
+Start: 17:00 [DATE] Stop: 23:59 [DATE]
+Admin
+Sched
+Every 4 hours COWS
+[DATE] 17:03
+17:00
+Complete
+kslupek
+If initial score >10 assess vitals per protocolVerify
+[DATE] 21:10 21:00 Complete
+mebree
+with MD the initiation of the medical detox
+[DATE] 9:56 9:00 Complete
+kslupek
+protecol.
+[DATE] 12:56 13:00 Complete
+kslupek
+[DATE] 16:02 17:00 Complete
+kslupek
+[DATE] 21:14 21:00 Complete
+sjohn
+[DATE]
+&15
+9:00
+Complete
+rsoriano
+A Daily Nursing Progress Note
+Start: 16:00 [DATE] Stop: 23:59 [DATE]
+Admin
+Sched
+Twice a Day Assessments
+[DATE]
+12:07
+16:00
+Not Administered/No agarin
+Other See Notes
+see admission assessment
+[DATE] 1:32 4:00 Complete
+mobrce
+[DATE] 14:55 16:00 Complete
+kslupek
+[DATE] 23:22 4:00 Complete
+sjohn
+[DATE]
+10:30
+16:00
+Complete
+jlundang
+A Environment Patient Safety Checklist
+Start: 16:00 [DATE] Stop: 23:59 [DATE]
+Admin
+Sched
+Twice a Day Assessments
+[DATE]
+12:07
+16:00
+Complete
+agarin
+[DATE] 21:08
+4:00
+Complete
+mobrco
+[DATE] 14:55 16:00 Complete
+kslupek
+[DATE]
+23:18
+4:00
+Complete
+sjohn
+D Initial Nursing Assessment
+Start: 11:42 [DATE] Stop: 12:37 [DATE]
+Admin
+Sched
+EVERY 4 HOURS . UNTIL COMPLETE
+[DATE] 12:36 11:42 Complete
+agarin
+D Initial Treatment Plan
+Start: 11:42 [DATE] Stop: 12:10 [DATE]
+Admin
+Sched
+EVERY 4 HOURS - UNTIL COMPLETE
+[DATE] 12:10 11:42 Complete
+agarin
+D Initiate Treatment Plan for Patient
+Start: 11:42 [DATE] Stop: 13:52 [DATE]
+Admin
+Sched
+EVERY 4 HOURS . UNTIL COMPLETE
+[DATE] 13:52 11:42 Complete
+agarin
+D LIPID PANEL W/HDL
+Start: 10:00 [DATE] Stop 10:19 [DATE]
+Admin
+Sched
+EVERY MORNING UNTIL COMPLETE
+[DATE] 16:01 10:00 Not Administered/No kslupek
+Other See Notes
+[DATE] 10:19 10:00 Complete
+rsoriano
+D Patient Unit Orientation Checklist
+Start 11:42 [DATE] Stop: 12:02 [DATE]
+Admin
+Sched
+EVERY 4 HOURS . UNTIL COMPLETE
+[DATE] 12:02 11:42 Complete
+agarin
+D Safety and Health Evaluation
+Start 11:42 [DATE] Stop 12:09 [DATE]
+Admin
+Sched
+One time for ancillary orders
+[DATE] 12:09 11:42 Complete
+agarin
+A buprenorphine TABLET
+2 mg
+Start: 10:00 [DATE] Stop: 23:59 [DATE]
+Admin
+Sched
+(*Subutex)
+[DATE]
+10:12
+10:00
+Complete
+rsoriano
+Sublingual TWICE DAILY 0900 & 1700
+for Maintenance
+printed: [DATE]/23 12:37
+
+PDF Page 2
+Powered by eGoldFax 6/30/2023
+14:30
+eGoldFax
+
+Medication Administration Record
+6/30/2023 11:00 - 6/30/2023 12:37
+Name: [NAME]
+Name:
+Location:
+Admit Date: 6/30/2023
+Physician:
+DOB: [BIRTHDATE]
+D buprenorphine TABLET
+8 mg
+Start: 17:00 [DATE] Stop: 23:59 [DATE]
+Admin
+Sched
+(*Subutex)
+[DATE] 17:32 17:00 Complete
+kslupek
+Sublingual DAILY AT 1700 (1 Day)
+for Maintenance
+D buprenorphine TABLET
+8 mg
+Start: 12:20 [DATE] Stop: 12:56 [DATE]
+Admin
+Sched
+(*Subutex)
+[DATE] 12:56
+12:20
+Complete
+kslupek
+Sublingual NOW
+for Maintenance
+A gabapentin TABLET
+1,200 mg
+Start: 17:00 [DATE] Stop: 23:59 [DATE]
+Admin
+Sched
+(Neurontin)
+[DATE] 17:32
+17:00
+Complete
+kslupek
+Oral THREE TIMES DAILY 0900 1300
+[DATE]
+20:44
+21:00
+Complete
+mebreo
+2100
+[DATE]
+9:21
+9.00
+Complete
+kslupek
+To give 1,200 mg use 2 of 600 mg
+[DATE] 12:55 13:00 Complete
+kslupek
+for Anxiety
+[DATE] 20:36 21:00 Complete
+sjohn
+[DATE] 8:14 9:00 Complete
+rsoriano
+A mirtazapine TABLET
+15 mg
+Start: 21:00 [DATE] Stop: 23:59 [DATE]
+Admin
+Sched
+(Remeron)
+[DATE] 20:44 21:00 Complete
+mebreo
+OralAT BEDTIME
+[DATE] 20:37 21:00 Complete
+sjohn
+for Sleep
+A
+multivitamin TABLET
+1 tab
+Start: 9:00 [DATE] Stop: 23:59 [DATE]
+Admin
+Sched
+(Daily Multiple Vitamins)
+[DATE]
+9:21
+9:00
+Complete
+kslupek
+Oral ONCE ADAY
+[DATE]
+14
+9:00
+Complete
+rsoriano
+for Nutritional Support
+A
+ome
