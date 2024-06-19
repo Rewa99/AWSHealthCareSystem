@@ -3,7 +3,7 @@ import boto3
 import csv
 import time
 from io import StringIO
-from concurrent.futures import ThreadPoolExecutor, as_completed
+from concurrent.futures import ThreadPoolExecutor
 from botocore.exceptions import ClientError
 
 s3 = boto3.client('s3')
