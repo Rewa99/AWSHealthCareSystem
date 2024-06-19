@@ -107,9 +107,9 @@ def ask_bedrock(text, question):
                 response_text = response['body'].read().decode('utf-8')
                 response_json = json.loads(response_text)
 
-                print(f"Bedrock response: {response_json}")  # Log the response for debugging
+                print(f"Bedrock response: {response_json}")  
 
-                # Check if the response contains the answer in the 'text' field
+                
                 if 'text' in response_json:
                     return response_json['text'].strip()
                 else:
