@@ -1,10 +1,10 @@
 import json
-import boto3
+import boto3 # type: ignore
 import csv
 import time
 from io import StringIO
 from concurrent.futures import ThreadPoolExecutor
-from botocore.exceptions import ClientError
+from botocore.exceptions import ClientError # type: ignore
 
 s3 = boto3.client('s3')
 bedrock = boto3.client('bedrock-runtime')
