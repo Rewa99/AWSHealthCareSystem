@@ -1,4 +1,4 @@
-import boto3
+import boto3 # type: ignore
 
 def write_to_s3(bucket, key, data, content_type='text/plain'):
     s3 = boto3.client('s3')
