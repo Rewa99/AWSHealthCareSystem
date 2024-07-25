@@ -1,10 +1,10 @@
 import json
-import boto3
+import boto3 #type: ignore
 import csv
 import time
 from io import StringIO
 from concurrent.futures import ThreadPoolExecutor
-from botocore.exceptions import ClientError
+from botocore.exceptions import ClientError #type: ignore
 from s3_operations import get_s3_object, upload_csv_to_s3, get_questions_from_csv
 from bedrock_operations import ask_bedrock
 

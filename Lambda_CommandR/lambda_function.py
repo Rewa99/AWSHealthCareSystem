@@ -1,5 +1,6 @@
 import json
 import time
+import csv
 from io import StringIO
 from s3_operations import get_s3_object, upload_csv_to_s3, read_questions_from_csv
 from bedrock_operations import ask_bedrock
