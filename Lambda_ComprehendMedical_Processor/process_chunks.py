@@ -2,7 +2,7 @@ import boto3
 from replace_utilities import replace_birthdate, replace_date, replace_pii, replace_gender
 
 def process_medical_chunks(bucket, pre_folder, post_folder, text):
-    comprehend_medical_client = boto3.client('comprehendmedical', region_name='us-east-2')
+    comprehend_medical_client = boto3.client('comprehendmedical', region_name='us-east-1')
     s3_client = boto3.client('s3')
 
     max_size = 18000  # Comprehend Medical size limit

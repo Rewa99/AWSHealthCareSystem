@@ -2,7 +2,7 @@ import boto3
 from time import sleep
 
 def start_textract_job(s3_bucket, s3_key):
-    textract = boto3.client('textract', region_name='us-east-2')
+    textract = boto3.client('textract', region_name='us-east-1')
     response = textract.start_document_text_detection(
         DocumentLocation={
             'S3Object': {
@@ -14,7 +14,7 @@ def start_textract_job(s3_bucket, s3_key):
     return response['JobId']
 
 def poll_textract(job_id):
-    textract = boto3.client('textract', region_name='us-east-2')
+    textract = boto3.client('textract', region_name='us-east-1')
     status = None
     next_token = None
     pages = []

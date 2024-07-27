@@ -1,4 +1,4 @@
-import boto3
+import boto3 #type:ignore
 import csv
 
 s3 = boto3.client('s3')
