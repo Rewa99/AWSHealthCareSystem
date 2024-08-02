@@ -68,10 +68,24 @@ docker push <<account id>>.dkr.ecr.us-east-1.amazonaws.com/my-repository:latest
 ```
 
 ## Create Fargate Task Definition
-TODO
+- Sample task definition is available [here](./task_definition.json)
+- Change the Image to your image created above
+- If you use boto3 you will need to create an execution role with the necessary permissions
+- Make sure to include the `"logDriver": "awslogs"` if you would like your standard output available in Cloudwatch
 
 ## Create Lambda function to start the container when an S3 object is created
 TODO
 
 ## Getting the logs from AWS Fargate
-TODO
+Get the log streams for our log group:
+```sh
+aws logs describe-log-streams --log-group-name /ecs/test-task
+```
+Get the logs from that log stream
+```sh
+aws logs get-log-events --log-group-name /ecs/test-task --log-stream-name logstreamname
+```
+Only get the messages
+```sh
+aws logs get-log-events --log-group-name /ecs/test-task --log-stream-name logstreamname | jq '.events[].message'
+```
