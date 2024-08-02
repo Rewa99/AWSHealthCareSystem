@@ -72,6 +72,9 @@ docker push <<account id>>.dkr.ecr.us-east-1.amazonaws.com/my-repository:latest
 - Change the Image to your image created above
 - If you use boto3 you will need to create an execution role with the necessary permissions
 - Make sure to include the `"logDriver": "awslogs"` if you would like your standard output available in Cloudwatch
+```sh
+aws ecs register-task-definition --cli-input-json file://task_definition.json
+```
 
 ## Create Lambda function to start the container when an S3 object is created
 TODO
