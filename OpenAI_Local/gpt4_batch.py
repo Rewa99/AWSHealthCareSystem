@@ -30,7 +30,7 @@ def ask_gpt_with_retry(question, context, retries=3):
     for _ in range(retries):
         try:
             response = openai.ChatCompletion.create(
-                model="gpt-3.5-turbo",
+                model="gpt-4o",
                 messages=[
                     {"role": "system", "content": "You are a helpful assistant."},
                     {"role": "user", "content": f"Context: {context}\nQuestion: {question}"}
