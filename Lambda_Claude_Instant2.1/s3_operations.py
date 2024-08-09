@@ -5,6 +5,7 @@ s3 = boto3.client('s3')
 
 def get_s3_object(bucket_name, object_key):
     try:
+        
         response = s3.get_object(Bucket=bucket_name, Key=object_key)
         body_bytes = response['Body'].read()
         body_string = body_bytes.decode('utf-8')

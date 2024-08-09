@@ -1,4 +1,4 @@
-import boto3
+import boto3 #type:ignore
 import json
 
 bedrock = boto3.client('bedrock-runtime')

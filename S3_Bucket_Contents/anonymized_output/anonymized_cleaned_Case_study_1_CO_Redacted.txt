@@ -1,4 +1,4 @@
-PDF Page 1
+PDF Page Number 1
 Powered by eGoldFax 6/30/2023
 14:30
 eGoldFax
@@ -187,7 +187,7 @@ Sublingual TWICE DAILY 0900 & 1700
 for Maintenance
 printed: [DATE]/23 12:37
 
-PDF Page 2
+PDF Page Number 2
 Powered by eGoldFax 6/30/2023
 14:30
 eGoldFax
@@ -397,7 +397,7 @@ Complete
 rsoriano
 printed: [DATE]/23 12:37
 
-PDF Page 3
+PDF Page Number 3
 Powered by eGoldFax 6/30/2023 14:30
 eGoldFax
 
@@ -588,7 +588,7 @@ Complete
 rsoriano
 printed [DATE]/23 12:37
 
-PDF Page 4
+PDF Page Number 4
 Powered by eGoldFax 6/30/2023 14:30
 eGoldFax
 
@@ -603,7 +603,7 @@ Facesheet
 pdf
 Printed On: 6/30/2023 @ 12:37
 
-PDF Page 5
+PDF Page Number 5
 Powered by eGoldFax 6/30/2023 14:30
 eGoldFax
 
@@ -616,7 +616,7 @@ FINANCIAL CLASS
 ROOM/ BED
 HSV
 [PHI]
-PDF Page 6
+PDF Page Number 6
 DM
 419 /B
 IAD INPATIENT ADULT DUAL DIAGNOSIS
@@ -643,7 +643,7 @@ DISCHARGE DATE TIME
 [DATE]/23
 11:00
 SSN [PHI]
-PHONE: 000 -0000
+PHONE: [SSN] -[SSN]0
 EMPLOYER , SCHOOL
 REFERRAL SOURCE
 CELL:
@@ -651,12 +651,12 @@ EMERGENCY CONTACT , Name Address. Phone Rel
 EMERGENCY CONTACT (Nane Address Phone..
 NONE
 DOB: [BIRTHDATE]
-PHONE: 000-0000
+PHONE: [SSN]-[SSN]0
 PHONE:
 REL: UNKNOWN
 REL
-WRK: (000)000-0000
-WRK: (000)
+WRK: ([SSN])[SSN]-[SSN]0
+WRK: ([SSN])
 CELL:
 CELL:
 GUARANTOR (Number, NAME Address Rel
@@ -702,9 +702,9 @@ MAJOR DEPRESSIVE DISORDER, RECURRENT, UNSPECIFIED
 F339
 [DATE]/23
 11:01
-CB1000/[DATE]
+CB1[SSN]/[DATE]
 :
-PDF Page 7
+PDF Page Number 7
 Powered by eGoldFax 6/30/2023 14:30
 eGoldFax
 
@@ -803,7 +803,7 @@ hx seizures from withdrawal,
 HOME MED LIST AND ADMISSION MED REC
 Printed On: 6/30/2023 @ 12:37
 
-PDF Page 8
+PDF Page Number 8
 Powered by eGoldFax 6/30/2023 14:30
 eGoldFax
 
@@ -968,7 +968,7 @@ System
 Comments
 Printed On: 6/30/2023 @ 12:37
 
-PDF Page 9
+PDF Page Number 9
 Powered by eGoldFax 6/30/2023 14:30
 eGoldFax
 
@@ -1062,7 +1062,7 @@ Use
 torical
 Printed On: 6/30/2023 @ 12:37
 
-PDF Page 10
+PDF Page Number 10
 Powered by eGoldFax 6/30/2023 14:30
 eGoldFax
 
@@ -1144,7 +1144,7 @@ Describe Relationship
 N/a
 Printed On: 6/30/2023 @ 12:37
 
-PDF Page 11
+PDF Page Number 11
 Powered by eGoldFax 6/30/2023 14:30
 eGoldFax
 
@@ -1199,7 +1199,7 @@ SKIN
 No History of Problems
 Printed On: 6/30/2023 @ 12:37
 
-PDF Page 12
+PDF Page Number 12
 Powered by eGoldFax 6/30/2023 14:30
 eGoldPax
 
@@ -1265,7 +1265,7 @@ Extremities
 WNL
 Printed On: 6/30/2023 @ 12:37
 
-PDF Page 13
+PDF Page Number 13
 Powered by eGoldFax 6/30/2023 14:30
 eGoldFax
 
@@ -1321,7 +1321,7 @@ How was CN X tested?
 Palate elevation
 CN XI:
 WNL
-PDF Page 14
+PDF Page Number 14
 How was this CN XI tested?
 Shoulder Shrug
 CN XII:
@@ -1331,7 +1331,7 @@ Extend tongue side to side
 Plan Of Care
 Printed On: 6/30/[AGE]23 @ 12:37
 
-PDF Page 15
+PDF Page Number 15
 Powered by eGoldFax 6/30/[AGE]23 14:30
 eGoldFax
 
@@ -1342,7 +1342,7 @@ Examination (H&P)
 [PHI]
 Admit Date: 6/30/[AGE]23
 DOB: [BIRTHDATE]
-BEHAVIORAL HOSPITAL
+[PHI]
 Observation Date/Time [DATE] 18:53
 Impression
 1. Major depression
@@ -1364,7 +1364,7 @@ Frequency PRN
 Indication
 Printed On: 6/30/[AGE]23 @ 12:37
 
-PDF Page 16
+PDF Page Number 16
 Powered by eGoldFax 6/30/[AGE]23 14:30
 eGoldFax
 
@@ -1375,7 +1375,7 @@ Examination (H&P)
 Admit Date: 6/30/[AGE]23
 [PHI]
 DOB: [BIRTHDATE]
-BEHAVIORAL HOSPITAL
+[PHI]
 Observation Date/Time: [DATE] 18:53
 acetaminophen Oral 325 mg tablet
 APAP
@@ -1530,7 +1530,7 @@ Ancillary Orders:
 Description
 Frequency
 PRN
--Admit to: [PHI], Dual Diagnosis - Substance Abuse and Detox
+-Admit to: 4N, Dual Diagnosis - Substance Abuse and Detox
 -Environment Patient Safety Checklist
 BID
 Assessmen
@@ -1549,7 +1549,7 @@ P
 IN AM-[PHI]
 Printed On: 6/30/[AGE]23 @ 12:37
 
-PDF Page 17
+PDF Page Number 17
 Powered by eGoldFax 6/30/[AGE]23 14:30
 eGoldFax
 
@@ -1560,7 +1560,7 @@ Examination (H&P)
 [PHI]
 Admit Date: 6/30/[AGE]23
 DOB: [BIRTHDATE]
-BEHAVIORAL HOSPITAL
+[PHI]
 Observation Date/Time: [DATE] 18:53
 -Suicidal Ideation Severity Assessment
 1600
@@ -1606,7 +1606,7 @@ e-Signed by
 at 6/30/[AGE]23 00:28
 Printed On: 6/30/[AGE]23 @ 12:37
 
-PDF Page 18
+PDF Page Number 18
 Powered by eGoldFax 6/30/[AGE]23 14:30
 eGoldFax
 
@@ -1616,7 +1616,7 @@ Name: [NAME]
 [PHI]
 Admit Date: 6/30/[AGE]23
 DOB: [BIRTHDATE]
-BEHAVIORAL HOSPITAL
+[PHI]
 Observation Date/Time [DATE] 16:56
 Date/Time
 6/30/[AGE]23 10:[AGE]
@@ -1673,7 +1673,7 @@ History of assaultive thoughts or behaviors?
 No
 Printed On: 6/30/[AGE]23 @ 12:37
 
-PDF Page 19
+PDF Page Number 19
 Powered by eGoldFax 6/30/[AGE]23 14:30
 eGoldFax
 
@@ -1683,7 +1683,7 @@ Name: [NAME]
 [PHI]
 Admit Date: 6/30/[AGE]23
 DOB: [BIRTHDATE]
-BEHAVIORAL HOSPITAL
+[PHI]
 Observation Date/Time
 IF ANY ABOVE ARE AFFIRMATIVE RN MUST BE INFORM[PHI]
 TO INITIATE ASSESSMENT
@@ -1711,7 +1711,7 @@ Frequency PRN
 Indication
 Printed On: 6/30/[AGE]23 @ 12:37
 
-PDF Page [AGE]
+PDF Page Number [AGE]
 Powered by eGoldFax 6/30/[AGE]23 14:30
 eGoldFax
 
@@ -1721,7 +1721,7 @@ Psychiatric Evaluation
 [PHI]
 Admit Date: 6/30/[AGE]23
 DOB: [BIRTHDATE]
-BEHAVIORAL HOSPITAL
+[PHI]
 Observation Date/Time: [DATE] 16:56
 clindamycin Oral 300 mg capsule
 Cleocin
@@ -1877,7 +1877,7 @@ Involvement
 Report Filed
 Printed On: 6/30/[AGE]23 @ 12:37
 
-PDF Page 21
+PDF Page Number 21
 Powered by eGoldFax 6/30/[AGE]23 14:30
 eGoldFax
 
@@ -1887,7 +1887,7 @@ Name: [NAME]
 Admit Date: 6/30/[AGE]23
 [PHI]
 DOB: [BIRTHDATE]
-BEHAVIORAL HOSPITAL
+[PHI]
 Observation Date/Time: [DATE] 16:56
 1 Sexual
 18
@@ -1978,7 +1978,7 @@ Other Addictive Behaviors
 No
 Printed On: 6/30/[AGE]23 @ 12:37
 
-PDF Page 22
+PDF Page Number 22
 Powered by eGoldFax 6/30/[AGE]23 14:30
 eGoldFax
 
@@ -1988,7 +1988,7 @@ Name: [NAME]
 [PHI]
 Admit Date: 6/30/[AGE]23
 DOB: [BIRTHDATE]
-BEHAVIORAL HOSPITAL
+[PHI]
 Observation Date/Time [DATE] 16:56
 SUBSTANCE ABUSE TREATMENT
 Row Type of Treatment Location of Treatment Dates of Treatment
@@ -2047,7 +2047,7 @@ Normal hours of sleep
 8
 Printed On: 6/30/[AGE]23 @ 12:37
 
-PDF Page 23
+PDF Page Number 23
 Powered by eGoldFax 6/30/[AGE]23 14:30
 eGoldFax
 
@@ -2057,7 +2057,7 @@ Name: [NAME]
 [PHI]
 Admit Date: 6/30/[AGE]23
 DOB: [BIRTHDATE]
-BEHAVIORAL HOSPITAL
+[PHI]
 Observation Date/Time: [DATE] 16:56
 Activities of Daily Living Comments
 none
@@ -2112,7 +2112,7 @@ None
 JUDGEMENT
 Printed On: 6/30/[AGE]23 @ 12:37
 
-PDF Page 24
+PDF Page Number 24
 Powered by eGoldFax 6/30/[AGE]23 14:30
 eGoldFax
 
@@ -2122,7 +2122,7 @@ Name: [NAME]
 [PHI]
 Admit Date: 6/30/[AGE]23
 DOB: [BIRTHDATE]
-BEHAVIORAL HOSPITAL
+[PHI]
 Observation Date/Time [DATE] 16:56
 Judgement abilities
 Difficulty predicting results of choices, Inability to maintain
@@ -2181,7 +2181,7 @@ other less restrictive milieu such that symptoms are
 worsened or course of illness has deteriorated
 Printed On: 6/30/[AGE]23 @ 12:37
 
-PDF Page 25
+PDF Page Number 25
 Powered by eGoldFax 6/30/[AGE]23 14:30
 eGoldFax
 
@@ -2191,7 +2191,7 @@ Name: [NAME]
 [PHI]
 Admit Date: 6/30/[AGE]23
 DOB: [BIRTHDATE]
-BEHAVIORAL HOSPITAL
+[PHI]
 Observation Date/Time
 Communication
 Is there a reasonable expectation that this patient will make
@@ -2209,7 +2209,7 @@ Frequency PRN
 Indication
 Printed On: 6/30/[AGE]23 @ 12:37
 
-PDF Page 26
+PDF Page Number 26
 Powered by eGoldFax 6/30/[AGE]23 14:30
 eGoldFax
 
@@ -2219,7 +2219,7 @@ Name: [NAME]
 [PHI]
 Admit Date: 6/30/[AGE]23
 DOB: [BIRTHDATE]
-BEHAVIORAL HOSPITAL
+[PHI]
 Observation Date/Times [DATE] 16:56
 acetaminophen Oral 325 mg tablet
 APAP
@@ -2366,7 +2366,7 @@ Ancillary Orders:
 Description
 Frequency
 PRN
--Admit to: [PHI], Dual Diagnosis - Substance Abuse and Detox
+-Admit to: 4N, Dual Diagnosis - Substance Abuse and Detox
 -Environment Patient Safety Checklist
 BID -
 Assessmen
@@ -2391,7 +2391,7 @@ IN AM-[PHI]
 IN AM-[PHI]
 Printed On: 6/30/[AGE]23 @ 12:37
 
-PDF Page 27
+PDF Page Number 27
 Powered by eGoldFax 6/30/[AGE]23 14:30
 eGoldFax
 
@@ -2401,7 +2401,7 @@ Name: [NAME]
 [PHI]
 Admit Date: 6/30/[AGE]23
 DOB: [BIRTHDATE]
-BEHAVIORAL HOSPITAL
+[PHI]
 Observation Date/Time: [DATE] 16:56
 -CBC W/O DIFFERENTIAL
 IN AM-[PHI]
@@ -2457,7 +2457,7 @@ Code
 System
 Printed On: 6/30/2023 @ 12:37
 
-PDF Page 28
+PDF Page Number 28
 Powered by eGoldFax 6/30/2023 14:30
 eGoldFax
 

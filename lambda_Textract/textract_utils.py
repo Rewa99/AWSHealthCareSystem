@@ -1,4 +1,4 @@
-import boto3
+import boto3 #type:ignore
 from time import sleep
 
 def start_textract_job(s3_bucket, s3_key):

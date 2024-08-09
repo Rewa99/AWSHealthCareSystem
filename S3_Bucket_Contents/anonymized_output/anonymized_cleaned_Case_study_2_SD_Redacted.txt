@@ -1,4 +1,4 @@
-PDF Page 1
+PDF Page Number 1
 10:45:46a.m.
 6/30/6/30/2023
 [DATE]
@@ -102,12 +102,12 @@ Medical Service: Psychiatry
 Accident Date/Time:
 Accident Type:
 
-PDF Page 2
+PDF Page Number 2
 123
 10:46:14 a.m.
 6/30/6/30/2023
 [DATE]
-PDF Page 3
+PDF Page Number 3
 123
 10:46:22 a.m.
 6/30/6/30/2023
@@ -164,10 +164,10 @@ ASSOCIATED COMPLAINTS:
 --Systemic complaint= none
 GU complaints=Denies any dysuria,hematuria,flank pain etc.
 Printed by:
-
+ of7
 Printed on:
 6/30/6/30/2023 09:19 CDT
-PDF Page 4
+PDF Page Number 4
 123
 10:46:43 a.m. 6/30/6/30/2023
 [DATE]
@@ -227,10 +227,10 @@ Patient
 Social History:
 Social History:
 Printed by:
-
+ of7
 Printed on:
 6/30/6/30/2023 09:19 CDT
-PDF Page 5
+PDF Page Number 5
 123
 10:47:09 a.m. 6/30/6/30/2023
 [DATE]
@@ -281,10 +281,10 @@ Pulse: 101 Temp: 97.5
 Resp Rate: 16
 Tmax: 97.6 Wt(kg): 90.71
 Printed by:
-
+ of7
 Printed on:
 6/30/6/30/2023 09:19 CDT
-PDF Page 6
+PDF Page Number 6
 123
 10:47:31 a.m. 6/30/6/30/2023
 [DATE]
@@ -332,10 +332,10 @@ Glands: Bilateral, Salivary gland, Parotid gland, Submandibular gland, Sublingua
 Objective
 Lab Results:
 Printed by:
-
+ of7
 Printed on:
 6/30/6/30/2023 09:19 CDT
-PDF Page 7
+PDF Page Number 7
 123
 10:48:00 a.m. 6/30/6/30/2023
 [DATE]
@@ -371,10 +371,10 @@ Diabetes mellitus
 Atrial flutter
 Psychosis
 Printed by:
-
+ of7
 Printed on:
 6/30/6/30/2023 09:19 CDT
-PDF Page 8
+PDF Page Number 8
 123
 10:48:15 a.m.
 6/30/6/30/2023
@@ -399,7 +399,7 @@ Microalbumin Urine Random
 Ordered
 Lipid Panel
 Ordered
-PDF Page 9
+PDF Page Number 9
 Pregnancy Test Urine
 Ordered
 PENDING RADIOLOGY/IMAGING STUDIES:
@@ -420,10 +420,10 @@ BLOOD SUGAR CONTROL SHOULD BE EX[PHI]CISED
 -RESUME ANTIHYP[PHI]TENSIVES. PARAMET[PHI]S PLACED FOR BLOOD PRESSURE MEDICATION HOLDING
 --THEPATIENT IS HOMELESS THE SOCIAL WORK[PHI] SHOULD BE TAKING CARE OF THAT ON DISCHARGE
 Printed by:
-
+ of7
 Printed on:
 6/30/6/30/2023 09:19 CDT
-PDF Page 10
+PDF Page Number 10
 123
 10:48:35 a.m. 6/30/6/30/2023
 [DATE]
@@ -451,14 +451,14 @@ on 6/30/6/30/2023 15:53 CDT
 on 6/30/6/30/2023 15:53 CDT
 Printed by:
 Printed on:
-
+ of7
 6/30/6/30/2023 09:19 CDT
-PDF Page 11
+PDF Page Number 11
 123
 10:48:51 a.m.
 6/30/6/30/2023
 [DATE]
-PDF Page 12
+PDF Page Number 12
 123
 10:48:59 a.m.
 6/30/6/30/2023
@@ -516,10 +516,10 @@ Aggressive or homicidal ideations or threats.
 2.
 Marked regression or intensification of significant problems or symptoms.
 Printed by:
-
+ of3
 Printed on:
 6/30/6/30/2023 09:19 CDT
-PDF Page 13
+PDF Page Number 13
 123
 10:49:23 a.m. 6/30/6/30/2023
 1[DATE]
@@ -568,10 +568,10 @@ on 6/30/6/30/2023 08:03 CDT
 on 6/30/6/30/2023 10:14 CDTRequested on [DATE],
 6/30/2023 08:33 CDT
 Printed by:
-
+ of3
 Printed on:
 6/30/6/30/2023 09:19 CDT
-PDF Page 14
+PDF Page Number 14
 123
 10:49:44 a.m.
 6/30/6/30/2023
@@ -581,15 +581,15 @@ Psychiatric Evaluation
 * V[PHI]IFY by
 on 6/30/6/30/2023 10:14 CDT
 Printed by:
-
+ of3
 Printed on:
 6/30/6/30/2023 09:19 CDT
-PDF Page 15
+PDF Page Number 15
 123
 10:49:54 a.m.
 6/30/6/30/2023
 1[DATE]
-PDF Page 16
+PDF Page Number 16
 123
 10:50:02 a.m.
 6/30/6/30/2023
@@ -618,7 +618,7 @@ amLODIPine
 Last given
 At home, patient was taking medication with
 10 mg @
-6/30/6/30/2023
+6/30/2023
 08:03 CDT
 amlodipine
 benzocaine topical (Orajel)
@@ -702,7 +702,7 @@ haloperidol
 Richmond Agitation-Sedation Scale (RASS)
 Respiratory Rate
 
-PDF Page 17
+PDF Page Number 17
 123
 10:50:28 a.m.
 6/30/2023
@@ -794,7 +794,7 @@ Richmond Agitation-Sedation Scale (RASS)
 Respiratory Rate
 Med Responses
 
-PDF Page 18
+PDF Page Number 18
 123
 10:50:56 a.m.
 6/30/2023
@@ -870,7 +870,7 @@ Mild, [DATE] 15:15:00 CDT, [DATE] 15:15:00
 CDT
 ibuprofen
 
-PDF Page 19
+PDF Page Number 19
 123
 10:51:16 a.m.
 6/30/2023
@@ -944,7 +944,7 @@ Nausea/Vomiting, [DATE] 10:14:00 CDT,
 ondansetron
 Med Responses
 
-PDF Page 20
+PDF Page Number 20
 123
 10:51:35 a.m.
 6/30/2023
@@ -1005,7 +1005,7 @@ haloperidol
 Richmond Agitation-Sedation Scale (RASS)
 Respiratory Rate
 
-PDF Page 21
+PDF Page Number 21
 123
 10:51:55 a.m.
 6/30/2023
@@ -1093,10 +1093,10 @@ Richmond Agitation-Sedation Scale (RASS)
 Respiratory Rate
 Med Responses
 
-PDF Page 22
+PDF Page Number 22
 10:52:19 a.m.
 6/30/2023
-[DATE]
+23/42
 123
 Flowsheet Print Request
 Printed by:
@@ -1112,7 +1112,7 @@ Medications
 16:00
 13:00
 12:00
-PDF Page 23
+PDF Page Number 23
 09:19
 PRN
 180 mcg
@@ -1201,7 +1201,7 @@ Mild, [DATE] 15:15:00 CDT, [DATE] 15:15:00
 CDT
 ibuprofen
 
-PDF Page 24
+PDF Page Number 24
 123
 10:52:41 a.m.
 6/30/2023
@@ -1292,7 +1292,7 @@ Nausea/Vomiting, [DATE] 10:14:00 CDT,
 ondansetron
 Med Responses
 
-PDF Page 25
+PDF Page Number 25
 123
 10:53:01 a.m. 6/30/2023
 [DATE]
@@ -1366,7 +1366,7 @@ haloperidol
 Richmond Agitation-Sedation Scale (RASS)
 Respiratory Rate
 
-PDF Page 26
+PDF Page Number 26
 123
 10:53:22 a.m. 6/30/2023
 [DATE]
@@ -1440,7 +1440,7 @@ Richmond Agitation-Sedation Scale (RASS)
 Respiratory Rate
 Med Responses
 
-PDF Page 27
+PDF Page Number 27
 123
 10:53:44 a.m.
 6/30/2023
@@ -1518,7 +1518,7 @@ Mild, [DATE] 15:15:00 CDT, [DATE] 15:15:00
 CDT
 ibuprofen
 
-PDF Page 28
+PDF Page Number 28
 123
 10:54:04 a.m.
 6/30/2023
@@ -1590,7 +1590,7 @@ Nausea/Vomiting [DATE] 10:14:00 CDT,
 ondansetron
 Med Responses
 
-PDF Page 29
+PDF Page Number 29
 123
 10:54:23 a.m.
 6/30/2023
@@ -1655,7 +1655,7 @@ haloperido!
 Richmond Agitation-Sedation Scale (RASS)
 Respiratory Rate
 
-PDF Page 30
+PDF Page Number 30
 123
 10:54:42 a.m.
 6/30/2023
@@ -1732,7 +1732,7 @@ Richmond Agitation-Sedation Scale (RASS)
 Respiratory Rate
 Med Responses
 
-PDF Page 31
+PDF Page Number 31
 123
 10:55:04 a.m.
 6/30/2023
@@ -1810,7 +1810,7 @@ Mild, [DATE] 15:15:00 CDT, [DATE] 15:15:00
 CDT
 ibuprofen
 
-PDF Page 32
+PDF Page Number 32
 123
 10:55:24 a.m.
 6/30/2023
@@ -1884,11 +1884,11 @@ Nausea/Vomiting [DATE] 10:14:00 CDT,
 ondansetron
 Med Responses
 
-PDF Page 33
+PDF Page Number 33
 123
 10:55:43 a.m.
 6/30/2023
-33/42
+[PHI]
 Flowsheet Print Request
 Patient:
 Printed by:
@@ -1943,10 +1943,10 @@ haloperidol
 Richmond Agitation-Sedation Scale (RASS)
 Respiratory Rate
 
-PDF Page 34
+PDF Page Number 34
 123
 10:56:01 a.m. 6/30/2023
-34/42
+[PHI]
 Flowsheet Print Request
 Patient
 Printed by:
@@ -2014,7 +2014,7 @@ Respiratory Rate
 Med Responses
 Med Response ,
 
-PDF Page 35
+PDF Page Number 35
 123
 10:56:22 a.m.
 6/30/2023
@@ -2089,7 +2089,7 @@ Mild, [DATE] 15:15:00 CDT, [DATE] 15:15:00
 CDT
 ibuprofen
 
-PDF Page 36
+PDF Page Number 36
 123
 10:56:42 a.m.
 6/30/2023
@@ -2154,12 +2154,12 @@ PRN
 ondansetron (Zofran ODT)
 4 mg, DIS Tablet, PO, Q8H (Every 8 hours), PRN
 Nausea/Vomiting [DATE] 10:14:00 CDT,
-PDF Page 37
+PDF Page Number 37
 [DATE] [DATE] CDT
 ondansetron
 Med Responses
 
-PDF Page 38
+PDF Page Number 38
 123
 10:57:00 a.m. 6/30/2023
 [PHI]
@@ -2249,12 +2249,12 @@ Admission Date / MRN 7 Financial Num: [DATE]
 Print Date: [DATE]
 Print Time: 10:26 CDT
 Printed by
-PDF Page [AGE]
+PDF Page Number [AGE]
 123
 10:57:25 a.m.
 6/30/2023
 38/42
-PDF Page 40
+PDF Page Number 40
 123
 10:57:32 a.m. 6/30/2023
 [AGE]/42
@@ -2340,12 +2340,12 @@ Admission Date / MRN / Financial Num: [DATE]
 Print Date: [DATE]
 Print Time: 10:27 CDT
 Printed by
-PDF Page 41
+PDF Page Number 41
 123
 10:57:57 a.m.
 6/30/2023
 [DATE]
-PDF Page 42
+PDF Page Number 42
 123
 10:58:05 a.m.
 6/30/2023

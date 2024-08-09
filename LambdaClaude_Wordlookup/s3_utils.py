@@ -1,4 +1,4 @@
-import boto3
+import boto3 #type:ignore
 import pandas as pd
 from io import StringIO
 

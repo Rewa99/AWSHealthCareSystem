@@ -1,4 +1,4 @@
-import boto3
+import boto3 #type:ignore
 from urllib.parse import unquote_plus
 import os
 from process_chunks import process_medical_chunks, process_pii_chunks

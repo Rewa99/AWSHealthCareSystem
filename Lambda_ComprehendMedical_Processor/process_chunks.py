@@ -1,4 +1,4 @@
-import boto3
+import boto3 #type: ignore
 from replace_utilities import replace_birthdate, replace_date, replace_pii, replace_gender
 
 def process_medical_chunks(bucket, pre_folder, post_folder, text):
