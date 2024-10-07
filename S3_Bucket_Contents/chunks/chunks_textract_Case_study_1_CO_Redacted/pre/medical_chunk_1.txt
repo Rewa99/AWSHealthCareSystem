@@ -1,0 +1,1331 @@
+Xylophone
+Powered by eGoldFax 10/30/2023
+14:30
+eGoldFax
+
+Medication Administration Record
+10/28/2023 11:00-10/30/2023 12:37
+Name: John Doe
+Name: John Doe
+Sex: M
+Location:
+Admit Date: 10/28/2023
+Physician:
+DOB: 12/12/9999
+D Blood Glucose Monitoring
+Start: 11:42 10/28 Stop: 12:07 10/28
+Admin
+Sched
+NOW
+10/28
+12:07
+11:42
+Not Administered/No agarin
+Other See Notes
+n/a
+D Care Profile and Crisis Plan
+Start: 11:42 10/28 Stop: 12:04 10/28
+Admin
+Sched
+EVERY 4 HOURS UNTIL COMPLETE
+10/28
+12:04
+11:42
+Complete
+agarin
+D CBC W/O DIFFERENTIAL
+Start: 10:00 10/29 Stop 0:47 10/30
+Admin
+Sched
+EVERY MORNING UNTIL COMPLETE
+10/29
+16:01 10:00 Not Administered/No kslupek
+Other See Notes
+D COMPREHENSIVE METABOLIC
+Start: 10:00 10/29 Stop: 0:47 10/30
+Admin
+Sched
+EVERY MORNING UNTIL COMPLETE
+10/29 16:01
+10:00
+Not Administered/No kslupek
+Other See Notes
+D Consent and Declination of Seasonal Influenza
+Start: 11:42 10/28 Stop: 12:01 10/28
+Admin
+Sched
+Vaccine
+10/28 12:01 11:42 Complete
+agarin
+EVERY 12 HOURS UNTIL COMPLETE
+A COWS Scale
+Start: 17:00 10/28 Stop: 23:59 12/31
+Admin
+Sched
+Every 4 hours COWS
+10/28 17:03
+17:00
+Complete
+kslupek
+If initial score >10 assess vitals per protocolVerify
+10/28 21:10 21:00 Complete
+mebree
+with MD the initiation of the medical detox
+10/29 9:56 9:00 Complete
+kslupek
+protecol.
+10/29 12:56 13:00 Complete
+kslupek
+10/29 16:02 17:00 Complete
+kslupek
+10/29 21:14 21:00 Complete
+sjohn
+10/30
+&15
+9:00
+Complete
+rsoriano
+A Daily Nursing Progress Note
+Start: 16:00 10/28 Stop: 23:59 12/31
+Admin
+Sched
+Twice a Day Assessments
+10/28
+12:07
+16:00
+Not Administered/No agarin
+Other See Notes
+see admission assessment
+10/29 1:32 4:00 Complete
+mobrce
+10/29 14:55 16:00 Complete
+kslupek
+10/29 23:22 4:00 Complete
+sjohn
+10/30
+10:30
+16:00
+Complete
+jlundang
+A Environment Patient Safety Checklist
+Start: 16:00 10/28 Stop: 23:59 12/31
+Admin
+Sched
+Twice a Day Assessments
+10/28
+12:07
+16:00
+Complete
+agarin
+10/28 21:08
+4:00
+Complete
+mobrco
+10/29 14:55 16:00 Complete
+kslupek
+10/29
+23:18
+4:00
+Complete
+sjohn
+D Initial Nursing Assessment
+Start: 11:42 10/28 Stop: 12:37 10/28
+Admin
+Sched
+EVERY 4 HOURS . UNTIL COMPLETE
+10/28 12:36 11:42 Complete
+agarin
+D Initial Treatment Plan
+Start: 11:42 10/28 Stop: 12:10 10/28
+Admin
+Sched
+EVERY 4 HOURS - UNTIL COMPLETE
+10/28 12:10 11:42 Complete
+agarin
+D Initiate Treatment Plan for Patient
+Start: 11:42 10/28 Stop: 13:52 10/28
+Admin
+Sched
+EVERY 4 HOURS . UNTIL COMPLETE
+10/28 13:52 11:42 Complete
+agarin
+D LIPID PANEL W/HDL
+Start: 10:00 10/29 Stop 10:19 10/30
+Admin
+Sched
+EVERY MORNING UNTIL COMPLETE
+10/29 16:01 10:00 Not Administered/No kslupek
+Other See Notes
+10/30 10:19 10:00 Complete
+rsoriano
+D Patient Unit Orientation Checklist
+Start 11:42 10/28 Stop: 12:02 10/28
+Admin
+Sched
+EVERY 4 HOURS . UNTIL COMPLETE
+10/28 12:02 11:42 Complete
+agarin
+D Safety and Health Evaluation
+Start 11:42 10/28 Stop 12:09 10/28
+Admin
+Sched
+One time for ancillary orders
+10/28 12:09 11:42 Complete
+agarin
+A buprenorphine TABLET
+2 mg
+Start: 10:00 10/30 Stop: 23:59 12/31
+Admin
+Sched
+(*Subutex)
+10/30
+10:12
+10:00
+Complete
+rsoriano
+Sublingual TWICE DAILY 0900 & 1700
+for Maintenance
+printed: 10/30/23 12:37
+
+
+Xylophone
+Powered by eGoldFax 10/30/2023
+14:30
+eGoldFax
+
+Medication Administration Record
+10/28/2023 11:00 - 10/30/2023 12:37
+Name: John Doe
+Name:
+Location:
+Admit Date: 10/28/2023
+Physician:
+DOB: 12/12/9999
+D buprenorphine TABLET
+8 mg
+Start: 17:00 10/28 Stop: 23:59 10/28
+Admin
+Sched
+(*Subutex)
+10/28 17:32 17:00 Complete
+kslupek
+Sublingual DAILY AT 1700 (1 Day)
+for Maintenance
+D buprenorphine TABLET
+8 mg
+Start: 12:20 10/29 Stop: 12:56 10/29
+Admin
+Sched
+(*Subutex)
+10/29 12:56
+12:20
+Complete
+kslupek
+Sublingual NOW
+for Maintenance
+A gabapentin TABLET
+1,200 mg
+Start: 17:00 10/28 Stop: 23:59 12/31
+Admin
+Sched
+(Neurontin)
+10/28 17:32
+17:00
+Complete
+kslupek
+Oral THREE TIMES DAILY 0900 1300
+10/28
+20:44
+21:00
+Complete
+mebreo
+2100
+10/29
+9:21
+9.00
+Complete
+kslupek
+To give 1,200 mg use 2 of 600 mg
+10/29 12:55 13:00 Complete
+kslupek
+for Anxiety
+10/29 20:36 21:00 Complete
+sjohn
+10/30 8:14 9:00 Complete
+rsoriano
+A mirtazapine TABLET
+15 mg
+Start: 21:00 10/28 Stop: 23:59 12/31
+Admin
+Sched
+(Remeron)
+10/28 20:44 21:00 Complete
+mebreo
+OralAT BEDTIME
+10/29 20:37 21:00 Complete
+sjohn
+for Sleep
+A
+multivitamin TABLET
+1 tab
+Start: 9:00 10/29 Stop: 23:59 12/31
+Admin
+Sched
+(Daily Multiple Vitamins)
+10/29
+9:21
+9:00
+Complete
+kslupek
+Oral ONCE ADAY
+10/30
+14
+9:00
+Complete
+rsoriano
+for Nutritional Support
+A
+omeprazole DR CAP
+20 mg
+Start: 9:00 10/29 Step: 23:59 12/31
+Admin
+Sched
+(PriLOSEC)
+10/29
+9:20
+9:00
+Complete
+kslupek
+OralONCE ADAY
+10/30
+8:14
+9:00
+Complete
+rsoriano
+for GERD
+A prazosin CAPSULE
+1 mg
+Start: 21:00 10/28 Stop: 23:59 12/31
+Admin
+Sched
+(Minipress)
+10/28 20:45 21:00 Complete
+mebreo
+OralAT BEDTIME
+10/29
+20:37
+21:00
+Complete
+sjohn
+for nightmares
+D QUEtiapine TABLET
+300 mg
+Start: 21:00 10/28 Stop: 16:56 10/29
+Admin
+Sched
+(SEROquel)
+10/28 20:45 21:00 Complete
+mebreo
+OralAT BEDTIME
+for Mood
+A QUEtiapine TABLET
+600 mg
+Start: 21:00 10/29 Stop: 23:59 12/31
+Admin
+Sched
+(SEROquel)
+10/29 20:37
+21:00
+Complete
+sjohn
+OralAT BEDTIME
+To give 600 mg use 2 of 300 mg
+for Mood
+A Suicidal Ideation Severity Assessment
+Start 16:00 10/28 Stop 23:59 12/31
+Admin
+Sched
+DAILY AT 1600
+10/28 12:06 16:00 Complete
+agarin
+10/29 14:55 16:00 Complete
+kslupek
+10/30 10:14 16:00 Complete
+jlundang
+D TSH ONLY, ULTRA SENSITIVE 3RD GEN
+Start: 10:00 10/29 Stop: 10:19 10/30
+Admin
+Sched
+EVERY MORNING UNTIL COMPLETE
+10/29
+16:01
+10:00
+Not Administered/No kslupek
+Other See Notes
+10/30
+10:19
+10:00
+Complete
+rsoriano
+D Urine Drug Screen
+Start: 10:00 10/29 Stop: 0:47 10/30
+Admin
+Sched
+EVERY MORNING UNTIL COMPLETE
+10/29 16:01
+10:00
+Not Administered/No kslupek
+Nurse Collect
+Other See Notes
+A
+Vital Signs
+Start: 21:00 10/28 Stop: 23:59 12/31
+Admin
+Sched
+TWICE A DAY
+10/28
+21:09
+21:00
+Complete
+mebreo
+10/29 &:37 9:00 Complete
+agarin
+10/29 19:57 21:00 Complete
+sjohn
+10/30 10:19
+9:00
+Complete
+rsoriano
+printed: 10/30/23 12:37
+
+
+Xylophone
+Powered by eGoldFax 10/30/2023 14:30
+eGoldFax
+
+Medication Administration Record
+10/28/2023 11:00 - 10/30/2023 12:37
+Name: John Doe
+Name
+Location
+Admit Date: 10/28/2023
+Physician:
+DOB: 12/12/9999
+D Weight
+Start: 11:42 10/28 Stop: 12:08 10/28
+Admin
+Sched
+NOW
+10/28 12:08 11:42 Complete
+agarin
+A rivaroxaban TABLET
+10 mg
+Start: 9:00 10/29 Step: 23:59 12/31
+Admin
+Sched
+(*Xarelto)
+10/29
+9:21
+9:00
+Complete
+kslupek
+Oral ONCE ADAY
+10/30
+&14
+9:00
+Complete
+rsoriano
+for dvt
+A sertraline TABLET (Zoloft) 50 mg
+Start: 9:00 10/29 Step: 23:59 12/31
+Admin
+Sched
+Oral ONCE ADAY
+10/29
+9:20
+9:00
+Complete
+kslupek
+for Mood
+10/30
+8:14
+9:00
+Complete
+rsoriano
+Simultaneous with
+sertraline TABLET (Zoloft) 25 mg
+A sertraline TABLET (Zoloft) 25 mg
+Start: 9:00 10/31 Step: 23:59 12/31
+Admin
+Sched
+Oral ONCE ADAY
+for Depression
+take with 50mg (total 75mg)
+Simultaneous with
+sertraline TABLET (Zokoft) 50 mg
+P buprenorphine TABLET
+8 mg
+Start: 18:47 10/29 Step: 9:55 10/30
+Admin
+Sched
+(*Subutex) PRN
+Sublingual TWICE DAILY 0900 & 2100
+PRN
+for Maintenance
+Max Daily Doses: 2
+A dicyclomine TABLET
+20 mg
+Start: 13:59 10/28 Step: 23:59 12/31
+Admin
+Sched
+(Bentyl) PRN
+Oral THREE TIMES DAILY 0900 1300
+1700 PRN
+for Stomach Cramps
+Max Daily Doses: 3
+A LORazepam TABLET ("Ativan) 1 mg PRN
+Start: 14:29 10/28 Stop: 23:59 12/31
+Admin
+Sched
+Oral EVERY HOURS PRN
+10/28 14:56
+Complete
+kslupek
+for Anxiety
+10/29
+1:24
+Complete
+mebree
+Max Daily Doses: 4
+10/29
+9:20
+Complete
+kslupek
+10/29 17:46
+Complete
+kslupek
+10/30 0:12
+Complete
+sjohn
+10/30 8:16
+Complete
+rsoriano
+A melatonin TABLET
+5 mg PRN
+Start: 13:59 10/28 Stop: 23:59 12/31
+Admin
+Sched
+Oral AT BEDTIME PRN
+10/28 20:49
+Complete
+mebree
+for Iasomnia
+Max Daily Doses: 1
+A
+methocarbamol TABLET
+500 mg
+Start 21:00 10/28 Stop: 23:59 12/31
+Admin
+Sched
+(Robaxin) PRN
+10/29 5:57
+Complete
+mebreo
+Oral THREE TIMES DAILY 0900 1300
+10/29 20:38
+Complete
+sjohn
+2100 PRN
+10/30 11:08
+Complete
+rsoriano
+for muscle spasm
+A nicotine GUM (Nicorette) 2 mg PRN
+Start: 14:11 10/28 Stop: 23:59 12/31
+Admin
+Sched
+Oral Transmucosal EVERY 2HOURS
+10/28 16:17
+Complete
+agarin
+PRN
+10/28 19:58
+Complete
+mebree
+for Smoking Cessation
+10/29
+7:26
+Complete
+mebreo
+Max Daily Doses: 12
+10/29
+9:22
+Complete
+kslupek
+10/29 13:04
+Complete
+kslupek
+A traMADol TABLET (Ultram) 100 mg PRN
+Start: 21:00 10/28 Stop 23:59 12/31
+Admin
+Sched
+Oral THREE TIMES DAILY 0900 1300
+10/28 21:08
+Complete
+mebreo
+2100 PRN
+10/29 10:34
+Complete
+kslupek
+To give 100 mg use 2 of 50 mg
+10/29 16:50
+Complete
+kslupek
+for Pain
+10/30 2:54
+Complete
+sjohn
+10/30 11:08
+Complete
+rsoriano
+printed 10/30/23 12:37
+
+
+Xylophone
+Powered by eGoldFax 10/30/2023 14:30
+eGoldFax
+
+Facesheet (Scanned)
+CBH
+CHICAGO
+Admit Date: 10/28/2023
+DOB: 12/12/9999
+BEHAVIORAL HOSPITAL
+Observation Date/Time 10/28/23 12:32
+Facesheet
+pdf
+Printed On: 10/30/2023 @ 12:37
+
+
+Xylophone
+Powered by eGoldFax 10/30/2023 14:30
+eGoldFax
+
+CHICAGO BEHAVIORAL HOSPITAL
+555 Wilson Lane Des Plaines, Illinois 60016
+Telephone Number: (844) 756-8600
+ADMISSION/DISCHARGE RECORD
+MEDICAL RECORD NO.
+FINANCIAL CLASS
+ROOM/ BED
+HSV
+001026567
+DM
+419 /B
+IAD INPATIENT ADULT DUAL DIAGNOSIS
+PATIENT (Name: Address Phone)
+BIRTH DATE
+AGE
+SEX
+RACE
+LANGUAGE
+PAUINT ACCOUNT NO
+Name: John Doe
+12/12/9999
+43
+M
+X
+MARITAL STATUS
+RELIGION
+LEGAL STATUS
+S
+UNKNOWN
+V
+ADMISSION DATE & TIME
+DISCHARGE DATE TIME
+10/28/23
+11:00
+SSN 123-45-6789
+PHONE: 000 -0000
+EMPLOYER , SCHOOL
+REFERRAL SOURCE
+CELL:
+EMERGENCY CONTACT , Name Address. Phone Rel
+EMERGENCY CONTACT (Nane Address Phone..
+NONE
+DOB: 12/12/9999
+PHONE: 000-0000
+PHONE:
+REL: UNKNOWN
+REL
+WRK: (000)000-0000
+WRK: (000)
+CELL:
+CELL:
+GUARANTOR (Number, NAME Address Rel
+ADMITTING PHYSICIAN (Name Issuer
+ATTENDING PHYSICIAN Name, Numbers
+PHONE
+ADMITTED BY
+REL: SELF
+WRK:
+CBH
+PRIMARY INSURANCE
+SECONDARY INSURANCE
+TERTIARY INSURANCE
+MERIDIAN
+222 N LASALLE ST
+CHICAGO
+IL
+999990000
+PHONE: (866)606-3700
+PHONE
+PHONE :
+POLICY#: A12345
+POLICY#:
+POLICY#
+GROUP #:
+GROUP #:
+GROUP #:
+GRP NAME:
+CRP NAME:
+GRP NAME:
+AUTH#:
+AUTH#:
+SEX:
+DOB:
+SEX
+DOB: :
+REL: SELF
+REL:
+REL:
+DIAGNOSIS CODES
+LASTINPATIENT DATE
+MAJOR DEPRESSIVE DISORDER, RECURRENT, UNSPECIFIED
+F339
+10/28/23
+11:01
+CB1000/011918
+:
+
+Xylophone
+Powered by eGoldFax 10/30/2023 14:30
+eGoldFax
+
+Name: John Doe
+Medical History and Physical
+CBH
+Examination (H&P)
+CHICAGO
+Admit Date: 10/28/2023
+DOB: 12/12/9999
+BEHAVIORAL HOSPITAL
+Observation Date/Time: 10/29/23 18:53
+Date/Time
+10/29/2023 10:21
+Medical Diagnosis
+Diagnosis
+Class
+Type
+Priority
+Date
+Code
+System
+Acute embolism and thrombosis
+Medical
+Working
+Secondary Diagnosis
+10/29/2023
+182.401
+ICD-10
+of unspecified deep veins of
+right lower extremity
+Alcoholic hepatitis without
+Medical
+Working
+Secondary Diagnosis
+10/29/2023
+K70.10
+ICD-10
+ascites
+Gastro-esophageal reflux
+Medical
+Working
+Secondary Diagnosis
+10/29/2023
+K21.00
+ICD-10
+disease with esophagitis,
+without bleeding
+Other pulmonary embolism
+Medical
+Working
+Secondary Diagnosis
+10/29/2023
+I26.99
+ICD-10
+without acute cor pulmonale
+Unspecified convulsions
+Medical
+Working
+Secondary Diagnosis
+10/29/2023
+R56.9
+ICD-10
+Medical
+Working
+Psychiatric Diagnoses
+Diagnosis
+Class
+Type
+Priority
+Date
+Code
+System
+MAJOR DEPRESSIVE DISORDER,
+Psychiatric
+Admitting
+Primary Diagnosis
+10/28/2023
+F33.9
+ICD10
+RECURRENT, UNSPECIFIED
+Reason for admission
+SI with plan to OD on prescription meds
+Gender
+Male
+Preferred Pronouns
+He/Him/His
+Informant
+Patient.chart
+Reliabile
+Yes
+Past Medical History
+LLE DVT, PE, GERD, Congenitalspondylosethesis, left hip
+acascular necrosis. hx hip replacement, hx back surgery,
+hx seizures from withdrawal,
+HOME MED LIST AND ADMISSION MED REC
+Printed On: 10/30/2023 @ 12:37
+
+
+Xylophone
+Powered by eGoldFax 10/30/2023 14:30
+eGoldFax
+
+Medical History and Physical
+Name: John Doe
+CBH
+Examination (H&P)
+CHICAGO
+Admit Date: 10/28/2023
+DOB: 12/12/9999
+BEHAVIORAL HOSPITAL
+Observation Date/Time: 10/29/23 18:53
+Home Meds:
+Description
+Brand
+Dose
+Route
+Frequency
+PRN
+Indication
+clindamycin Oral 300 mg capsule
+Cleocin
+HC1
+gabapentin Oral 300 mg capsule
+Neurontin
+gabapentin Oral 400 mg capsule
+Neurontin
+1,200
+PO
+TID91317
+Anxiety
+mg
+gabapentin Oral 800 mg TAB 1 ea
+Neurontin
+hydrOXYzine hydrochloride Oral 50
+Atarax
+mg TAB 1 ea
+lamoTRIgine Oral 25 mg tablet
+LaMICtal
+25 mg
+PO
+DAILY
+Seizures
+methocarbamol Oral 500 mg tablet
+Robaxin
+500 mg
+PO
+TID91321
+P
+muscle
+spasm
+mirtazapine Oral 15 mg tablet
+Remeron
+15 mg
+PO
+HS
+Sleep
+nicotine 21 mg/24 hr TERF
+Habitrol
+omeprazole Oral 20 mg delayed
+PriLOSEC
+20 mg
+PO
+DAILY
+GERD
+release capsule
+prazosin Oral 1 mg capsule
+Minipress
+1 mg
+PO
+HS
+nightmares
+QUEtiapine Oral 100 mg tablet
+SEROquel
+QUEtiapine Oral 300 mg tablet
+SEROquel
+300 mg
+PO
+HS
+Mood
+sertraline Oral 50 mg tablet
+Zoloft
+50 mg
+PO
+DAILY
+Mood
+traMADol 50 mg TAB
+Ultram
+100 mg
+PO
+TID91321
+P
+Pain
+Admission Meds:
+Description
+Brand
+Dose
+Route
+Frequency
+PRN
+Indication
+gabapentin Oral 400 mg capsule
+Neurontin
+1,200
+PO
+TID91317
+Anxiety
+mg
+methocarbamol Oral 500 mg tablet
+Robaxin
+500 mg
+PO
+TID91321
+P
+muscle
+spasm
+mirtazapine Oral 15 mg tablet
+Remeron
+15 mg
+PO
+HS
+Sleep
+omeprazole Oral 20 mg delayed
+PriLOSEC
+20 mg
+PO
+DAILY
+GERD
+release capsule
+prazosin Oral 1 mg capsule
+Minipress
+1 mg
+PO
+HS
+nightmares
+QUEtiapine Oral 300 mg tablet
+SEROquel
+300 mg
+PO
+HS
+Mood
+sertraline Oral 50 mg tablet
+Zoloft
+50 mg
+PO
+DAILY
+Mood
+traMaDol Oral 50 mg tablet
+Ultram
+100 mg
+PO
+TID91321
+P
+Pain
+Allergy
+Type
+Reaction
+Severity
+Date
+Code
+System
+Comments
+Printed On: 10/30/2023 @ 12:37
+
+
+Xylophone
+Powered by eGoldFax 10/30/2023 14:30
+eGoldFax
+
+Medical History and Physical
+Name: John Doe
+CBH
+Examination (H&P)
+CHICAGO
+Admit Date: 10/28/2023
+DOB: 12/12/9999
+BEHAVIORAL HOSPITAL
+Observation Date/Time: 10/29/23 18:53
+ARIPIPRAZOLE
+Drug Allergy
+Severe
+7704567
+RB Alg ID
+blurred vision
+BEE STING
+Drug Allergy
+Swelling
+Severe
+7708918
+RB Alg ID
+DUST MITE
+Drug Allergy
+Mild
+7708910
+RB Alg ID
+KETOROLAC
+Drug Allergy
+Swelling
+Mild
+7700739
+RB Alg ID
+PENICILLIN
+Drug Allergy
+Hives
+Severe
+7702923
+RB Alg ID
+Dietary Restrictions
+No
+Activity Restrictions
+No
+Height
+67 in
+Weight
+151 lb
+Body Mass Index
+23.6
+Systolic
+106 mmHg
+Diastolic
+66 mmHg
+Blood Pressure
+119/70
+Heart Rate
+82 beats/min
+Temperature
+97.6 °F
+Respirations
+20 Resp/Min
+SPO2
+99 %
+Past Medical History
+Last Dental Exam
+2 yrs ago
+Last Eye Exam
+2 yrs ago
+Immunizations
+UTD
+Last PPD
+Neg
+Recent Illnesses/Injuries
+pt denies
+Past Hospitalizations/Psych
+Yes
+Substance Use
+Does patient admit to Substance Use?
+Yes and Positive Drug Screen
+SUBSTANCE USE.
+Row Substance
+Does pt
+Route
+Amount/Freq Age of 1st Last Used
+Current/His
+have Rx?
+uency
+Use
+torical
+Printed On: 10/30/2023 @ 12:37
+
+
+Xylophone
+Powered by eGoldFax 10/30/2023 14:30
+eGoldFax
+
+Medical History and Physical
+Name: John Doe
+CBH
+Examination (H&P)
+CHICAGO
+Admit Date: 10/28/2023
+DOB: 12/12/9999
+BEHAVIORAL HOSPITAL
+Observation Date/Time: 10/29/23 18:53
+1
+Alcohol
+No
+Oral
+1/2 gallon teen
+10/26/2023
+Current
+of alcohol
+/ daily
+2
+Cannabis
+No
+Smoke/Vap
+sporadicall teen
+10/26/2023
+Current
+y
+3
+Cocaine/Cra No
+Snort/Inhal $40 / daily 20's
+10/26/2023
+Current
+ck
+e
+4
+Opiates
+No
+Injects
+$80 /
+18
+10/26/2023
+Current
+(heroin/Oxy
+heroin
+etc.)
+Substance Use
+Does patient admit to Tobacco Use?
+Yes
+TOBACCO USE
+Row Type
+Amount/Frequency
+1
+Cigarettes 1 ppd
+Substance Use
+Other Addictive Behaviors
+No
+Education
+Currently in School?
+No
+Highest level of Education?
+Some College
+Social/Family History
+Family/Living Situation
+Current living situation?
+Pt reported that he is currently homeless.
+Can patient return?
+Yes
+Patient raised by?
+adopted parents
+Number of Siblings?
+2
+Describe Relationship
+1 twin brother, only close with twin brother
+Number of Children?
+0
+Describe Relationship
+N/a
+Printed On: 10/30/2023 @ 12:37
+
+
+Xylophone
+Powered by eGoldFax 10/30/2023 14:30
+eGoldFax
+
+Medical History and Physical
+Name: John Doe
+CBH
+Examination (H&P)
+CHICAGO
+Admit Date: 10/28/2023
+DOB: 12/12/9999
+BEHAVIORAL HOSPITAL
+Observation Date/Time: 10/29/23 18:53
+Social/Family History
+FAMILY PSYCH/SUBSTANCE ABUSE HISTORY
+Row
+Relationship History of mental health/chemical dependency issues
+1
+Sibling
+depression, drug addiction
+Social/Family History
+Family Medical History
+pt denies
+Legal History
+Any Legal Issues?
+Yes
+Number of arrests
+multiple
+Current/Pending Charges
+No
+Arrest Details
+drug possession
+Time incarcerated
+1 month in jail
+Probation/Parole
+No
+Social/Family History
+Military Service
+Military Service?
+No
+History of Service?
+No
+Review of Systems
+RESPIRATORY
+No History of Problems
+Have you been vaccinated for COVID-19? (Corona)
+No
+Do you want to be vaccinated?
+No
+Date of last TB Test
+UNK
+SKIN
+No History of Problems
+Printed On: 10/30/2023 @ 12:37
+
+
+Xylophone
+Powered by eGoldFax 10/30/2023 14:30
+eGoldPax
+
+Name: John Doe
+Medical History and Physical
+CBH
+Examination (H&P)
+Admit Date: 10/28/2023
+CHICAGO
+DOB: 12/12/9999
+BEHAVIORAL HOSPITAL
+Observation Date/Time 10/29/23 18:53
+CENTRAL NERVOUS SYSTEM
+No History of Problems
+Tics
+No
+GENITOURINARY
+No History of Problems
+GASTROINTESTINAL
+GERD
+CARDIOVASCULAR:
+"history of DVT and PE"
+MUSCULOSKELETAL
+No History of Problems
+ADDITIONAL
+seizures
+SURGICAL HISTORY
+Yes
+Lumbar fusion, back surgery and total left hip arthoplasty
+Sexual History
+Sexual History
+N/A
+Recent contraception
+N/A
+STI
+None
+Sexual activity in last five days
+No
+Assessment
+Reviewed Lab Results
+Yes
+UDS-Benzos/tocaine/fentanyl-+
+Physical Assessment
+General/Mental Status
+WNL
+Skin
+WNL
+Head
+WNL
+Eyes
+WNL
+ENT
+WNL
+Neck
+WNL
+Lungs
+WNL
+Heart
+WNL
+Abdomen
+WNL
+Extremities
+WNL
+Printed On: 10/30/2023 @ 12:37
+
+
+Xylophone
+Powered by eGoldFax 10/30/2023 14:30
+eGoldFax
+
+Medical History and Physical
+Name: John Doe
+CBH
+Examination (H&P)
+CHICAGO
+Admit Date: 10/28/2023
+DOB: 12/12/9999
+BEHAVIORAL HOSPITAL
+Observation Date/Time 10/29/23 18:53
+Back
+WNL
+Neuro
+WNL
+GU
+Deferred
+Tanner stage
+WNL
+Cranial Nerves
+CN I:
+WNL
+How was CN I tested?
+"Sniff and Identify"
+CN II:
+WNL
+How was CN II tested?
+Confrontation Test
+CN III, IV. VI:
+WNL
+How was CN III, IV, VI tested?
+Finger Tracking
+CN V:
+WNL
+How was CN V tested?
+Light touch forehead
+CN VII:
+WNL
+How was this CN VII tested?
+Eyebrow raise
+CN VIII:
+WNL
+How was this CN VIII tested?
+Finger rub near ear
+CN IX, X
+WNL
+How was CN IX, X tested?
+Palate elevation
+CN X:
+WNL
+How was CN X tested?
+Palate e

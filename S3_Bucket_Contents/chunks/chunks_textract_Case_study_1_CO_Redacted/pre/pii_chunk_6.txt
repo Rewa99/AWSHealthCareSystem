@@ -1,0 +1,244 @@
+servation Date/Time [DATE] 16:56
+Date/Time
+6/30/[AGE]23 10:[AGE]
+Legal status
+Voluntary
+Gender
+Male
+Reason for Admission from Intake
+SI with plan to OD on prescription meds
+Identifying Data
+[AGE]-year-old male with past psychiatric history of bipolar
+disorder, PTSD, and polysubstance abuse
+Chief complaint from Intake
+"im depressed"
+Chief Complaint in patient's own words
+"i'm dealing with a lot of trauma"
+History of Present Illness
+Patient is a [AGE]-year-old male with past psychiatric history
+of bipolar disorder, PTSD, and polysubstance abuse who
+presents as a transfer from Illinois Masonic for suicidal
+ideation with plan to overdose. Reports he has been
+feeling increasingly depressed and hopeless since his
+fiancé passed away in June. Prior to presentation to the
+ED, he reports taking "a bunch of pills" combined with
+cocaine and alcohol to try to end life. In addition he feels
+like he has poor support system and is homeless. He
+states he is "dealing with a lot of trauma" and that he has
+been coping with heroin, reports using $80-100 worth
+daily. He states he is currently on quetiapine 600mg and
+suboxone 8mg twice daily. Utox +benzos, cocaine,
+fentanyl. Patient presents depressed, anxious, hopeless,
+helpless, with avolition, anhedonia, racing ruminating
+thought process, poor sleep, poor insight and poor self
+care. Patient is unable to contract for safety and requires
+Immediate hospitalization for safety and stabilization.
+Detox Status
+Detox Monitoring
+COWS Total
+2.00000
+Risk of Harm to self and others
+Risk of harm to SELF
+Inability to care for self, Thoughts to harm self, Active
+suicidal Ideation/intention, Active suicide plan and Unable
+to contract for safety
+SI with plan to OD
+C-SSRS Score from Intake
+18
+Note: A score of 15 or more indicates "high risk".
+Recent suicidal Intent Notes
+plan to OD
+Risk of Harm to OTHERS
+"Denies thought, plan or ideation to harm others"
+History of assaultive thoughts or behaviors?
+No
+Printed On: 6/30/[AGE]23 @ 12:37
+
+
+Xylophone
+Powered by eGoldFax 6/30/[AGE]23 14:30
+eGoldFax
+
+Psychiatric Evaluation
+Name: [NAME]
+CBH
+CHICAGO
+Admit Date: 6/30/[AGE]23
+DOB: [BIRTHDATE]
+BEHAVIORAL HOSPITAL
+Observation Date/Time
+IF ANY ABOVE ARE AFFIRMATIVE RN MUST BE INFORMED
+TO INITIATE ASSESSMENT
+Evidence of failure at, or inability to benefit from a less intensive
+yes
+outpatient setting
+Medical History (current, recent, chronic, disabilities)
+hx blood clot disorder, hx hip replacement, hx back
+surgery, hx seizures from withdrawal, sciatica, hx bipolar
+Surgical History
+Yes
+Lumbar fusion, back surgery and total left hip arthoplasty
+Does any of the patient's medical or surgical history contribute
+No
+to current psychiatric presentation?
+Allergies and Home Meds
+Allergies reviewed in banner
+Yes
+Home Meds:
+Description
+Brand
+Dose
+Route
+Frequency PRN
+Indication
+Printed On: 6/30/[AGE]23 @ 12:37
+
+
+Xylophone
+Powered by eGoldFax 6/30/[AGE]23 14:30
+eGoldFax
+
+Name: [NAME]
+Psychiatric Evaluation
+CBH
+CHICAGO
+Admit Date: 6/30/[AGE]23
+DOB: [BIRTHDATE]
+BEHAVIORAL HOSPITAL
+Observation Date/Time: [DATE] 16:56
+clindamycin Oral 300 mg capsule
+Cleocin
+HC1
+gabapentin Oral 300 mg capsule
+Neurontin
+gabapentir Oral 400 mg capsule
+Neurontin
+1,[AGE]0
+PO
+TID91317
+Anxiety
+mg
+gabapentin Oral 800 mg TAB 1 ea
+Neurontin
+hydrOXYzine hydrochloride Oral 50
+Atarax
+mg TAB 1 ea
+lameTRIgine Oral 25 mg tablet
+LaMICtal
+25 mg
+PO
+DAILY
+Seizures
+methocarbamol oral 500 mg tablet
+Robaxin
+500 mg
+PO
+TID91321
+P
+muscle
+spasm
+mirtazapine Oral 15 mg tablet
+Remeron
+15 mg
+PO
+HS
+Sleep
+nicotine 21 mg/24 hr TERF
+Habitrol
+omeprazole Oral [AGE] mg delayed
+PriLOSEC
+[AGE] mg
+PO
+DAILY
+GERD
+release capsule
+prazosin oral 1 mg capsule
+Minipress
+1 mg
+PO
+HS
+nightmares
+QUEtiapine Oral 100 ng tablet
+SEROquel
+QUEtiapine Oral 300 mg tablet
+SEROquel
+300 mg
+PO
+HS
+Mood
+sertraline Oral 50 mg tablet
+Zoloft
+50 mg
+PO
+DAILY
+Mood
+traMADol 50 mg TAB
+Ultram
+100 mg
+PO
+TID91321
+P
+Pain
+Admission Meds:
+Description
+Brand
+Dose
+Route
+Frequency
+PRN
+Indication
+gabapentin Oral 400 mg capsule
+Neurontin
+1,[AGE]0
+PO
+TID91317
+Anxiety
+mg
+methocarbamol Oral 500 mg tablet
+Robaxin
+500 mg
+PO
+TID91321
+P
+muscle
+spasm
+mirtazapine Oral 15 mg tablet
+Remeron
+15 mg
+PO
+HS
+Sleep
+omeprazole oral [AGE] mg delayed
+PriLOSEC
+[AGE] mg
+PO
+DAILY
+GERD
+release capsule
+prazosin Oral 1 mg capsule
+Minipress
+1 mg
+PO
+HS
+nightmares
+QUEtiapine Oral 300 mg tablet
+SEROquel
+300 mg
+PO
+HS
+Mood
+sertraline Oral 50 mg tablet
+Zoloft
+50 mg
+PO
+DAILY
+Mood
+traMADol Oral 50 mg tablet
+Ultram
+100 mg
+PO
+TID91321
+P
+Pain
+Treatment History
+History of Inpat

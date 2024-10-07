@@ -1,4 +1,5 @@
-import boto3 #type: ignore
+
+import boto3  
 from replace_utilities import replace_birthdate, replace_date, replace_pii, replace_gender
 
 def process_medical_chunks(bucket, pre_folder, post_folder, text):
@@ -12,19 +13,27 @@ def process_medical_chunks(bucket, pre_folder, post_folder, text):
     for i, chunk in enumerate(chunks):
         pre_medical_chunk_key = f"{pre_folder}medical_chunk_{i+1}.txt"
         s3_client.put_object(Bucket=bucket, Key=pre_medical_chunk_key, Body=chunk)
-
-        # Ensure the chunk length is within the limit before making the API call
+        
         chunk = chunk[:20000]
         
-        # Apply birthdate replacement first
         chunk = replace_birthdate(chunk)
 
-        # Detect other PHI entities using Comprehend Medical
+        # Detect PHI entities
         phi_response = comprehend_medical_client.detect_phi(Text=chunk)
         for entity in phi_response['Entities']:
-            placeholder = "[PHI]"
-            if entity['Type'] == 'DATE':
-                placeholder = replace_date(entity['Text'])
+            
+            # Skip insurance and any entity type that's not in our allowed list
+            if entity['Type'] == 'INSURANCE':
+                continue  # Leave insurance names unmodified
+            
+            allowed_types = ['DATE', 'DATE_TIME', 'AGE', 'TIME', 'NAME', 'PROFESSION', 'GENDER']
+            if entity['Type'] not in allowed_types:
+                continue  # Skip entities not in the allowed list
+
+            # Handle entity types with placeholders
+            placeholder = '[PHI]'  # Default placeholder if no specific type is matched
+            if entity['Type'] == 'DATE' or entity['Type'] == 'DATE_TIME':
+                placeholder = replace_date(entity['Text'])  # Use date placeholder logic
             elif entity['Type'] == 'AGE':
                 placeholder = '[AGE]'
             elif entity['Type'] == 'TIME':
@@ -34,21 +43,24 @@ def process_medical_chunks(bucket, pre_folder, post_folder, text):
             elif entity['Type'] == 'GENDER':
                 placeholder = '[GENDER]'
 
+            # Replace detected PHI with the placeholder
             chunk = replace_pii(chunk, entity['Text'], placeholder)
 
         chunk = replace_gender(chunk)
 
+        # Upload processed chunk to S3
         post_medical_chunk_key = f"{post_folder}medical_chunk_{i+1}.txt"
         s3_client.put_object(Bucket=bucket, Key=post_medical_chunk_key, Body=chunk)
         processed_text += chunk
 
     return processed_text
 
+
 def process_pii_chunks(bucket, pre_folder, post_folder, text):
     comprehend_client = boto3.client('comprehend', region_name='us-east-2')
     s3_client = boto3.client('s3')
 
-    max_size = 4500  # Comprehend PII size limit
+    max_size = 4500  
     chunks = [text[i:i + max_size] for i in range(0, len(text), max_size)]
     processed_text = ""
 
@@ -56,10 +68,8 @@ def process_pii_chunks(bucket, pre_folder, post_folder, text):
         pre_pii_chunk_key = f"{pre_folder}pii_chunk_{i+1}.txt"
         s3_client.put_object(Bucket=bucket, Key=pre_pii_chunk_key, Body=chunk)
         
-        # Verify the chunk length before calling detect_pii_entities
         chunk = chunk[:5000]
-
-        # Detect PII entities using Amazon Comprehend
+        
         pii_response = comprehend_client.detect_pii_entities(Text=chunk, LanguageCode='en')
         for entity in pii_response['Entities']:
             placeholder = None
@@ -92,4 +102,3 @@ def process_pii_chunks(bucket, pre_folder, post_folder, text):
         processed_text += chunk
 
     return processed_text
-

@@ -1,0 +1,94 @@
+have an outpatient treatment team that supports you?
+Yes
+Dr. [NAME]
+Tell me one goal you have for yourself for the future.
+Yes
+Pt reported that he would like to
+Liabilities
+How has your living situation changed or impacted your stress
+Yes
+levels?
+Pt is currently homeless
+Patient has been engaging in using the following substances:
+Yes
+Pt abuses alcohol, heroin, and cocaine.
+Patient is currently involved with the following legal issues
+Yes
+Pt has a history of legal issues.
+Discharge
+Diagnosis - Must have at least one ACTIVE and one PRIMARY
+Diagnosis
+Diagnosis
+Class
+Type
+Priority
+Date
+Code
+System
+Printed On: 6/30/2023 @ 12:37
+
+
+Xylophone
+Powered by eGoldFax 6/30/2023 14:30
+eGoldFax
+
+Psychiatric Evaluation
+Name: [NAME]
+CBH
+CHICAGO
+Admit Date: 6/30/2023
+DOB: [BIRTHDATE]
+BEHAVIORAL HOSPITAL
+Observation Date/Time: [DATE] 16:56
+MAJOR DEPRESSIVE DISORDER,
+Psychiatric
+Admitting
+Primary Diagnosis
+6/30/2023
+F33.9
+ICD10
+RECURRENT, UNSPECIFIED
+Major depressive disorder,
+Provisiona
+F33.2
+ICD-10
+recurrent severe without
+1
+psychotic features
+Initial Aftercare Plan
+Living/Placement
+Home/Independent Living, Residential Treatment Center
+and Halfway House/Shelter
+Programs/Follow-Up
+Partial Hospitalization Program and Individual
+Therapy/Medication Management
+Discharge Goals and Criteria
+"Establish and maintain safety (no SI/HI, self harm,
+aggression)", "Improvement in signs and symptoms of
+mood disorder and/or psychosis" and Build insight into
+condition
+Treatment has been explained to
+Patient
+Telehealth
+This visit was conducted with the use of interactive audio and
+No
+video telecommunication that permits real time communication
+between the patient and the provider.
+The patient consent for virtual visit obtained on
+Originating Site: Chicago Behavioral Hospital
+Distant Site: Provider Home
+Discharge
+Documented by Scribe
+No
+I have discussed with the patient the use of anti psychotic drugs
+as part of the treatment plan including the risks and benefits of
+the medications including but not limited to possible adverse
+effects such as possible weight gain, increased serum glucose,
+sedation, movement disorders, and
+cardiac reactions; likely symptoms and risk and benefits of the
+medication not being taking, and alternative treatments along
+with the risks and benefits of those alternative treatments.
+Provider Signature
+e-Signed by
+at 6/30/2023 16:56
+Printed On: 6/30/2023 @ 12:37

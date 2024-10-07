@@ -1,0 +1,233 @@
+y 4 weeks),
+[DATE] 7:18:00 CDT
+At home. patient was taking medication with
+haloperidol
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+8
+haloperidol (Haldol)
+10 mg, TAB, PO, BID (2 times a day), [DATE]
+9:00:00 CDT
+haloperidol
+10 mq Auth (Ve
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+
+
+Xylophone
+123
+10:53:22 a.m. 6/30/2023
+[DATE]
+Flowsheet Print Request
+Patier
+Printed by:
+MRN:
+Date Range: 6/30/2023 09:19 - 6/30/2023 09:19
+Printed on: 6/30/2023 09:19
+6/30/2023
+6/30/2023
+6/30/2023
+6/30/2023
+6/30/2023
+Medications
+09:00
+08:30
+08:29
+08:05
+08:03
+insulin glargine
+50 Unit, INJ, Subcut, Daily, [DATE] 21:00:00 CDT
+At home, patient was taking medication with
+insulin glargine
+Blood Glucose, MAR
+2nd Clinician Verification Before Admin
+R
+Insulin lispro
+18 Unit, INJ, Subcut, TIDAC (3 times a day before
+meals), [DATE] 10:00:00 CDT
+At home. natient was taking medication with
+insulin lispro
+Not Given: Refu
+Blood Glucose, MAR
+2nd Clinician Verification Before Admin
+Yes U-200, U-3
+lisinopril
+10 mg, TAB, PO, Daily, [DATE] 11:14:00 CDT
+--- At home, patient was taking medication with see
+lisinopril
+10 mq Auth (Ve
+R
+metFORMIN
+1,000 mg, TAB, PO, BID (2 times a day), [DATE]
+10:00:00 CDT
+At home. patient WAS taking medication with
+metFORMIN
+Not Given: Refu
+OLANZapine
+20 mg, TAB, PO, QHS (At bedtime), [DATE]
+21:00:00 CDT
+At home, patient was taking medication with
+olanzapine
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+PRN
+PRN
+acetaminophen
+650 mg, TAB, PO, Q6H (Every 6 hours), PRN Pain,
+[DATE] 10:12:00 CDT, [DATE] 10:12:00 CDT
+At home, patient was taking medication with
+acetaminophen
+Location of Pain
+Pain Site
+Acute Pain Score
+Acute Pain Goal
+Chronic Pain Score
+Chronic Pain Goal
+Wong-Baker FACES Pain Rating Scale
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+
+
+Xylophone
+123
+10:53:44 a.m.
+6/30/2023
+[DATE]
+Flowsheet Print Request
+Patier
+Printed by:
+MRN:
+Date Range: 6/30/2023 09:19 - 6/30/2023 09:19
+Printed on: 6/30/2023 09:19
+Medications
+6/30/2023
+6/30/2023
+6/30/2023
+6/30/2023
+6/30/2023
+09:00
+08:30
+08:29
+08:05
+08:03
+PRN
+albuterol (albuterol inhaler)
+180 mcg, INHALER, Inhalation, Q4H (Every 4
+hours), PRN Shortness of Breath, [DATE]
+10:12:00 CDT
+A+
+albuterol
+PRN
+benztropine
+1 mg, INJ, IM, Q8H (Every 8 hours), PRN Other (see
+comment), [DATE] 1:22:00 CDT, [DATE] 1:22:00
+CDT
+PRN Stiffness/Akethesia
+benztropine
+PRN
+calcium carbonate (Turns 500)
+1,250 mg, CHEW TAB, Chewed, TID (3 times a day),
+PRN dvspepsia. [DATE] 10:14:00 CDT
+calcium carbonate
+PRN
+docusate (Colace)
+100 mg, CAP, PO, BID (2 times a day), PRN
+Constipation, [DATE] 10:13:00 CDT. [DATE]
+10.13.00 CDT
+docusate
+PRN :
+fluticasone nasal (fluticasone 50 mcg/lnh nas...
+50 mcg, 1 Spray, SPRAY, Both Nares, Daily, PRN
+Congestion, [DATE] 10:13:00 CDT
+At home. patient was taking medication with
+fluticasone nasal
+PRN
+haloperidol
+5 mg, TAB, PO, Q8H (Every 8 hours), PRN Agitation,
+[DATE] 1:22:00 CDT
+haloperidol
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+8
+PRN
+haloperidol
+10 mg, INJ, IM, Q3H (Every 3 hours), PRN
+Agitation, [DATE] 1:22:00 CDT
+Give this medication ONLY if patient cannot toler...
+haloperidol
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+PRN
+Ibuprofen (Motrin)
+400 mg, TAB, PO, Q8H (Every 8 hours), PRN Pain,
+Mild, [DATE] 15:15:00 CDT, [DATE] 15:15:00
+CDT
+ibuprofen
+
+
+Xylophone
+123
+10:54:04 a.m.
+6/30/2023
+[DATE]
+Flowsheet Print Request
+Patie
+Printed by:
+MRN
+Date Range: 6/30/2023 09:19 - 6/30/2023 09:19
+Printed on: 6/30/2023 09:19
+6/30/2023
+6/30/2023
+6/30/2023
+6/30/2023
+6/30/2023
+Medications
+09:00
+08:30
+08:29
+08:05
+08:03
+Location of Pain
+Pain Site
+Acute Pain Score
+Acute Pain Goal
+Chronic Pain Score
+Chronic Pain Goal
+Wong-Baker FACES Pain Rating Scale
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+PRN
+loperamide (Imodium A-D)
+4 mg, CAP, PO, Q6H (Every 6 hours), PRN as
+needed for loose stool, [DATE] 10:13:00 CDT,
+[DATE] 10:13:00 CDT
+loperamide
+/8
+PRN
+LORazepam
+1 mg, INJ, IM, Q6H (Every 6 hours), PRN as needed
+for anxiety, [DATE] 1:22:00 CDT
+Give this medication ONLY if patient cannot toler...
+LORazepam
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+R
+PRN
+LORazepam
+1 mg, TAB, PO, Q8H (Every 8 hours), PRN as
+needed for anxiety, [DATE] 1:22:00 CDT
+LORazepam
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+8
+PRN
+magnesium hydroxide
+2.4 GM, SUSP, PO, Daily, PRN Constipation,
+[DATE] 1:22:00 CDT. (Milk of Magnesia)
+ma

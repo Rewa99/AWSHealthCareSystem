@@ -1,0 +1,264 @@
+ate
+Med Responses
+
+
+Xylophone
+10:52:19 a.m.
+6/30/2023
+23/42
+123
+Flowsheet Print Request
+Printed by:
+Date Range: 6/30/2023 09:19 - 6/30/2023 09:19
+Printed on: 6/30/2023 09:19
+Medications
+6/30/2023
+6/30/2023
+6/30/2023
+6/30/2023
+6/30/2023
+16:30
+16:00
+13:00
+12:00
+09:19
+PRN
+180 mcg
+albuterol (albuterol inhaler)
+Not given within
+180 mcg, INHALER, Inhalation, Q4H (Every 4
+5 days.
+hours), PRN Shortness of Breath, [DATE]
+10:12:00 CDT
+albuterol
+PRN
+1 mg
+benztropine
+Last given:
+1 mg, INJ, IM, Q8H (Every 8 hours), PRN Other (see
+mg @
+comment), [DATE] 1:22:00 CDT, [DATE] 1:22:00
+6/30/2023
+CDT
+12:46 CDT
+PRN Stiffness/Akethesia
+benztropine
+PRN
+1,250 mg
+calcium carbonate (Tums 500)
+Not given within
+1,250 mg, CHEW TAB, Chewed, TID (3 times a day),
+5 days.
+PRN dvspensia. [DATE] 10:14:00 CDT
+calcium carbonate
+PRN
+100 mg
+docusate (Colace)
+Not given within
+100 mg, CAP, PO, BID (2 times a day), PRN
+5 days.
+Constipation, [DATE] 10:13:00 CDT, [DATE]
+[DATE] CDT
+docusate
+PRN
+50 mcg
+fluticasone nasal (fluticasone 50 mcg/inh nas...
+Last given:
+50 mcg, 1 Spray, SPRAY, Both Nares, Daily, PRN
+50 mcg @
+Congestion, [DATE] 10:13:00 CDT
+6/30/2023
+At home, patient was taking medication with
+08:58 CDT
+fluticasone nasal
+BE
+PRN
+5 mg
+haloperidol
+Last given:
+5 mg, TAB, PO, Q8H (Every 8 hours), PRN Agitation,
+5 mg @
+[DATE] 1:22:00 CDT
+6/30/2023
+00:48 CDT
+haloperidol
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+PRN
+10 mg
+haloperidol
+Last given:
+10 mg, INJ, IM, Q3H (Every 3 hours), PRN
+10 mg a
+Agitation, [DATE] 1:22:00 CDT
+6/30/2023
+Give this medication ONLY if patient cannot toler...
+01:36 CDT
+haloperidol
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+PRN
+400 mg
+ibuprofen (Motrin)
+Not given within
+400 mg. TAB, PO, Q8H (Every 8 hours), PRN Pain,
+5 days,
+Mild, [DATE] 15:15:00 CDT, [DATE] 15:15:00
+CDT
+ibuprofen
+
+
+Xylophone
+123
+10:52:41 a.m.
+6/30/2023
+[DATE]
+Flowsheet Print Request
+Patien
+Printed by:
+MRN:
+Date Range: 6/30/2023 09:19 - 6/30/2023 09:19
+Printed on: 6/30/2023 09:19
+6/30/2023
+6/30/2023
+6/30/2023
+6/30/2023
+6/30/2023
+Medications
+16:30
+16:00
+13:00
+12:00
+09:19
+Location of Pain
+Pain Site
+Acute Pain Score
+Acute Pain Goal
+Chronic Pain Score
+Chronic Pain Goal
+Wong-Baker FACES Pain Rating Scale
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+PRN
+4 mg
+loperamide (Imodium A-D)
+Not given within
+4 mg, CAP, PO, Q6H (Every 6 hours), PRN as
+5 days.
+needed for loose stool, [DATE] 10:13:00 CDT,
+[DATE] 10:13:00 CDT
+loperamide
+8
+PRN
+1 mg
+LORazepam
+Last given:
+1 mg, INJ, IM, Q6H (Every 6 hours), PRN as needed
+1 mg @
+for anxiety, [DATE] 1:22:00 CDT
+6/30/2023
+Give this medication ONLY If patient cannot toler..
+01:36 CDT
+LORazepam
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+B
+PRN
+1 mg
+LORazepam
+Last given:
+1 mg, TAB, PO, Q8H (Every 8 hours), PRN as
+1 mg @
+needed for anxiety. [DATE] 1:22:00 CDT
+6/30/2023
+20:52 CDT
+LORazepam
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+8
+PRN
+2.4 GM
+magnesium hydroxide
+Not given within
+2.4 GM, SUSP, PO, Dally, PRN Constipation,
+5 days.
+[DATE] 1:22:00 CDT, (Milk of Magnesia)
+magnesium hydroxide
+Med Responses
+PRN
+4 mg
+ondansetron (Zofran ODT)
+Not given within
+4 mg, DIS Tablet, PO, Q8H (Every 8 hours), PRN
+5 days.
+Nausea/Vomiting, [DATE] 10:14:00 CDT,
+[DATE] [DATE] CDT
+ondansetron
+Med Responses
+
+
+Xylophone
+123
+10:53:01 a.m. 6/30/2023
+[DATE]
+Flowsheet Print Request
+Patien
+Printed by:
+MRN:
+Date Range: 6/30/2023 09:19 - 6/30/2023 09:19
+Printed on: 6/30/2023 09:19
+Medications
+6/30/2023
+6/30/2023
+6/30/2023
+6/30/2023
+6/30/2023
+09:00
+08:30
+08:29
+08:05
+08:03
+Scheduled
+amL.ODIPine
+10 mg, TAB, PO, Daily, [DATE] 11:13:00 CDT
+At home, patient was taking medication with 046
+amlodipine
+10 ma Auth (Ve
+benzocaine topical (Orajel)
+1 APP, GEL, TOP, 4 times a day, [DATE] 17:00:00
+CDT
+benzocaine topical
+1 APP Auth (Ver
+cadexomer iodine topical (cadexomer lodine
+0.9
+0.9, GEL, TOP, Daily, [DATE] 9:00:00 CDT
+given!
+Cleanse the wounds with NS, pat dry, apply lodos
+6/30/2023
+09:00 CDT
+cadexomer-iodine topical
+B
+doxycycline (doxycycline monohydrate)
+100 mg, CAP, PO, BID (2 times a day), Other-Enter
+in Order Comments, [DATE] 11:15:00 CDT, Stop
+date [DATE] 9:00:00 CST
+doxycycline
+100 mg Auth (V
+B
+ferrous sulfate
+325 mg, TAB, PO, Daily, [DATE] 11:20:00 CDT
+ferrous sulfate
+325 mq Auth (V
+fluticasone nasal
+100 mcg, SPRAY, Nasal, Daily, [DATE] 11:23:00
+CDT
+fluticasone nasal
+100 mcq Auth (
+B
+haloperidol (Haldol Decanoate)
+100 mg, INJ, IM, Q4WEEK (Ever

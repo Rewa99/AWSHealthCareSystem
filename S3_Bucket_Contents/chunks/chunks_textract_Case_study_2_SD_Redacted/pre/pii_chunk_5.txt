@@ -1,0 +1,252 @@
+:00
+17:00
+Scheduled
+amLODIPine
+10 mg
+10 mg, TAB, PO, Daily, [DATE] 11:13:00 CDT
+Last given
+At home, patient was taking medication with
+10 mg @
+6/30/6/30/2023
+08:03 CDT
+amlodipine
+benzocaine topical (Orajel)
+1 APP
+1 APP
+1 APP
+1 APP, GEL TOP, 4 times a day, [DATE] 17:00:00 Last given:
+Last given:
+Last given:
+CDT
+1 APP @
+1 APP
+1 APP @
+6/30/2023
+6/30/2023
+6/30/2023
+08:29 CDT
+08:29 CDT
+08:29 CDT
+benzocaine topical
+cadexomer lodine topical (cadexomer Iodine
+0.9, GEL, TOP, Daily, [DATE] 9:00:00 CDT
+Lastgiven
+Cleanse the wounds with NS, pat dry, apply lodos.
+0.9%@
+6/30/2023
+09:00 CDT
+cadexomer-iodine topical
+R
+100 mg
+doxycycline (doxycycline monohydrate)
+Last given:
+100 mg, CAP, PO, BID (2 times a day), Other-Enter
+100 mg @
+in Order Comments, [DATE] 11:15:00 CDT, Stop
+6/30/2023
+date [DATE] 9:00:00 CST
+08:03 CDT
+08:03
+doxycycline
+325 mg
+ferrous sulfate
+Last given:
+325 mg, TAB, PO, Daily, [DATE] 11:20:00 CDT
+325 mg ®
+6/30/2023
+08:03 CDT
+ferrous sulfate
+fluticasone nasal
+100 mcg
+100 mcg, SPRAY, Nasal, Daily, [DATE] 11:23:00
+Last given
+CDT
+100 mcg @
+6/30/2023
+08:30 CDT
+fluticasone nasal
+18
+haloperidol (Haldol Decanoate)
+100 mg, INJ, IM, Q4WEEK (Every 4 weeks),
+[DATE] 7:18:00 CDT
+At home. patient was taking medication with ---
+haloperidol
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+/8
+10 mg
+10 mg:
+haloperidol (Haldol)
+Last given:
+Last given:
+10 mg, TAB, PO, BID (2 times a day). [DATE]
+10 mg @
+10 mg; @
+9:00:00 CDT
+6/30/2023
+6/30/2023
+08.03 CDT
+06:03 CDT:
+haloperidol
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+
+
+Xylophone
+123
+10:50:28 a.m.
+6/30/2023
+[DATE]
+Flowsheet Print Request
+Patient:
+Printed by:
+MRN:
+Date Range: 6/30/2023 09:19 1 6/30/2023 09:19
+Printed on: 6/30/2023 09:19
+6/30/2023
+6/30/2023
+6/30/2023
+6/30/2023
+6/30/2023
+Medications
+09:00
+07:30
+07:00
+21:00
+17:00
+so Unit
+Insulin glargine
+Last given:
+50 Unit, INJ, Subcut, Dally, [DATE] 21:00:00 CDT
+50 Unit
+At home, patient was taking medication with
+6/30/2023
+20:41.CDT
+insulin glargine
+Blood Glucose, MAR
+2nd Clinician Verification Before Admin
+R
+18 Unit
+Insulin lispro
+Last given:
+18 Unit, INJ. Subcut, TIDAC (3 times a day before
+18 Unit @
+meals), [DATE] 10:00:00 CDT
+6/30/2023
+At home. patient was taking medication with
+12:13 CDT
+insulin lispro
+Blood Glucose, MAR
+2nd Clinician Verification Before Admin
+lisinopril
+10 mg, TAB, PO, Daily, [DATE] 11:14:00 CDT
+At home, patient was taking medication with
+08:03. CDT
+lisinopril
+1,000 mg
+metFORMIN
+Last given:
+1,000 mg, TAB, PO, BID (2 times a day), [DATE]
+1000 mg @
+10:00:00 CDT
+6/30/2023
+At home. natient was taking medication with
+08:53 CDT
+metFORMIN
+OLANZapine
+20 mg
+20 mg, TAB, PO, QHS (At bedtime), [DATE]
+Last given:
+21:00:00 CDT
+20 mg
+At home, patient was taking medication with
+6/30/2023
+20:41.CDT
+olanzapine
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+PRN
+B
+PRN
+acetaminophen
+650 mg, TAB, PO, Q6H (Every 6 hours), PRN Pain,
+[DATE] 10:12:00 CDT, [DATE] 10:12:00 CDT
+At home, patient was taking medication with -
+acetaminophen
+Location of Pain
+Pain Site
+Acute Paln Score
+Acute Pain Goal
+Chronic Pain Score
+Chronic Pain Goal
+Wong-Baker FACES Pain Rating Scale
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+
+
+Xylophone
+123
+10:50:56 a.m.
+6/30/2023
+[DATE]
+Flowsheet Print Request
+Patient:
+Printed by:
+MRN:
+Date Range: 6/30/2023 09:19 - 6/30/2023 09:19
+Printed on: 6/30/2023 09:19
+Medications
+6/30/2023
+6/30/2023
+6/30/2023
+6/30/2023
+6/30/2023
+09:00
+07:30
+07:00
+21:00
+17:00
+PRN
+albuterol (albuterol inhaler)
+180 mcg, INHALER, Inhalation, Q4H (Every 4
+hours), PRN Shortness of Breath, [DATE]
+10:12:00 CDT
+albuterol
+PRN
+benztropine
+1 mg, INJ, IM, Q8H (Every 8 hours), PRN Other (see
+comment), [DATE] 1:22:00 CDT, [DATE] 1:22:00
+CDT
+PRN Stiffiesc/Akethesia
+benztropine
+PRN
+calcium carbonate (Tums 500)
+1,250 mg, CHEW TAB, Chewed, TID (3 times a day),
+PRN dvspepsia. [DATE] 10:14:00 CDT
+calcium carbonate
+PRN
+docusate (Colace)
+100 mg, CAP, PO, BID (2 times a day), PRN
+Constipation, [DATE] 10:13:00 CDT, [DATE]
+10.13.00 CDT
+docusate
+PRN
+fluticasone nasal (fluticasone 50 mcg/inh nas...
+50 mcg, 1 Spray, SPRAY, Both Nares, Daily, PRN
+Congestion, [DATE] 10:13:00 CDT
+At home. patient was taking medication with
+fluticasone nasal
+PRN
+haloperidol
+5 mg, TAB, PO, Q8H (Every 8 hours), PRN Agitation,
+[DATE] 1:22:00 CDT
+haloperidol
+Richmond Agitation-Sedation Scale (RASS)
+Respiratory Rate
+Med Responses
+PRN
+haloperidol
+10 mg, INJ, IM, Q3H (Every 3 hours), PRN
+Agitation, [DATE] 1:22:00 CDT
+Give this medication ONLY if

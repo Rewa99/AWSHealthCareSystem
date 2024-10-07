@@ -1,0 +1,1006 @@
+Xylophone
+(80 y.o. F) (Adm: 10/23/23)
+Guarantor Information
+Name:
+SSN:
+Address:
+City:
+Aurora
+State: IL
+Zip:
+Phone:
+Employer:
+Address:
+City:
+State:
+Zip:
+Phone:
+Guar DOB:
+Emergency Contact Information
+Name:
+Relationship: CH
+Address:
+City:
+AURORA
+State: IL
+Zip:
+Phone:
+Business
+phone:
+Principal Problem Audit Trail
+Problem
+Noted By
+Date/Time
+Pelvic mass in female
+10/05/23 1231
+Medical Problems
+Hospital Problem List
+Date Reviewed: 10/22/2023
+ICD-10-
+CM
+Priority
+Class
+Noted
+POA
+* (Principal) Pelvic mass in female
+R19.00
+1/11/2023 Unknown
+Preop testing
+Z01.818
+10/23/2023 Unknown
+Acute blood loss as cause of
+D62
+10/24/2023 Yes
+postoperative anemia
+Essential thrombocytosis (CMS-HCC)
+D47.3
+10/24/2023 Yes
+Non-Hospital Problem List
+Date Reviewed: 10/22/2023
+ICD-10-
+CM
+Priority
+Class
+Noted
+Cellulitis
+L03.90
+1/10/2023
+Acute deep vein thrombosis (DVT) of femoral vein of 182.412
+1/11/2023
+left lower extremity (CMS-HCC)
+Acute pulmonary embolism without acute cor
+126.99
+1/11/2023
+pulmonale (CMS-HCC)
+Presence of IVC filter RETRIEVABLE
+Z95.828
+1/12/2023
+Overview Signed 1/13/2023 8:36 AM by
+inted at 10/25/2023 1:59 PM
+
+
+Xylophone
+ICD-10-
+CM
+Priority
+Class
+Noted
+Retrievable IVC filter placed at CDH on 01/12/2023 by Dr.
+Acute PE & DVT with pelvic mass. Needs mass resection
+Care Plan Problems
+Clinical Goals
+PCP
+Patient Demographics
+Name
+Patient ID
+Gender Identity
+Birth Date
+Female
+(80 yrs)
+Address
+Phone
+Email
+Reg Status
+PCP
+Date Last Verified
+Next Review Date
+Verified
+Demographics
+Address:
+Home Phone:
+Work Phone:
+Mobile Phone:
+SSN:
+Insurance:
+Marital Status:
+Religion:
+MEDICAID
+Widowed
+REPLACEMENT
+Documents Filed to Patient
+After
+Lab
+Power of Living
+Clinical
+Study
+Consent
+ABN
+Visit
+Result
+Code
+MyNM
+Attorney Will
+Unknown
+Attachment
+Form
+Waiver
+Summary Scan
+Status
+Status
+Not on
+Not on
+Not on
+Not on File
+Filed
+Not on
+Filed
+Not on
+FULL
+Pending
+File
+File
+File
+File
+File
+[Updated
+on
+10/23/23
+1245]
+Admission Information
+Current Information
+Attending Provider
+Admitting Provider
+Admission Type
+Admission Status
+Elective
+Confirmed Admission
+
+
+Xylophone
+Inpatient Admission
+Admission Date/Time
+Date/Time
+Discharge Date
+Hospital Service
+10/23/23 0627
+10/23/23 1247
+Surgery
+Hospital Area
+Unit
+Room/Bed
+Auth/Cert Status
+CENTRAL DUPAGE
+CDH GENERAL SURGERY 249/A
+Incomplete
+HOSPITAL IP
+& ORTHOPEDICS
+Hospital Account
+Name
+Acct ID
+Class
+Status
+Primary Coverage
+Open
+MEDICAID
+REPLACEMENT -
+MERIDIAN
+HEALTH PLAN OF
+IL
+Guarantor Account (for Hospital Account #
+Relation
+Name
+to Pt
+Service Area
+Active?
+Acct Type
+Self
+NMH
+Yes
+Personal/Family
+Address
+Phone
+Coverage Information (for Hospital Account #58352147)
+F/O Payor/Plan
+Precert #
+MEDICAID REPLACEMENT/MERIDIAN HEALTH PLAN OF IL
+Subscriber
+Subscriber #
+Address
+Phone
+H&P Notes
+MD (Physician) 10/23/2023 17:08 Hospitalist
+CDIP Hospitalist Admission H&P
+Patient name:
+Room:
+Date of admission: 10/23/2023
+Primary care physician:
+CODE STATUS: full
+Chief complaint: s/p exlap, R oophrecotmy, LOA, omentectomy
+HPI:
+with a history of essential thrombocytosis, DVT, PE s/p IVC
+
+
+Xylophone
+filter, B12 deficiency anemia, pelvic mass, admitted 10/23/2023 s/p exlap, R oophrecotmy,
+LOA, omentectomy. Pt's daughter at bedside interpreting. Pt c/o 5/10 pain "all over". Denies
+specific abdominal pain. Denies nausea.
+ROS:
+10 point ros (-) except as stated above
+Constitutional: denies weight loss, fevers
+Eyes: denies visual changes, eye pain
+Head/Ears/nose/throat: denies headache,runny/congested nose, ear pain, tinnitus,
+odynophagia
+CV. denies chest pain, DOE, PND, orthopnea, palpitations
+Pulm: denies cough, sputum, wheezing, hemoptysis, SOB
+GI: denies abdominal pain, dysphagia, nausea/vomiting, diarrhea/constipation, hematemesis,
+BRBPR, melena
+GU: denies dysuria, incontinence
+MS: denies joint pain, stiffness, swelling
+Skin: denies pruritis, rashes, lesions, nodules
+Neuro: denies numbness, tingling, ataxia, speech problems
+Psych: denies sleep disturbances, depression or home safety issues
+Past Medical History:
+Diagnosis
+Date
+Anemia
+Essential hypertension, benign
+PE (pulmonary thromboembolism) (CMS-HCC)
+Thrombocytosis
+Vitamin B 12 deficiency
+Past Surgical History:
+Procedure
+Laterality
+Date
+ABDOMEN SURGERY
+10/23/2023
+Exploratory laparatomy, right oophorectomy, pelvic and paraaortic lymphadenectomy,
+infragastric omentectomy, right ureterolysis with Dr. Alter @ CDH
+HYSTERECTOMY
+1990
+IR BIOPSY BONE MARROW
+05/31/2023
+IR BIOPSY BONE MARROW 5/31/2023 CDH INTERVENTIONAL LABS
+IR IVC FILTER PLACEMENT
+01/12/2023
+IR IVC FILTER PLACEMENT 1/12/2023 CDH INTERVENTIONAL LABS
+Family History
+Problem
+Relation
+Age of Onset
+Breast Cancer
+Neg Hx
+Ovarian Cancer
+Neg Hx
+Uterine Cancer
+Neg Hx
+Social History
+Socioeconomic History
+
+
+Xylophone
+Marital status:
+Widowed
+Tobacco Use
+Smoking status:
+Never
+Smokeless tobacco:
+Never
+Vaping Use
+Vaping Use:
+Never used
+Substance and Sexual Activity
+Alcohol use:
+No
+Drug use:
+No
+Sexual activity:
+Defer
+Social History Narrative
+Number of pregnancies - 8
+Number of miscarriages - 4
+Age at menarche - 12
+Age at first live birth - 19
+Breast feed children - Yes
+Hysterectomy - Yes
+Oophorectomy - Yes (both)
+Menstruating regularly - No
+Currently taking birth control pills - No
+Ever taken birth control pills - No
+Menopause - Yes
+Currently taking hormone replacement therapy - No
+Ever taken hormone replacement therapy - No
+Prior breast biopsies - No
+Social Determinants of Health
+Food Insecurity: Low Risk (1/10/2023)
+Food Insecurity
+Have there been times that your food ran out and you didn't have money to get
+more? : No
+Have there been any times recently that you worried whether your food would run out
+before you got money to buy more?: No
+Transportation Needs: Low Risk (1/10/2023)
+Transportation Needs
+Do you have trouble getting transportation to medical appointments?: No
+Housing Stability: Low Risk (1/10/2023)
+Housing Stability
+Are you concerned about having a safe and reliable place to live?: No
+No Known Allergies
+Home medications:
+Medications Prior to Admission
+Medication
+Sig
+Dispense Refill Last Dose
+acetaminophen 325 mg
+Take 2 tablets by
+30 tablet
+0
+Unknown
+tablet
+mouth every 4
+(four) hours as
+needed.
+
+
+Xylophone
+apixaban (ELIQUIS DVT-PE
+Take 2 tablets (10
+74 tablet
+0
+10/19/2023
+TREAT 30D START) 5 mg
+mg total) by mouth
+(74 tabs) tablets, dose pack
+2 (two) times a
+day for 7 days,
+then take 1 tablet
+(5 mg total) by
+mouth 2 (two)
+times a day
+carboxymethylcellulose-gl
+1 drop if needed.
+10/22/2023
+ycern (REFRESH OPTIVE)
+0.5-0.9 % Drops
+cyanocobalamin (VITAMIN
+Take 1 tablet by
+10/22/2023
+B-12) 1,000 mcg tablet
+mouth daily.
+ELIQUIS 5 mg Tablet
+10/22/2023
+famotidine 20 mg tablet
+Take 1 tablet by
+10/22/2023
+mouth daily.
+hydroxyurea 500 mg capsule Take 1 capsule by 60 capsule
+2
+10/22/2023
+mouth 2 (two)
+times daily.
+latanoprost 0.005 %
+Place 1 drop into
+10/22/2023
+ophthalmic solution
+both eyes every
+evening before
+dinner.
+losartan 25 mg tablet
+Take 1 tablet by
+10/22/2023
+mouth daily.
+mv-mn/iron/folic acid/herb
+Take by mouth.
+10/18/2023
+190 (VITAMIN D3
+COMPLETE ORAL)
+simvastatin 10 mg tablet
+Take 1 tablet by
+10/22/2023
+mouth nightly.
+Indications:
+combination with
+potassium
+traMADoL 50 mg tablet
+Take 1 tablet by
+10/2/2023
+mouth every 6 (six)
+hours as needed
+for pain.
+OBJECTIVE
+Vitals:
+10/23/23 1235
+10/23/23 1245
+10/23/23 1300
+BP:
+108/59
+110/59
+105/54
+Pulse:
+66
+62
+62
+Resp:
+15
+17
+15
+Temp:
+TempSrc:
+SpO2:
+93%
+96%
+100%
+Weight:
+Height:
+Gen: Well groomed, no acute distress
+
+
+Xylophone
+HEENT: anicteric sclerae, mmm
+Neck: supple,trachea midline
+CV: rrr, no m/r/g
+Lungs: no increased wob, ctab
+Abdomen: dressings W small amount of serosanguinous staining, jp drain W serosanguinous
+fluid, +bs, nondistended, soft,no guarding/rigidity
+Ext: BUE no cyanosis or clubbing, no edema; BLE no edema
+Skin:warm, normal turgor, no obvious rashes, petechiae or lesions
+Neuro: EOMI, smile symmetric, speech fluent, squeezes hands b/l, wiggles feet b/l
+Psych: Alert and oriented x3, ,normal affect
+LABS
+Recent Labs
+Lab
+10/23/23
+1037
+HGB
+8.8*
+Latest
+10/23/23
+Reference
+10:37
+Range &
+Units
+pH, Arterial Blood
+7.34
+pCO2, Arterial
+35.0 - 45,0
+38.7
+mm Hg
+pO2, Arterial
+80.0 105.0
+290.0 (HH)
+mm Hg
+HCO3, Arterial
+22 26
+21 (L)
+mmol/L
+Sodium, Whole Blood Gas
+138 - 146
+141
+mEq/L
+Potassium Bld Gas
+3.5 4.9
+3.8
+mEq/L
+CTCO2 Arterial POC
+23.0 - 27.0
+22.0 (L)
+mmol/L
+CSO2, Arterial POC
+95 98%
+100 (H)
+(HH): Data is critically high
+(L): Data is abnormally low
+(H): Data is abnormally high
+Latest
+09/29/23
+Reference
+14:21
+Range &
+Units
+WBC
+3.6 10.2
+6.1
+10^3/uL
+
+
+Xylophone
+RBC
+(Based on
+2.52 (L)
+documented
+legal sex)
+4. 10-5.30
+10^6/uL
+HGB
+(Based on
+10.6 (L)
+documented
+legal sex)
+11.9-15.8
+g/dL
+HCT
+(Based on
+32.0 (L)
+documented
+legal sex)
+37.4-48.3 %
+MCV
+82.0 - 99.0 fL
+127.0 (H)
+MCH
+27.0 - 33.0 pg
+42.1 (H)
+MCHC
+32.0 - 36.0
+33.1
+g/dL
+RDW
+11.0 - 15.0 %
+12.1
+PLT
+150 - 450
+198
+10^3/uL
+MPV
+9.8 - 12.7 fL
+9.1 (L)
+Nucleated RBCs
+0 %
+0.0
+Instrument Absolute
+1.1 6.0
+3.4
+Neutrophil Count
+10^3/uL
+(L): Data is abnormally low
+(H): Data is abnormally high
+Latest
+09/29/23
+Reference
+14:21
+Range &
+Units
+Sodium
+133 146
+142
+mmol/L
+Potassium
+3.5 5.1
+4.6
+mmol/L
+Chloride
+98 107
+106
+mmol/L
+CO2
+21 31
+27
+mmol/L
+Calcium
+8.3 10.5
+9.6
+mg/dL
+Bun
+7 - 25 mg/dL
+18
+Creatinine
+0.60 1.30
+0.84
+mg/dL
+
+
+Xylophone
+Glucose
+70 - 100
+106 (H)
+mg/dL
+ALT (SGPT)
+9 - 43 units/L
+14
+AST (SGOT)
+13 - 39 units/L
+19
+Albumin
+3.5-5.0 - g/dL
+4.5
+Alkaline Phosphatase
+34 - 104
+50
+units/L
+Bilirubin Total
+0.2 - 1.2
+0.3
+mg/dL
+Total Protein
+6.4 - 8.3 g/dL
+7.3
+Anion Gap
+4 - 13 mmol/L
+9
+eGFRcr (CKD-EPI 2021)
+>=60
+70
+mL/min/1.73
+m²
+(H): Data is abnormally high
+EKG:
+10/14 nsr W incomplete rbbb
+IMAGING:
+10/14 CXR
+FINDINGS/
+IMPRESSION:
+1. Patchy opacity in the peripheral right lower lobe may represent atelectasis, chronic
+parenchymal scarring or focal pneumonia in the proper clinical setting. No pneumothorax.
+No pleural effusion.
+2. Normal heart size. Atherosclerotic tortuosity of the thoracic aorta.
+3. No acute osseous abnormality. There is an IVC filter.
+9/22 CT ABD/PELV
+Again seen is a complex pelvic mass at and slightly to the right of midline, now measuring
+11.4 cm anteroposterior, 10 cm transverse, and 11.5 cm craniocaudal, previously 14.5 X 11.4
+X 11.2 cm when using similar measurement technique. Although there is interval decrease in
+size, this appears to represent decrease in the cystic component, as there is increasing
+mural and septal nodularity and thickening compared to previous imaging. Finding is
+consistent with ovarian neoplasm. Degree of mass effect on the left common iliac vein is
+decreased compared to the prior study.
+IMPRESSION:
+1. Complex cystic and solid mass in the pelvis as detailed above, suspicious for ovarian
+neoplasm. Since previous imaging, the mural/septal nodularity and wall thickening appear
+increased.
+2. Asymmetrically smaller left common and external iliac veins, consistent with sequela of
+prior thrombus. No acute deep vein thrombus is identified.
+ASSESSMENT/PLAN:
+is a 80 y.o. F with a history of essential thrombocytosis, DVT, PE s/p IVC filter,
+B12 deficiency anemia, pelvic mass, admitted 10/23/2023 s/p exlap, R oophrecotmy, LOA,
+omentectomy.
+
+
+Xylophone
+s/p exlap, R oophrecotmy, LOA, omentectomy
+- management per gyn onc
+H/o essential thrombocytosis
+- continue hydroxyurea
+- f/u W Dr. Eisner
+H/o DVT, PE, IVC filter
+- hold AC, AP, NSAID 2/2 post op bleeding concerns
+- pt to f/u W IR as outpatient for IVC filter removal
+B 12 deficiency anemia
+- continue B12
+Glaucoma
+- continue latanoprost
+Hospital Medicine Checklist 10/23/2023
+DVT prophylaxis: scd
+CVC/Foley: Yes
+AM Labs: Yes
+IV fluids: Yes
+Tele: No
+Expected Discharge Date: 3 days
+Provider, External () 10/6/2023 13:43
+Document on 10/6/2023 1:43 PM by
+Progress Notes Last 48hrs (Notes from 10/23/2023 1:59 PM through 10/25/2023
+1:59 PM)
+Notes from 10/23/2023 1:59 PM through 10/25/2023 1:59 PM
+Progress Notes by
+PA-C at 10/25/2023 9:48 AM
+Version 1 of 1
+Author:
+PA-C
+Service: Gynecology Oncology
+Author Type: Physician Assistant
+Filed: 10/25/2023 9:54 AM
+Date of Service: 10/25/2023 9:48 Status: Cosign Needed
+AM
+Editor:
+PA-C (Physician Assistant)
+Cosign Required: Yes
+Gynecologic Oncology Progress Note
+Subjective:
+Surgery Date: 10/23/2023
+POD: 2 Days Post-Op
+Surgery: Procedure(s):
+Exploratory laparotomy, right oopohorectomy, pelvic and paraaortic lymphadenectomy,
+infragastric omentectomy, right ureterolysis, extensive lysis of adhesions
+Interval History:
+
+
+Xylophone
+Patient sitting up in chair, family at bedside. VSS, afebrile. Labs stable, hgb 8.5. JP with
+350cc overnight, SSG output. Voiding spontaneously, adequate UOP. Some nausea this
+morning but relieved with Zofran. Otherwise, tolerating diet. Denies flatus. Pain overall well
+controlled with PO meds. Due to ambulate.
+Objective:
+Scheduled Meds:
+Current Facility-Administered Medications
+Medication
+Dose
+Route
+Frequency
+acetaminophen
+650
+Oral
+4x Daily
+(TYLENOL) tablet mg
+650 mg
+[START ON
+10 mg Rectal
+Once
+10/26/2023]
+bisacodyL
+(DULCOLAX)
+suppository 10 mg
+cyanocobalamin
+1,000
+Oral
+Daily
+tablet 1,000 mcg
+mcg
+famotidine
+20 mg Oral
+BID
+(PEPCID) tablet
+20 mg
+heparin (porcine)
+5,000
+Subcutaneous
+TID
+injection 5,000
+Units
+Units
+hydroxyurea
+500
+Oral
+BID
+(HYDREA)
+mg
+capsule 500 mg
+latanoprost
+1 drop Both Eyes
+QPM
+(XALATAN) 0.005
+% ophthalmic
+solution 1 drop
+pravastatin
+20 mg Oral
+Nightly
+(PRAVACHOL)
+tablet 20 mg
+senna-docusate
+2
+Oral
+BID
+(PERICOLACE)
+tablet
+8.6-50 mg per
+tablet 2 tablet
+Continuous Infusions:
+Current Facility-Administered Medications
+Medication
+Dose
+Route
+Frequency
+Lactated Ringers
+IV Infusion
+Continuous
+Lactated Ringers
+IV Infusion
+Continuous
+PRN Meds: benzocaine- menthol (CEPACOL) sore throat, diphenhydrAMINE,
+diphenhydrAMINE, HYDROmorphone, metoclopramide, ondansetron (PF) **OR**
+ondansetron-ODT, polyvinyl alcohol, prochlorperazine, simethicone, traMADoL
+Allergies: Patient has no known allergies.
+Temperature: [97.8 °F (36.6 °C)-99.1 °F (37.3 °C)] 97.8 °F (36.6 °C)
+
+
+Xylophone
+Heart Rate: [80-84] 84
+Respirations: [16-18] 17
+Blood Pressure: (109-135)((41-55) 125/54
+SpO2: [91 %-98 %] 97 %
+Intake/Output:
+I/O last 3 completed shifts:
+In: 1708.7 [P.O.:840; I.V.:268.7; Blood:600]
+Out: 2250 [Urine:1650 Drains:600]
+Physical Exam:
+General: This woman is in no distress appearing comfortable, she is alert and oriented and
+responds appropriately to questions.
+HEENT: moist mucous membranes, no thrush
+Lungs are clear to auscultation bilaterally with normal chest excursions.
+Cardiovascular examination reveals RRR, without S3 or rub.
+Abdomen is soft, nontender, nondistended without hepatosplenomegaly. She has no
+evidence of hernia, mass or ascites. + BS X 4. JP drain with SSG output
+Extremities are without cyanosis, clubbing or edema.
+Neuro exam is grossly nonfocal.
+Wound Description: midline incision island dressing removed. Staples intact.
+Data Review:
+HEM:
+Recent Labs
+Lab
+10/23/23
+10/24/23
+10/24/23
+10/25/23
+1037
+0438
+1257
+0517
+WBC
+--
+9.0
+10.8*
+9.1
+HGB
+8.8*
+6.4*
+9.0*
+8.5*
+PLT
+--
+117*
+125*
+128*
+Chem:
+Recent Labs
+Lab
+10/24/23
+10/25/23
+0438
+0517
+NA
+138
+142
+K
+4.6
+3.9
+CL
+108*
+108*
+CO2
+25
+27
+BUN
+16
+16
+CREATININE
+0.71
+0.70
+GLUCOSE
+117*
+109*
+CALCIUM
+8.7
+8.0*
+Coagulation:
+Recent Labs
+
+
+Xylophone
+Lab
+10/24/23
+10/24/23
+10/25/23
+0438
+1257
+0517
+PLT
+117*
+125*
+128*
+Tumor Markers:
+CA 125
+Date
+Value
+Ref Range
+Status
+03/31/2023
+35.0
+0.0 - 35.0 Units/mL
+Final
+01/12/2023
+59.0 (H)
+0.0 - 35.0 - Units/mL
+Final
+Last 3 Weights:
+Wt Readings from Last 3 Encounters:
+10/23/23
+59.2 kg (130 lb 8.2 oz)
+10/06/23
+58.1 kg (128 lb)
+09/29/23
+59.4 kg (130 lb 14.4 oz)
+Assessment:
+80 y.o. female POD #2 after Procedure(s):
+Exploratory laparotomy, right oopohorectomy, pelvic and paraaortic lymphadenectomy,
+infragastric omentectomy, right ureterolysis, extensive lysis of adhesions
+Patient Active Problem List
+Diagnosis
+Cellulitis
+Acute deep vein thrombosis (DVT) of femoral vein of left lower extremity (CMS-HCC)
+Acute pulmonary embolism without acute cor pulmonale (CMS-HCC)
+Pelvic mass in female
+Presence of IVC filter RETRIEVABLE
+Preop testing
+Acute blood loss as cause of postoperative anemia
+Essential thrombocytosis (CMS-HCC)
+Plan:
+ONC: Pathology Pending, frozen c/w HGSOC. Will need to be presented at tumor board
+when final path resulted
+GI: regular diet, - flatus. Inpatient nausea protocol. Bowel protocol.
+Pain: controlled with Acetaminophen and Tramadol prn
+GI prophylaxis: Pepcid
+CV: normal heart rate and BP
+Pulm: encourage IS and deep breathing
+GU: Voiding, adequate UOP.
+DVT prophylaxis: SCDs, transition to lovenox starting tomorrow morning. Will need AC
+upon d/c.
+Heme: stable WBC, hgb stable, s/p 1u PRBC on 10/24. No transfusion needs at this time.
+Electrolytes: replete as needed per protocol
+Activity: ambulate several times a day, encourage IS 10x/hr while awake
+
+
+Xylophone
+Disposition: anticipate discharge home possibly 2-3d. PT recommending SAR placement
+upon d/c
+Case discussed with Dr.
+PA-C
+Gynecologic- Oncology
+Progress Notes by
+PA-C at 10/24/2023 7:32 AM
+Version 1 of 1
+Author:
+PA-C
+Service: Gynecology Oncology
+Author Type: Physician Assistant
+Filed: 10/24/2023 10:32 AM
+Date of Service: 10/24/2023 7:32 Status: Cosign Needed
+AM
+Editor:
+PA-C (Physician Assistant)
+Cosign Required: Yes
+Gynecologic Oncology Progress Note
+Subjective:
+Surgery Date: 10/23/2023
+POD: 1 Day Post-Op
+Surgery: Procedure(s):
+Exploratory laparotomy, right oopohorectomy, pelvic and paraaortic lymphadenectomy,
+infragastric omentectomy, right ureterolysis, extensive lysis of adhesions
+Interval History: patient resting in bed. VSS, afebrile. Hgb this AM to 6.4, 1u PRBC ordered.
+States she has been feeling "weak". JP drain with 200cc output overnight. Tolerating
+general diet, ate full breakfast without nausea. Pain well controlled with PO tylenol. Foley
+with 550cc urine output in past 12h, appears yellow this AM. Has not yet ambulated 2/2
+weakness, denies SOB/CP. Denies flatus or BM.
+Objective:
+Scheduled Meds:
+Current Facility-Administered Medications
+Medication
+Dose
+Route
+Frequency
+acetaminophen
+650
+Oral
+4x Daily
+(TYLENOL) tablet mg
+650 mg
+[START ON
+10 mg Rectal
+Once
+10/26/2023]
+bisacodyL
+(DULCOLAX)
+suppository 10 mg
+cyanocobalamin
+1,000
+Oral
+Daily
+tablet 1,000 mcg
+mcg
+
+
+Xylop

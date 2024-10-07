@@ -1,0 +1,186 @@
+Xylophone
+10:45:46a.m.
+6/30/6/30/2023
+[DATE]
+123
+Patient: I
+Printed by:
+MRN:
+Printed on: 6/30/6/30/2023 09:18
+>>>>>>>> PATIENT INFORMATION <<<<<<<<
+Name:
+Sex: Female Date of Birth:
+Age: [AGE] Years MS: Single
+Previous Name:
+Social Security Number:
+Race: Black or African
+American
+Ethnicity: Non-Hispanic or Latino
+Language: English
+Religion: None
+Home Address:
+City/State:
+Zip:
+Alt Address: City/State:
+Zip:
+Home Phone:
+Cell Phone:
+Employer Name: NONE
+Employer Phone:
+Employer Address:
+City/State:
+Zip:
+[NAME] <<<<<<<<
+Name:
+Sex: Female Date of Birth:
+Age: [AGE] Years
+Relationship to Guarantor: Patient
+Social Security Number:
+Billing Address:
+City/State:
+Zip:
+Home Phone:
+Employer Name: NONE
+Employer Phone:
+Employer Address:
+City/State:
+Employment Status: Not Employed
+>>>>>>>> EMERGENCY CONTACT INFORMATION <<<<<<<<
+Name:
+Relationship to Contact:
+Home Address:
+City/State:
+Zip:
+Home Phone:
+Cell Phone:
+PRIMARY INSURED/INSURANCE INFORMATION <<<<<
+Name:
+Sex: Female Date of Birth:
+Age: [AGE] Years
+Relationship to Insured:
+Employer Name: NONE
+Employer Address:
+City/State:
+Employment Status: Not Employed
+Zip:
+Employer Phone:
+Insurance Name: BLUE CROSS COMMUNITY HEALTH PLAN MEDICAID
+Policy Number:
+x
+Phone Number:
+Claim's Address: BLUE CROSS MEDICAID
+Auth. Number:
+Auth. Phone Number:
+PO BOX 3418
+Group Number:
+City/State: [NAME], PA
+Zip: 18505
+>>>>> SECONDARY INSURED/INSURANCE INFORMATION <<<<<
+NO SECONDARY INSURED/INSURANCE INFORMATION
+>>>>>>>> VISIT INFORMATION <<<<<<<<
+Reg Date/Time: 6/30/6/30/2023 01:12
+Patient Type: Behavioral Health Adult
+Inpatient Admit Date/Time: 6/30/6/30/2023 01:23
+OP Assign to Loc Date/Time:
+Admit Type: Elective
+Admit Clerk:
+Admit Source: Xfer from a Hospital
+FIN:
+Admit Diagnosis: EVALUATION
+Estimated Date of Arrival: 6/30/6/30/2023 23:55
+Discharge Date/Time:
+Discharge Disposition:
+Admitting Physician Name:
+Attending Physician Name:
+Referring Physician Name:
+Primary Physician Name:
+Advance Directive:
+Location:
+Room/Bed:
+Medical Service: Psychiatry
+>>>>>>>> ACCIDENT INFORMATION <<<<<<<<
+Accident Date/Time:
+Accident Type:
+
+
+Xylophone
+123
+10:46:14 a.m.
+6/30/6/30/2023
+[DATE]
+
+Xylophone
+123
+10:46:22 a.m.
+6/30/6/30/2023
+[DATE]
+History and Physical
+* Final Report *
+Result Type:
+History and Physical
+Date:
+6/30/6/30/2023 15:45 CDT
+Result Status:
+Auth (Verified)'
+Result Title:
+H&P -M
+FACP.
+Performed By:
+A on 6/30/6/30/2023 15:53 CDT
+Verified By:
+A on 6/30/6/30/2023 15:53 CDT
+Encounter info:
+[NAME], Behavioral Health Adult, 6/30/6/30/2023 -
+* Final Report*
+H&P
+Patient:
+MRN:
+FIN:
+Age: [AGE] years Sex: Female
+DOB:
+Associated Diagnoses: None
+Author:
+Admission Information
+Date of Admission: 6/30/6/30/2023 .
+Subjective:
+Chief Complaint:
+Bipolar, Schizophrenia/Psychotic
+History of Present Illness:
+HISTORY OF PRESENT ILLNESS
+-[AGE] year old HOMELESS AAF admitted for severe psychosis
+-she was found wandering about in the store with trespassing order against her.
+-she was aggressive in the emergency roomand threatening to kill the staff
+-Talking without making any sense. She had flight of ideas and was very tangential.
+-she was noncompliant with the medications.
+--her blood sugar in the emergency roomwas [AGE]0 and she was given 18 units of insulin.
+ASSOCIATED COMPLAINTS:
+--Hallucinations=Denies AH, VH.
+--Very delusional and psychotic.
+--Suicidal ideations=None.
+--Horricidal ideation=None.
+--Appetite-Without any change from baseline.
+-Recent sudden weight change=none.
+-Sleep=POOR
+-Medication compliance at home=As per the report,home medications are not taken as prescribed.
+--Pain=Scale 0/10.
+--Systemic complaint= none
+GU complaints=Denies any dysuria,hematuria,flank pain etc.
+Printed by:
+ of7
+Printed on:
+6/30/6/30/2023 09:19 CDT
+
+Xylophone
+123
+10:46:43 a.m. 6/30/6/30/2023
+[DATE]
+History and Physical
+* Final Report *
+--GI complaints=No alarmsymptoms of hematemesis,melena or weight loss reported.
+--Neurological complaints=Denies any double vision,unusual headache,focal motor or sensory loss,ataxia,paresthesias etc.
+--Endocrine complaints=No heat or cold intolerance or skin changes reported.
+-Pulmonary complaints=No hemoptysis,unusual nocturnal cough or weight loss reported.
+-Dermetologic complaints=No new rash,pruritis or pigmentation reported.
+-Musculoskeletal complaints=No joint SW elling, morning stiffness or decrease in ROM of the joints reported.
+-Renal complaints=No history of any CKD reported.N potyuria,polydipsia,nocturia or incontinence reported.
+-Cardiovascular complaints=Denies any chest pain.,dypnea,orthopnes or PND 
